@@ -1,0 +1,212 @@
+[
+    {
+        "id": "r001",
+        "day": 7,
+        "title": "My Friend",
+        "passage": "My best friend is Amy. She is from Canada. She lives in Tokyo now. Amy is very tall and has long black hair. She likes music and plays the guitar. We often go to the park together on weekends.",
+        "translation": "私の親友はエイミーです。彼女はカナダ出身です。今は東京に住んでいます。エイミーはとても背が高く、長い黒髪をしています。彼女は音楽が好きでギターを弾きます。私たちはよく週末に一緒に公園に行きます。",
+        "questions": [
+            {
+                "question": "Where is Amy from?",
+                "questionJa": "エイミーはどこの出身ですか？",
+                "options": [
+                    "America",
+                    "Canada",
+                    "Australia",
+                    "England"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does Amy like?",
+                "questionJa": "エイミーは何が好きですか？",
+                "options": [
+                    "Sports",
+                    "Music",
+                    "Reading",
+                    "Cooking"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What do they do on weekends?",
+                "questionJa": "彼らは週末何をしますか？",
+                "options": [
+                    "Study",
+                    "Go shopping",
+                    "Go to the park",
+                    "Watch movies"
+                ],
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "id": "r002",
+        "day": 7,
+        "title": "My Daily Routine",
+        "passage": "I wake up at six thirty every morning. I eat breakfast with my family at seven. Then I go to school by bike. School starts at eight thirty. After school, I usually play soccer with my friends. I go home at five and do my homework. I have dinner at seven and go to bed at ten.",
+        "translation": "私は毎朝6時半に起きます。7時に家族と朝食を食べます。それから自転車で学校に行きます。学校は8時半に始まります。放課後、私は普段友達とサッカーをします。5時に帰宅して宿題をします。7時に夕食を食べて10時に寝ます。",
+        "questions": [
+            {
+                "question": "What time does the speaker wake up?",
+                "questionJa": "話し手は何時に起きますか？",
+                "options": [
+                    "6:00",
+                    "6:30",
+                    "7:00",
+                    "7:30"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How does the speaker go to school?",
+                "questionJa": "話し手はどうやって学校に行きますか？",
+                "options": [
+                    "By bus",
+                    "By bike",
+                    "By car",
+                    "On foot"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does the speaker do after school?",
+                "questionJa": "話し手は放課後何をしますか？",
+                "options": [
+                    "Does homework",
+                    "Plays soccer",
+                    "Watches TV",
+                    "Reads books"
+                ],
+                "answer": 1
+            }
+        ]
+    },
+    {
+        "id": "r003",
+        "day": 8,
+        "title": "A School Trip",
+        "passage": "Last week, we went on a school trip to Kyoto. We visited many temples and saw beautiful gardens. For lunch, we ate delicious udon noodles. In the afternoon, we went shopping for souvenirs. It was a wonderful trip and everyone had a great time.",
+        "translation": "先週、私たちは京都への修学旅行に行きました。たくさんのお寺を訪れ、美しい庭園を見ました。昼食には、おいしいうどんを食べました。午後は、お土産の買い物をしました。素晴らしい旅行で、みんな楽しい時間を過ごしました。",
+        "questions": [
+            {
+                "question": "Where did they go?",
+                "questionJa": "彼らはどこに行きましたか？",
+                "options": [
+                    "Tokyo",
+                    "Osaka",
+                    "Kyoto",
+                    "Nara"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What did they eat for lunch?",
+                "questionJa": "彼らは昼食に何を食べましたか？",
+                "options": [
+                    "Ramen",
+                    "Udon",
+                    "Sushi",
+                    "Tempura"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What did they do in the afternoon?",
+                "questionJa": "彼らは午後何をしましたか？",
+                "options": [
+                    "Visited temples",
+                    "Went shopping",
+                    "Ate lunch",
+                    "Went home"
+                ],
+                "answer": 1
+            }
+        ]
+    },
+    {
+        "id": "r004",
+        "day": 8,
+        "title": "My Hobby",
+        "passage": "I like reading books. My favorite book is 'Harry Potter'. I read it last year. The story is very exciting. I also like to draw pictures. I draw pictures of animals and flowers. My mother puts my pictures on the wall. She says I'm a good artist.",
+        "translation": "私は本を読むのが好きです。私の好きな本は「ハリー・ポッター」です。去年それを読みました。物語はとても面白いです。私は絵を描くことも好きです。動物や花の絵を描きます。母は私の絵を壁に貼ります。彼女は私が良い画家だと言います。",
+        "questions": [
+            {
+                "question": "What is the speaker's favorite book?",
+                "questionJa": "話し手の好きな本は何ですか？",
+                "options": [
+                    "Sherlock Holmes",
+                    "Harry Potter",
+                    "Alice in Wonderland",
+                    "Tom Sawyer"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does the speaker draw?",
+                "questionJa": "話し手は何を描きますか？",
+                "options": [
+                    "People",
+                    "Cars",
+                    "Animals and flowers",
+                    "Buildings"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does the mother do with the pictures?",
+                "questionJa": "母は絵をどうしますか？",
+                "options": [
+                    "Throws them away",
+                    "Puts them on the wall",
+                    "Gives them to friends",
+                    "Sells them"
+                ],
+                "answer": 1
+            }
+        ]
+    },
+    {
+        "id": "r005",
+        "day": 8,
+        "title": "Weekend Plans",
+        "passage": "This Saturday, I'm going to the zoo with my family. We will see many animals like lions, elephants, and pandas. I'm very excited! On Sunday, I will visit my grandmother. She makes delicious cookies. I can't wait for the weekend!",
+        "translation": "今週の土曜日、私は家族と動物園に行く予定です。ライオンや象、パンダなど、たくさんの動物を見ます。とても楽しみです！日曜日は、おばあちゃんを訪ねます。彼女はおいしいクッキーを作ります。週末が待ちきれません！",
+        "questions": [
+            {
+                "question": "Where will they go on Saturday?",
+                "questionJa": "土曜日にどこに行きますか？",
+                "options": [
+                    "The park",
+                    "The zoo",
+                    "The beach",
+                    "The museum"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What animal is NOT mentioned?",
+                "questionJa": "言及されていない動物は何ですか？",
+                "options": [
+                    "Lion",
+                    "Elephant",
+                    "Tiger",
+                    "Panda"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who makes delicious cookies?",
+                "questionJa": "誰がおいしいクッキーを作りますか？",
+                "options": [
+                    "Mother",
+                    "Father",
+                    "Grandmother",
+                    "Sister"
+                ],
+                "answer": 2
+            }
+        ]
+    }
+]

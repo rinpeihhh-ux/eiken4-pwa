@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="#6366f1" name="theme-color"/>
+<title>英検4級 10日間完結</title>
+<link href="manifest.json" rel="manifest"/>
+<link href="icon-192.png" rel="apple-touch-icon"/>
+<link href="styles.css" rel="stylesheet"/>
+<meta content="英検4級" name="apple-mobile-web-app-title"/></head>
+<body>
+<div id="app">
+<!-- Splash Screen -->
+<div class="screen active" id="splash-screen">
+<div class="splash-content">
+<h1 class="splash-title">英検4級</h1>
+<p class="splash-subtitle">10日間完結プログラム</p>
+<div class="loading-spinner"></div>
+</div>
+</div>
+<!-- Home Screen -->
+<div class="screen" id="home-screen">
+<header class="app-header">
+<h1>英検4級 学習プログラム</h1>
+<button aria-label="設定" class="icon-btn" id="settings-btn">
+<svg fill="none" height="24" stroke="currentColor" stroke-width="2" viewbox="0 0 24 24" width="24">
+<circle cx="12" cy="12" r="3"></circle>
+<path d="M12 1v6m0 6v6m0-6h6m-6 0H6"></path>
+</svg>
+</button>
+</header>
+<div class="progress-overview">
+<h2>学習進捗</h2>
+<div class="progress-bar">
+<div class="progress-fill" id="overall-progress"></div>
+</div>
+<p id="progress-text">0% 完了</p>
+</div>
+<div class="quick-actions">
+<button class="action-btn action-btn-review" id="review-mode-btn">
+<span class="action-icon">📝</span>
+<div class="action-info">
+<span class="action-title">復習モード</span>
+<span class="action-subtitle" id="review-count">0問</span>
+</div>
+</button>
+<button class="action-btn action-btn-stats" id="statistics-btn">
+<span class="action-icon">📊</span>
+<div class="action-info">
+<span class="action-title">学習統計</span>
+<span class="action-subtitle">見る</span>
+</div>
+</button>
+</div>
+<div class="day-grid" id="day-grid">
+<!-- Day cards will be generated here -->
+</div>
+</div>
+<!-- Day Detail Screen -->
+<div class="screen" id="day-screen">
+<header class="screen-header">
+<button class="back-btn" id="day-back-btn">← 戻る</button>
+<h2 id="day-title">Day 1</h2>
+</header>
+<div class="day-content">
+<div class="day-description" id="day-description"></div>
+<div class="section-list" id="section-list">
+<!-- Sections will be generated here -->
+</div>
+</div>
+</div>
+<!-- Vocabulary Screen -->
+<div class="screen" id="vocabulary-screen">
+<header class="screen-header">
+<button class="back-btn" id="vocab-back-btn">← 戻る</button>
+<h2>単語学習</h2>
+<span class="progress-indicator" id="vocab-progress">0/30</span>
+</header>
+<div class="quiz-content" id="vocab-content">
+<!-- Vocabulary quiz will be rendered here -->
+</div>
+</div>
+<!-- Grammar Screen -->
+<div class="screen" id="grammar-screen">
+<header class="screen-header">
+<button class="back-btn" id="grammar-back-btn">← 戻る</button>
+<h2>文法学習</h2>
+<span class="progress-indicator" id="grammar-progress">0/10</span>
+</header>
+<div class="quiz-content" id="grammar-content">
+<!-- Grammar quiz will be rendered here -->
+</div>
+</div>
+<!-- Listening Screen -->
+<div class="screen" id="listening-screen">
+<header class="screen-header">
+<button class="back-btn" id="listening-back-btn">← 戻る</button>
+<h2>リスニング</h2>
+<span class="progress-indicator" id="listening-progress">0/5</span>
+</header>
+<div class="quiz-content" id="listening-content">
+<!-- Listening quiz will be rendered here -->
+</div>
+</div>
+<!-- Reading Screen -->
+<div class="screen" id="reading-screen">
+<header class="screen-header">
+<button class="back-btn" id="reading-back-btn">← 戻る</button>
+<h2>読解</h2>
+<span class="progress-indicator" id="reading-progress">0/3</span>
+</header>
+<div class="quiz-content" id="reading-content">
+<!-- Reading quiz will be rendered here -->
+</div>
+</div>
+<!-- Mock Exam Screen -->
+<div class="screen" id="exam-screen">
+<header class="screen-header">
+<button class="back-btn" id="exam-back-btn">← 戻る</button>
+<h2>模擬試験</h2>
+<span class="timer" id="exam-timer">45:00</span>
+</header>
+<div class="exam-content" id="exam-content">
+<!-- Exam will be rendered here -->
+</div>
+</div>
+<!-- Result Screen -->
+<div class="screen" id="result-screen">
+<div class="result-content">
+<h2>結果</h2>
+<div id="result-details">
+<!-- Results will be rendered here -->
+</div>
+<button class="primary-btn" id="result-continue-btn">続ける</button>
+</div>
+</div>
+<!-- Settings Screen -->
+<div class="screen" id="settings-screen">
+<header class="screen-header">
+<button class="back-btn" id="settings-back-btn">← 戻る</button>
+<h2>設定</h2>
+</header>
+<div class="settings-content">
+<div class="setting-item">
+<label for="audio-speed">音声速度</label>
+<select id="audio-speed">
+<option value="0.75">遅い (0.75x)</option>
+<option selected="" value="1.0">標準 (1.0x)</option>
+</select>
+</div>
+<div class="setting-item">
+<label for="font-size">フォントサイズ</label>
+<select id="font-size">
+<option selected="" value="normal">標準</option>
+<option value="large">大きい</option>
+</select>
+</div>
+<div class="setting-item">
+<button class="danger-btn" id="reset-data-btn">すべてのデータをリセット</button>
+</div>
+<div class="setting-item">
+<h3>使い方</h3>
+<p>1. Day 1から順番に学習を進めます</p>
+<p>2. 各Dayには単語・文法・リスニング・読解が含まれます</p>
+<p>3. すべて完了すると次のDayに進めます</p>
+<p>4. Day 10で模擬試験に挑戦できます</p>
+</div>
+</div>
+</div>
+<!-- Review Mode Screen -->
+<div class="screen" id="review-screen">
+<header class="screen-header">
+<button class="back-btn" id="review-back-btn">← 戻る</button>
+<h2>復習モード</h2>
+<span class="progress-indicator" id="review-progress">0/0</span>
+</header>
+<div class="quiz-content" id="review-content">
+<!-- Review quiz will be rendered here -->
+</div>
+</div>
+<!-- Statistics Screen -->
+<div class="screen" id="statistics-screen">
+<header class="screen-header">
+<button class="back-btn" id="statistics-back-btn">← 戻る</button>
+<h2>学習統計</h2>
+</header>
+<div class="statistics-content" id="statistics-content">
+<!-- Statistics will be rendered here -->
+</div>
+</div>
+</div>
+<!-- Scripts -->
+<script src="utils/storage.js"></script>
+<script src="utils/audio.js"></script>
+<script src="modules/vocabulary.js"></script>
+<script src="modules/grammar.js"></script>
+<script src="modules/listening.js"></script>
+<script src="modules/reading.js"></script>
+<script src="modules/mock-exam.js"></script>
+<script src="modules/review.js"></script>
+<script src="modules/statistics.js"></script>
+<script src="app.js"></script>
+<script>
+        // Register service worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(reg => console.log('Service Worker registered'))
+                    .catch(err => console.log('Service Worker registration failed'));
+            });
+        }
+    </script>
+</body>
+</html>

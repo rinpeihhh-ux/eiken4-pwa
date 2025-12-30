@@ -1,0 +1,172 @@
+[
+    {
+        "day": 1,
+        "title": "基礎単語① + be動詞",
+        "description": "名詞を中心とした基礎単語とbe動詞の使い方を学習します",
+        "sections": [
+            {
+                "id": "vocabulary",
+                "name": "単語学習",
+                "description": "30個の基礎名詞"
+            },
+            {
+                "id": "grammar",
+                "name": "文法",
+                "description": "be動詞の使い方"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "title": "基礎単語② + 一般動詞（現在）",
+        "description": "動詞を中心とした基礎単語と一般動詞の現在形を学習します",
+        "sections": [
+            {
+                "id": "vocabulary",
+                "name": "単語学習",
+                "description": "30個の基礎動詞"
+            },
+            {
+                "id": "grammar",
+                "name": "文法",
+                "description": "一般動詞（現在形）"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "title": "基礎単語③ + 一般動詞（過去）",
+        "description": "形容詞・副詞と一般動詞の過去形を学習します",
+        "sections": [
+            {
+                "id": "vocabulary",
+                "name": "単語学習",
+                "description": "30個の形容詞・副詞"
+            },
+            {
+                "id": "grammar",
+                "name": "文法",
+                "description": "一般動詞（過去形）"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "title": "基礎単語④ + 助動詞",
+        "description": "熟語と助動詞can/willを学習します",
+        "sections": [
+            {
+                "id": "vocabulary",
+                "name": "単語学習",
+                "description": "30個の重要熟語"
+            },
+            {
+                "id": "grammar",
+                "name": "文法",
+                "description": "助動詞 can / will"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "title": "文法総まとめ① + リスニング①",
+        "description": "疑問文・否定文とリスニングの基礎を学習します",
+        "sections": [
+            {
+                "id": "grammar",
+                "name": "文法",
+                "description": "疑問文・否定文"
+            },
+            {
+                "id": "listening",
+                "name": "リスニング",
+                "description": "短文聞き取り 5問"
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "title": "文法総まとめ② + リスニング②",
+        "description": "代名詞・比較と会話形式のリスニングを学習します",
+        "sections": [
+            {
+                "id": "grammar",
+                "name": "文法",
+                "description": "代名詞・比較"
+            },
+            {
+                "id": "listening",
+                "name": "リスニング",
+                "description": "会話形式 5問"
+            }
+        ]
+    },
+    {
+        "day": 7,
+        "title": "読解① + 単語復習",
+        "description": "短文読解と単語の復習テストを行います",
+        "sections": [
+            {
+                "id": "reading",
+                "name": "読解",
+                "description": "短文読解 3問"
+            },
+            {
+                "id": "vocabulary",
+                "name": "単語復習",
+                "description": "復習テスト 30問"
+            }
+        ]
+    },
+    {
+        "day": 8,
+        "title": "読解② + リスニング③",
+        "description": "会話文読解とリスニングの応用問題を学習します",
+        "sections": [
+            {
+                "id": "reading",
+                "name": "読解",
+                "description": "会話文読解 3問"
+            },
+            {
+                "id": "listening",
+                "name": "リスニング",
+                "description": "応用問題 5問"
+            }
+        ]
+    },
+    {
+        "day": 9,
+        "title": "総復習",
+        "description": "これまでの学習内容を総合的に復習します",
+        "sections": [
+            {
+                "id": "vocabulary",
+                "name": "単語",
+                "description": "総復習 40問"
+            },
+            {
+                "id": "grammar",
+                "name": "文法",
+                "description": "総復習 20問"
+            },
+            {
+                "id": "listening",
+                "name": "リスニング",
+                "description": "総復習 10問"
+            }
+        ]
+    },
+    {
+        "day": 10,
+        "title": "模擬試験",
+        "description": "本番形式の模擬試験で総仕上げを行います",
+        "sections": [
+            {
+                "id": "exam",
+                "name": "模擬試験",
+                "description": "英検4級形式・制限時間45分"
+            }
+        ]
+    }
+]

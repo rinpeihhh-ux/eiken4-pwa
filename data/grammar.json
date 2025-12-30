@@ -1,0 +1,652 @@
+[
+    {
+        "id": 1,
+        "day": 1,
+        "question": "I ( ) a student.",
+        "options": [
+            "am",
+            "is",
+            "are",
+            "be"
+        ],
+        "answer": 0,
+        "explanation": "主語が'I'の時、be動詞は'am'を使います。"
+    },
+    {
+        "id": 2,
+        "day": 1,
+        "question": "She ( ) my sister.",
+        "options": [
+            "am",
+            "is",
+            "are",
+            "be"
+        ],
+        "answer": 1,
+        "explanation": "主語が'She'（三人称単数）の時、be動詞は'is'を使います。"
+    },
+    {
+        "id": 3,
+        "day": 1,
+        "question": "They ( ) happy.",
+        "options": [
+            "am",
+            "is",
+            "are",
+            "be"
+        ],
+        "answer": 2,
+        "explanation": "主語が'They'（複数）の時、be動詞は'are'を使います。"
+    },
+    {
+        "id": 4,
+        "day": 1,
+        "question": "This ( ) my book.",
+        "options": [
+            "am",
+            "is",
+            "are",
+            "be"
+        ],
+        "answer": 1,
+        "explanation": "主語が'This'（単数）の時、be動詞は'is'を使います。"
+    },
+    {
+        "id": 5,
+        "day": 1,
+        "question": "We ( ) friends.",
+        "options": [
+            "am",
+            "is",
+            "are",
+            "be"
+        ],
+        "answer": 2,
+        "explanation": "主語が'We'（複数）の時、be動詞は'are'を使います。"
+    },
+    {
+        "id": 6,
+        "day": 2,
+        "question": "I ( ) soccer every day.",
+        "options": [
+            "play",
+            "plays",
+            "played",
+            "playing"
+        ],
+        "answer": 0,
+        "explanation": "主語が'I'の時、一般動詞は原形を使います。"
+    },
+    {
+        "id": 7,
+        "day": 2,
+        "question": "She ( ) English.",
+        "options": [
+            "study",
+            "studies",
+            "studied",
+            "studying"
+        ],
+        "answer": 1,
+        "explanation": "主語が三人称単数の時、動詞に's'をつけます。"
+    },
+    {
+        "id": 8,
+        "day": 2,
+        "question": "They ( ) books.",
+        "options": [
+            "read",
+            "reads",
+            "reading",
+            "readed"
+        ],
+        "answer": 0,
+        "explanation": "主語が複数の時、一般動詞は原形を使います。"
+    },
+    {
+        "id": 9,
+        "day": 2,
+        "question": "He ( ) TV every night.",
+        "options": [
+            "watch",
+            "watches",
+            "watched",
+            "watching"
+        ],
+        "answer": 1,
+        "explanation": "主語が三人称単数で、動詞がchで終わる時は'es'をつけます。"
+    },
+    {
+        "id": 10,
+        "day": 2,
+        "question": "We ( ) music.",
+        "options": [
+            "like",
+            "likes",
+            "liked",
+            "liking"
+        ],
+        "answer": 0,
+        "explanation": "主語が'We'（複数）の時、一般動詞は原形を使います。"
+    },
+    {
+        "id": 11,
+        "day": 3,
+        "question": "I ( ) to school yesterday.",
+        "options": [
+            "go",
+            "goes",
+            "went",
+            "going"
+        ],
+        "answer": 2,
+        "explanation": "'yesterday'があるので過去形です。'go'の過去形は'went'です。"
+    },
+    {
+        "id": 12,
+        "day": 3,
+        "question": "She ( ) a book last night.",
+        "options": [
+            "read",
+            "reads",
+            "readed",
+            "reading"
+        ],
+        "answer": 0,
+        "explanation": "'last night'があるので過去形です。'read'の過去形は同じ'read'です（発音は異なります）。"
+    },
+    {
+        "id": 13,
+        "day": 3,
+        "question": "They ( ) soccer yesterday.",
+        "options": [
+            "play",
+            "plays",
+            "played",
+            "playing"
+        ],
+        "answer": 2,
+        "explanation": "規則動詞の過去形は'ed'をつけます。"
+    },
+    {
+        "id": 14,
+        "day": 3,
+        "question": "He ( ) TV last Sunday.",
+        "options": [
+            "watch",
+            "watches",
+            "watched",
+            "watching"
+        ],
+        "answer": 2,
+        "explanation": "規則動詞の過去形は'ed'をつけます。"
+    },
+    {
+        "id": 15,
+        "day": 3,
+        "question": "I ( ) breakfast this morning.",
+        "options": [
+            "eat",
+            "eats",
+            "ate",
+            "eating"
+        ],
+        "answer": 2,
+        "explanation": "'this morning'があるので過去形です。'eat'の過去形は'ate'です。"
+    },
+    {
+        "id": "g016",
+        "day": 4,
+        "question": "I ___ swim very well.",
+        "options": [
+            "can",
+            "are",
+            "is",
+            "do"
+        ],
+        "answer": 0,
+        "explanation": "助動詞canは「〜できる」という能力を表します。"
+    },
+    {
+        "id": "g017",
+        "day": 4,
+        "question": "She ___ play the piano.",
+        "options": [
+            "will",
+            "does",
+            "am",
+            "are"
+        ],
+        "answer": 0,
+        "explanation": "助動詞willは未来や意志を表します。"
+    },
+    {
+        "id": "g018",
+        "day": 4,
+        "question": "___ you help me?",
+        "options": [
+            "Can",
+            "Is",
+            "Are",
+            "Do"
+        ],
+        "answer": 0,
+        "explanation": "Can you...?で「〜してもらえますか？」という依頼になります。"
+    },
+    {
+        "id": "g019",
+        "day": 4,
+        "question": "He ___ come tomorrow.",
+        "options": [
+            "will",
+            "can",
+            "is",
+            "does"
+        ],
+        "answer": 0,
+        "explanation": "will + 動詞の原形で未来を表します。"
+    },
+    {
+        "id": "g020",
+        "day": 4,
+        "question": "I ___ speak English.",
+        "options": [
+            "can",
+            "will",
+            "am",
+            "do"
+        ],
+        "answer": 0,
+        "explanation": "canは能力「〜できる」を表す助動詞です。"
+    },
+    {
+        "id": "g021",
+        "day": 5,
+        "question": "___ you like coffee?",
+        "options": [
+            "Do",
+            "Are",
+            "Is",
+            "Can"
+        ],
+        "answer": 0,
+        "explanation": "Do you...?で一般動詞の疑問文を作ります。"
+    },
+    {
+        "id": "g022",
+        "day": 5,
+        "question": "___ he a student?",
+        "options": [
+            "Is",
+            "Does",
+            "Do",
+            "Are"
+        ],
+        "answer": 0,
+        "explanation": "Is he...?でbe動詞の疑問文を作ります。"
+    },
+    {
+        "id": "g023",
+        "day": 5,
+        "question": "She ___ not like fish.",
+        "options": [
+            "does",
+            "is",
+            "do",
+            "are"
+        ],
+        "answer": 0,
+        "explanation": "does notで三人称単数の否定文を作ります。"
+    },
+    {
+        "id": "g024",
+        "day": 5,
+        "question": "___ they students?",
+        "options": [
+            "Are",
+            "Is",
+            "Do",
+            "Does"
+        ],
+        "answer": 0,
+        "explanation": "Are they...?で複数の疑問文を作ります。"
+    },
+    {
+        "id": "g025",
+        "day": 5,
+        "question": "I ___ not a teacher.",
+        "options": [
+            "am",
+            "is",
+            "do",
+            "does"
+        ],
+        "answer": 0,
+        "explanation": "I am notで否定文を作ります。"
+    },
+    {
+        "id": "g026",
+        "day": 6,
+        "question": "This is ___ book.",
+        "options": [
+            "my",
+            "I",
+            "me",
+            "mine"
+        ],
+        "answer": 0,
+        "explanation": "所有格myは「私の」という意味です。"
+    },
+    {
+        "id": "g027",
+        "day": 6,
+        "question": "She is taller than ___.",
+        "options": [
+            "me",
+            "I",
+            "my",
+            "mine"
+        ],
+        "answer": 0,
+        "explanation": "thanの後は目的格meを使います。"
+    },
+    {
+        "id": "g028",
+        "day": 6,
+        "question": "This book is ___.",
+        "options": [
+            "mine",
+            "my",
+            "I",
+            "me"
+        ],
+        "answer": 0,
+        "explanation": "所有代名詞mineは「私のもの」という意味です。"
+    },
+    {
+        "id": "g029",
+        "day": 6,
+        "question": "He is ___ than his brother.",
+        "options": [
+            "taller",
+            "tall",
+            "tallest",
+            "the tall"
+        ],
+        "answer": 0,
+        "explanation": "比較級は-erをつけて作ります。"
+    },
+    {
+        "id": "g030",
+        "day": 6,
+        "question": "___ car is red.",
+        "options": [
+            "Her",
+            "She",
+            "Hers",
+            "She's"
+        ],
+        "answer": 0,
+        "explanation": "所有格Herは「彼女の」という意味です。"
+    },
+    {
+        "id": "g031",
+        "day": 7,
+        "question": "I like ___ apples.",
+        "options": [
+            "eating",
+            "eat",
+            "to eating",
+            "eats"
+        ],
+        "answer": 0,
+        "explanation": "like + 動名詞で「〜することが好き」という意味になります。"
+    },
+    {
+        "id": "g032",
+        "day": 7,
+        "question": "She wants ___ a doctor.",
+        "options": [
+            "to be",
+            "be",
+            "being",
+            "is"
+        ],
+        "answer": 0,
+        "explanation": "want to + 動詞の原形で「〜したい」という意味です。"
+    },
+    {
+        "id": "g033",
+        "day": 7,
+        "question": "I enjoy ___ music.",
+        "options": [
+            "listening to",
+            "listen to",
+            "to listen",
+            "listened"
+        ],
+        "answer": 0,
+        "explanation": "enjoy + 動名詞で「〜するのを楽しむ」という意味です。"
+    },
+    {
+        "id": "g034",
+        "day": 7,
+        "question": "He needs ___ help.",
+        "options": [
+            "to get",
+            "get",
+            "getting",
+            "gets"
+        ],
+        "answer": 0,
+        "explanation": "need to + 動詞の原形で「〜する必要がある」という意味です。"
+    },
+    {
+        "id": "g035",
+        "day": 7,
+        "question": "They finished ___ their homework.",
+        "options": [
+            "doing",
+            "do",
+            "to do",
+            "does"
+        ],
+        "answer": 0,
+        "explanation": "finish + 動名詞で「〜し終える」という意味です。"
+    },
+    {
+        "id": "g036",
+        "day": 8,
+        "question": "There ___ a book on the desk.",
+        "options": [
+            "is",
+            "are",
+            "am",
+            "be"
+        ],
+        "answer": 0,
+        "explanation": "There is + 単数名詞で「〜があります」という意味です。"
+    },
+    {
+        "id": "g037",
+        "day": 8,
+        "question": "There ___ many people in the park.",
+        "options": [
+            "are",
+            "is",
+            "am",
+            "be"
+        ],
+        "answer": 0,
+        "explanation": "There are + 複数名詞で「〜があります」という意味です。"
+    },
+    {
+        "id": "g038",
+        "day": 8,
+        "question": "___ there a pen here?",
+        "options": [
+            "Is",
+            "Are",
+            "Am",
+            "Be"
+        ],
+        "answer": 0,
+        "explanation": "Is there...?で「〜がありますか？」という疑問文になります。"
+    },
+    {
+        "id": "g039",
+        "day": 8,
+        "question": "There ___ any milk in the fridge.",
+        "options": [
+            "isn't",
+            "aren't",
+            "is",
+            "are"
+        ],
+        "answer": 0,
+        "explanation": "There isn't anyで「〜がありません」という否定文です。"
+    },
+    {
+        "id": "g040",
+        "day": 8,
+        "question": "___ there any questions?",
+        "options": [
+            "Are",
+            "Is",
+            "Am",
+            "Be"
+        ],
+        "answer": 0,
+        "explanation": "Are there...?で複数の疑問文を作ります。"
+    },
+    {
+        "id": "g041",
+        "day": 9,
+        "question": "I have ___ this book.",
+        "options": [
+            "read",
+            "reading",
+            "to read",
+            "reads"
+        ],
+        "answer": 0,
+        "explanation": "現在完了形はhave/has + 過去分詞です。"
+    },
+    {
+        "id": "g042",
+        "day": 9,
+        "question": "She has ___ to Tokyo.",
+        "options": [
+            "been",
+            "went",
+            "go",
+            "going"
+        ],
+        "answer": 0,
+        "explanation": "have been toで「〜に行ったことがある」という経験を表します。"
+    },
+    {
+        "id": "g043",
+        "day": 9,
+        "question": "They have ___ their homework.",
+        "options": [
+            "finished",
+            "finish",
+            "finishing",
+            "finishes"
+        ],
+        "answer": 0,
+        "explanation": "have + 過去分詞で完了を表します。"
+    },
+    {
+        "id": "g044",
+        "day": 9,
+        "question": "Have you ___ this movie?",
+        "options": [
+            "seen",
+            "see",
+            "saw",
+            "seeing"
+        ],
+        "answer": 0,
+        "explanation": "Have you...?で現在完了の疑問文を作ります。"
+    },
+    {
+        "id": "g045",
+        "day": 9,
+        "question": "He has not ___ yet.",
+        "options": [
+            "arrived",
+            "arrive",
+            "arrives",
+            "arriving"
+        ],
+        "answer": 0,
+        "explanation": "has not + 過去分詞で否定の現在完了形です。"
+    },
+    {
+        "id": "g046",
+        "day": 10,
+        "question": "If it ___ tomorrow, I will stay home.",
+        "options": [
+            "rains",
+            "rain",
+            "will rain",
+            "rained"
+        ],
+        "answer": 0,
+        "explanation": "if節の中では現在形を使います。"
+    },
+    {
+        "id": "g047",
+        "day": 10,
+        "question": "I will call you when I ___ there.",
+        "options": [
+            "arrive",
+            "will arrive",
+            "arrived",
+            "arrives"
+        ],
+        "answer": 0,
+        "explanation": "when節の中では現在形で未来を表します。"
+    },
+    {
+        "id": "g048",
+        "day": 10,
+        "question": "She said that she ___ tired.",
+        "options": [
+            "was",
+            "is",
+            "were",
+            "am"
+        ],
+        "answer": 0,
+        "explanation": "時制の一致で過去形wasを使います。"
+    },
+    {
+        "id": "g049",
+        "day": 10,
+        "question": "I don't know where he ___.",
+        "options": [
+            "lives",
+            "live",
+            "lived",
+            "living"
+        ],
+        "answer": 0,
+        "explanation": "間接疑問文では主語+動詞の語順になります。"
+    },
+    {
+        "id": "g050",
+        "day": 10,
+        "question": "Do you know what time it ___?",
+        "options": [
+            "is",
+            "was",
+            "are",
+            "be"
+        ],
+        "answer": 0,
+        "explanation": "間接疑問文では平叙文の語順を使います。"
+    }
+]

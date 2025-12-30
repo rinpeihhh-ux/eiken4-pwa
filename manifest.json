@@ -1,0 +1,25 @@
+{
+  "name": "英検4級 10日間完結",
+  "short_name": "英検4級",
+  "description": "10日間で英検4級の学習を完結させるアプリ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#6366f1",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "./"
+}
