@@ -71,8 +71,11 @@ const StorageManager = {
 
     // Update a specific day's section
     updateDaySection(dayNum, section, completed = true, score = null) {
-        const progress = this.getProgress();
+        // Ensure progress object exists (Safari/PWA can occasionally return null)
+        const progress = this.getProgress() || this.initProgress();
         const dayKey = `day${dayNum}`;
+
+        try {
 
         if (progress.days[dayKey]) {
             progress.days[dayKey].sections[section] = completed;
@@ -103,6 +106,9 @@ const StorageManager = {
             progress.overallProgress = (completedDays / 10) * 100;
 
             this.saveProgress(progress);
+        }
+        } catch (error) {
+            console.error('Error updating progress:', error);
         }
     },
 

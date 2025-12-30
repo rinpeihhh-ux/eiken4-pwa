@@ -1,21 +1,21 @@
-const CACHE_NAME = 'eiken4-v1';
+const CACHE_NAME = 'eiken4-v2';
 const urlsToCache = [
-    './',
-    'index.html',
-    'styles.css',
-    'app.js',
-    'utils/storage.js',
-    'utils/audio.js',
-    'modules/vocabulary.js',
-    'modules/grammar.js',
-    'modules/listening.js',
-    'modules/reading.js',
-    'modules/mock-exam.js',
-    'data/curriculum.json',
-    'data/vocabulary.json',
-    'data/grammar.json',
-    'data/listening.json',
-    'data/reading.json'
+    '/',
+    '/index.html',
+    '/styles.css',
+    '/app.js',
+    '/utils/storage.js',
+    '/utils/audio.js',
+    '/modules/vocabulary.js',
+    '/modules/grammar.js',
+    '/modules/listening.js',
+    '/modules/reading.js',
+    '/modules/mock-exam.js',
+    '/data/curriculum.json',
+    '/data/vocabulary.json',
+    '/data/grammar.json',
+    '/data/listening.json',
+    '/data/reading.json'
 ];
 
 // Install event - cache all resources
