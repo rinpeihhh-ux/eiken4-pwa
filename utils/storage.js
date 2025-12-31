@@ -6,7 +6,9 @@ const StorageManager = {
         PROGRESS: 'eiken4_progress',
         SETTINGS: 'eiken4_settings',
         EXAM_RESULTS: 'eiken4_exam_results',
-        WRONG_ANSWERS: 'eiken4_wrong_answers'
+        WRONG_ANSWERS: 'eiken4_wrong_answers',
+        REF_WORDS_MEM: 'eiken4_ref_words_mem',
+        REF_PHRASES_MEM: 'eiken4_ref_phrases_mem'
     },
 
     // Curriculum reference (set by app.js)
@@ -192,11 +194,54 @@ const StorageManager = {
             localStorage.removeItem(this.KEYS.SETTINGS);
             localStorage.removeItem(this.KEYS.EXAM_RESULTS);
             localStorage.removeItem(this.KEYS.WRONG_ANSWERS);
+            localStorage.removeItem(this.KEYS.REF_WORDS_MEM);
+            localStorage.removeItem(this.KEYS.REF_PHRASES_MEM);
             return true;
         } catch (error) {
             console.error('Error resetting data:', error);
             return false;
         }
+    },
+
+    // ------------------------------
+    // Reference memorized helpers
+    // ------------------------------
+    getReferenceMemorizedMap(type) {
+        const key = type === 'phrases' ? this.KEYS.REF_PHRASES_MEM : this.KEYS.REF_WORDS_MEM;
+        try {
+            const raw = localStorage.getItem(key);
+            const obj = raw ? JSON.parse(raw) : {};
+            return (obj && typeof obj === 'object') ? obj : {};
+        } catch (e) {
+            console.error('Error reading reference memorized map:', e);
+            return {};
+        }
+    },
+
+    setReferenceMemorizedMap(type, mapObj) {
+        const key = type === 'phrases' ? this.KEYS.REF_PHRASES_MEM : this.KEYS.REF_WORDS_MEM;
+        try {
+            localStorage.setItem(key, JSON.stringify(mapObj || {}));
+            return true;
+        } catch (e) {
+            console.error('Error saving reference memorized map:', e);
+            return false;
+        }
+    },
+
+    setReferenceMemorized(type, itemKey, isMemorized) {
+        const map = this.getReferenceMemorizedMap(type);
+        if (isMemorized) {
+            map[itemKey] = true;
+        } else {
+            delete map[itemKey];
+        }
+        return this.setReferenceMemorizedMap(type, map);
+    },
+
+    isReferenceMemorized(type, itemKey) {
+        const map = this.getReferenceMemorizedMap(type);
+        return !!map[itemKey];
     },
 
     // Get wrong answers

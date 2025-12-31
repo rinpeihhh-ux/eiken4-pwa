@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#6366f1">
@@ -272,6 +272,13 @@
             </header>
 
             <div class="reference-toolbar">
+                <div class="mem-toolbar">
+                    <label class="mem-toggle">
+                        <input type="checkbox" id="freq-words-hide-memorized">
+                        <span>記憶済みを非表示</span>
+                    </label>
+                    <div class="mem-count" id="freq-words-mem-count">記憶済み 0/0</div>
+                </div>
                 <input type="text" id="freq-words-search" class="search-input" placeholder="検索（例：go / 行く）">
                 <select id="freq-words-category" class="select-input">
                     <option value="all">すべて</option>
@@ -291,6 +298,13 @@
             </header>
 
             <div class="reference-toolbar">
+                <div class="mem-toolbar">
+                    <label class="mem-toggle">
+                        <input type="checkbox" id="freq-phrases-hide-memorized">
+                        <span>記憶済みを非表示</span>
+                    </label>
+                    <div class="mem-count" id="freq-phrases-mem-count">記憶済み 0/0</div>
+                </div>
                 <input type="text" id="freq-phrases-search" class="search-input" placeholder="検索（例：look for / 探す）">
                 <select id="freq-phrases-category" class="select-input">
                     <option value="all">すべて</option>
