@@ -1,4 +1,4 @@
-const CACHE_NAME = 'eiken4-v2';
+const CACHE_NAME = 'eiken4-v3';
 const urlsToCache = [
     '/',
     '/index.html',
@@ -11,9 +11,14 @@ const urlsToCache = [
     '/modules/listening.js',
     '/modules/reading.js',
     '/modules/mock-exam.js',
+    '/modules/prestudy.js',
+    '/modules/reference.js',
     '/data/curriculum.json',
     '/data/vocabulary.json',
     '/data/grammar.json',
+    '/data/prestudy.json',
+    '/data/frequent_words.json',
+    '/data/frequent_phrases.json',
     '/data/listening.json',
     '/data/reading.json'
 ];

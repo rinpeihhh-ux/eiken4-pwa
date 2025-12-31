@@ -1,0 +1,1291 @@
+{
+  "items": [
+    {
+      "category": "基本動詞",
+      "word": "go",
+      "meaning": "行く",
+      "example": {
+        "en": "I go to school.",
+        "ja": "私は学校へ行きます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "come",
+      "meaning": "来る",
+      "example": {
+        "en": "Come here.",
+        "ja": "ここに来て。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "get",
+      "meaning": "得る／手に入れる",
+      "example": {
+        "en": "I got a new bag.",
+        "ja": "私は新しいかばんを手に入れました。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "make",
+      "meaning": "作る",
+      "example": {
+        "en": "I make breakfast.",
+        "ja": "私は朝ごはんを作ります。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "do",
+      "meaning": "する",
+      "example": {
+        "en": "I do my homework.",
+        "ja": "私は宿題をします。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "have",
+      "meaning": "持っている",
+      "example": {
+        "en": "I have a dog.",
+        "ja": "私は犬を飼っています。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "take",
+      "meaning": "取る／連れて行く",
+      "example": {
+        "en": "I take a bus.",
+        "ja": "私はバスに乗ります。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "give",
+      "meaning": "あげる",
+      "example": {
+        "en": "I gave him a pen.",
+        "ja": "私は彼にペンをあげました。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "see",
+      "meaning": "見る",
+      "example": {
+        "en": "I see a bird.",
+        "ja": "私は鳥を見ます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "look",
+      "meaning": "見る",
+      "example": {
+        "en": "Look at the sky.",
+        "ja": "空を見て。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "watch",
+      "meaning": "（動いているものを）見る",
+      "example": {
+        "en": "I watch TV.",
+        "ja": "私はテレビを見ます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "listen",
+      "meaning": "聞く",
+      "example": {
+        "en": "Listen to music.",
+        "ja": "音楽を聞きます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "hear",
+      "meaning": "聞こえる",
+      "example": {
+        "en": "I hear a noise.",
+        "ja": "音が聞こえます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "read",
+      "meaning": "読む",
+      "example": {
+        "en": "I read books.",
+        "ja": "私は本を読みます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "write",
+      "meaning": "書く",
+      "example": {
+        "en": "I write a letter.",
+        "ja": "私は手紙を書きます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "speak",
+      "meaning": "話す",
+      "example": {
+        "en": "She speaks English.",
+        "ja": "彼女は英語を話します。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "say",
+      "meaning": "言う",
+      "example": {
+        "en": "He said 'Hello'.",
+        "ja": "彼は「こんにちは」と言いました。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "tell",
+      "meaning": "伝える",
+      "example": {
+        "en": "Tell me your name.",
+        "ja": "あなたの名前を教えて。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "know",
+      "meaning": "知っている",
+      "example": {
+        "en": "I know him.",
+        "ja": "私は彼を知っています。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "think",
+      "meaning": "思う",
+      "example": {
+        "en": "I think it's good.",
+        "ja": "私はそれが良いと思います。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "like",
+      "meaning": "好き",
+      "example": {
+        "en": "I like cats.",
+        "ja": "私は猫が好きです。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "love",
+      "meaning": "大好き",
+      "example": {
+        "en": "I love this song.",
+        "ja": "私はこの歌が大好きです。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "want",
+      "meaning": "ほしい／したい",
+      "example": {
+        "en": "I want a new bike.",
+        "ja": "私は新しい自転車がほしいです。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "need",
+      "meaning": "必要",
+      "example": {
+        "en": "I need help.",
+        "ja": "私は助けが必要です。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "use",
+      "meaning": "使う",
+      "example": {
+        "en": "I use this pen.",
+        "ja": "私はこのペンを使います。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "buy",
+      "meaning": "買う",
+      "example": {
+        "en": "I buy milk.",
+        "ja": "私は牛乳を買います。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "eat",
+      "meaning": "食べる",
+      "example": {
+        "en": "We eat lunch.",
+        "ja": "私たちは昼ごはんを食べます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "drink",
+      "meaning": "飲む",
+      "example": {
+        "en": "I drink water.",
+        "ja": "私は水を飲みます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "cook",
+      "meaning": "料理する",
+      "example": {
+        "en": "She cooks dinner.",
+        "ja": "彼女は夕食を作ります。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "play",
+      "meaning": "遊ぶ／する",
+      "example": {
+        "en": "They play soccer.",
+        "ja": "彼らはサッカーをします。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "study",
+      "meaning": "勉強する",
+      "example": {
+        "en": "I study English.",
+        "ja": "私は英語を勉強します。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "learn",
+      "meaning": "学ぶ",
+      "example": {
+        "en": "I learn new words.",
+        "ja": "私は新しい単語を学びます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "teach",
+      "meaning": "教える",
+      "example": {
+        "en": "He teaches math.",
+        "ja": "彼は数学を教えます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "help",
+      "meaning": "助ける",
+      "example": {
+        "en": "Please help me.",
+        "ja": "助けてください。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "work",
+      "meaning": "働く",
+      "example": {
+        "en": "My father works hard.",
+        "ja": "父は一生懸命働きます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "sleep",
+      "meaning": "寝る",
+      "example": {
+        "en": "I sleep early.",
+        "ja": "私は早く寝ます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "wake",
+      "meaning": "起きる",
+      "example": {
+        "en": "I wake up at six.",
+        "ja": "私は6時に起きます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "run",
+      "meaning": "走る",
+      "example": {
+        "en": "He runs fast.",
+        "ja": "彼は速く走ります。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "walk",
+      "meaning": "歩く",
+      "example": {
+        "en": "We walk to the park.",
+        "ja": "私たちは公園まで歩きます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "sit",
+      "meaning": "座る",
+      "example": {
+        "en": "Sit down.",
+        "ja": "座ってください。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "stand",
+      "meaning": "立つ",
+      "example": {
+        "en": "Stand up.",
+        "ja": "立ってください。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "open",
+      "meaning": "開ける",
+      "example": {
+        "en": "Open the window.",
+        "ja": "窓を開けて。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "close",
+      "meaning": "閉める",
+      "example": {
+        "en": "Close the door.",
+        "ja": "ドアを閉めて。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "start",
+      "meaning": "始める",
+      "example": {
+        "en": "Let's start.",
+        "ja": "始めましょう。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "finish",
+      "meaning": "終える",
+      "example": {
+        "en": "I finished my work.",
+        "ja": "私は仕事を終えました。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "live",
+      "meaning": "住む",
+      "example": {
+        "en": "I live in Tokyo.",
+        "ja": "私は東京に住んでいます。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "stay",
+      "meaning": "滞在する／いる",
+      "example": {
+        "en": "I stayed home.",
+        "ja": "私は家にいました。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "visit",
+      "meaning": "訪れる",
+      "example": {
+        "en": "We visited Kyoto.",
+        "ja": "私たちは京都を訪れました。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "travel",
+      "meaning": "旅行する",
+      "example": {
+        "en": "I travel by train.",
+        "ja": "私は電車で旅行します。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "meet",
+      "meaning": "会う",
+      "example": {
+        "en": "I meet my friend.",
+        "ja": "私は友だちに会います。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "call",
+      "meaning": "電話する／呼ぶ",
+      "example": {
+        "en": "Call me tonight.",
+        "ja": "今夜電話して。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "ask",
+      "meaning": "たずねる",
+      "example": {
+        "en": "I asked a question.",
+        "ja": "私は質問をしました。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "answer",
+      "meaning": "答える",
+      "example": {
+        "en": "Answer the question.",
+        "ja": "質問に答えて。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "wait",
+      "meaning": "待つ",
+      "example": {
+        "en": "Wait a moment.",
+        "ja": "少し待って。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "try",
+      "meaning": "試す",
+      "example": {
+        "en": "Try again.",
+        "ja": "もう一度やってみて。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "show",
+      "meaning": "見せる",
+      "example": {
+        "en": "Show me your notebook.",
+        "ja": "ノートを見せて。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "bring",
+      "meaning": "持ってくる",
+      "example": {
+        "en": "Bring your book.",
+        "ja": "本を持ってきて。"
+      }
+    },
+    {
+      "category": "基本動詞",
+      "word": "carry",
+      "meaning": "運ぶ",
+      "example": {
+        "en": "I carry a bag.",
+        "ja": "私はかばんを運びます。"
+      }
+    },
+    {
+      "category": "家族",
+      "word": "family",
+      "meaning": "家族",
+      "example": {
+        "en": "My family is big.",
+        "ja": "私の家族は大きいです。"
+      }
+    },
+    {
+      "category": "家族",
+      "word": "father",
+      "meaning": "父",
+      "example": {
+        "en": "My father is kind.",
+        "ja": "父はやさしいです。"
+      }
+    },
+    {
+      "category": "家族",
+      "word": "mother",
+      "meaning": "母",
+      "example": {
+        "en": "My mother cooks well.",
+        "ja": "母は料理が上手です。"
+      }
+    },
+    {
+      "category": "家族",
+      "word": "brother",
+      "meaning": "兄／弟",
+      "example": {
+        "en": "I have a brother.",
+        "ja": "私は兄（弟）がいます。"
+      }
+    },
+    {
+      "category": "家族",
+      "word": "sister",
+      "meaning": "姉／妹",
+      "example": {
+        "en": "She has two sisters.",
+        "ja": "彼女には姉妹が2人います。"
+      }
+    },
+    {
+      "category": "家族",
+      "word": "friend",
+      "meaning": "友だち",
+      "example": {
+        "en": "He is my friend.",
+        "ja": "彼は私の友だちです。"
+      }
+    },
+    {
+      "category": "学校",
+      "word": "student",
+      "meaning": "学生",
+      "example": {
+        "en": "I am a student.",
+        "ja": "私は学生です。"
+      }
+    },
+    {
+      "category": "学校",
+      "word": "teacher",
+      "meaning": "先生",
+      "example": {
+        "en": "Our teacher is nice.",
+        "ja": "私たちの先生は親切です。"
+      }
+    },
+    {
+      "category": "学校",
+      "word": "school",
+      "meaning": "学校",
+      "example": {
+        "en": "I go to school.",
+        "ja": "私は学校へ行きます。"
+      }
+    },
+    {
+      "category": "学校",
+      "word": "class",
+      "meaning": "クラス／授業",
+      "example": {
+        "en": "We have English class.",
+        "ja": "私たちは英語の授業があります。"
+      }
+    },
+    {
+      "category": "学校",
+      "word": "homework",
+      "meaning": "宿題",
+      "example": {
+        "en": "I did my homework.",
+        "ja": "私は宿題をしました。"
+      }
+    },
+    {
+      "category": "学校",
+      "word": "test",
+      "meaning": "テスト",
+      "example": {
+        "en": "We have a test today.",
+        "ja": "今日はテストがあります。"
+      }
+    },
+    {
+      "category": "もの",
+      "word": "book",
+      "meaning": "本",
+      "example": {
+        "en": "This book is interesting.",
+        "ja": "この本はおもしろいです。"
+      }
+    },
+    {
+      "category": "もの",
+      "word": "notebook",
+      "meaning": "ノート",
+      "example": {
+        "en": "I write in my notebook.",
+        "ja": "私はノートに書きます。"
+      }
+    },
+    {
+      "category": "もの",
+      "word": "pen",
+      "meaning": "ペン",
+      "example": {
+        "en": "I have a pen.",
+        "ja": "私はペンを持っています。"
+      }
+    },
+    {
+      "category": "もの",
+      "word": "bag",
+      "meaning": "かばん",
+      "example": {
+        "en": "My bag is heavy.",
+        "ja": "私のかばんは重いです。"
+      }
+    },
+    {
+      "category": "もの",
+      "word": "desk",
+      "meaning": "机",
+      "example": {
+        "en": "The desk is clean.",
+        "ja": "机はきれいです。"
+      }
+    },
+    {
+      "category": "もの",
+      "word": "chair",
+      "meaning": "いす",
+      "example": {
+        "en": "Sit on the chair.",
+        "ja": "いすに座って。"
+      }
+    },
+    {
+      "category": "場所",
+      "word": "room",
+      "meaning": "部屋",
+      "example": {
+        "en": "My room is small.",
+        "ja": "私の部屋は小さいです。"
+      }
+    },
+    {
+      "category": "場所",
+      "word": "house",
+      "meaning": "家",
+      "example": {
+        "en": "This house is new.",
+        "ja": "この家は新しいです。"
+      }
+    },
+    {
+      "category": "場所",
+      "word": "park",
+      "meaning": "公園",
+      "example": {
+        "en": "We play in the park.",
+        "ja": "私たちは公園で遊びます。"
+      }
+    },
+    {
+      "category": "場所",
+      "word": "library",
+      "meaning": "図書館",
+      "example": {
+        "en": "I study in the library.",
+        "ja": "私は図書館で勉強します。"
+      }
+    },
+    {
+      "category": "場所",
+      "word": "store",
+      "meaning": "店",
+      "example": {
+        "en": "I went to the store.",
+        "ja": "私は店へ行きました。"
+      }
+    },
+    {
+      "category": "場所",
+      "word": "station",
+      "meaning": "駅",
+      "example": {
+        "en": "Meet me at the station.",
+        "ja": "駅で会いましょう。"
+      }
+    },
+    {
+      "category": "場所",
+      "word": "hospital",
+      "meaning": "病院",
+      "example": {
+        "en": "He is in the hospital.",
+        "ja": "彼は病院にいます。"
+      }
+    },
+    {
+      "category": "場所",
+      "word": "city",
+      "meaning": "市",
+      "example": {
+        "en": "This city is busy.",
+        "ja": "この街はにぎやかです。"
+      }
+    },
+    {
+      "category": "場所",
+      "word": "country",
+      "meaning": "国",
+      "example": {
+        "en": "I love my country.",
+        "ja": "私は自分の国が好きです。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "day",
+      "meaning": "日",
+      "example": {
+        "en": "It was a good day.",
+        "ja": "良い日でした。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "today",
+      "meaning": "今日",
+      "example": {
+        "en": "Today is sunny.",
+        "ja": "今日は晴れです。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "tomorrow",
+      "meaning": "明日",
+      "example": {
+        "en": "I'll go tomorrow.",
+        "ja": "明日行きます。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "yesterday",
+      "meaning": "昨日",
+      "example": {
+        "en": "I studied yesterday.",
+        "ja": "私は昨日勉強しました。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "morning",
+      "meaning": "朝",
+      "example": {
+        "en": "I get up in the morning.",
+        "ja": "私は朝起きます。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "afternoon",
+      "meaning": "午後",
+      "example": {
+        "en": "See you this afternoon.",
+        "ja": "今日の午後会いましょう。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "evening",
+      "meaning": "夕方",
+      "example": {
+        "en": "I read in the evening.",
+        "ja": "私は夕方本を読みます。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "night",
+      "meaning": "夜",
+      "example": {
+        "en": "Good night.",
+        "ja": "おやすみ。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "week",
+      "meaning": "週",
+      "example": {
+        "en": "I study every week.",
+        "ja": "私は毎週勉強します。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "month",
+      "meaning": "月",
+      "example": {
+        "en": "This month is busy.",
+        "ja": "今月は忙しいです。"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "year",
+      "meaning": "年",
+      "example": {
+        "en": "Happy New Year!",
+        "ja": "あけましておめでとう！"
+      }
+    },
+    {
+      "category": "時間",
+      "word": "time",
+      "meaning": "時間",
+      "example": {
+        "en": "What time is it?",
+        "ja": "今何時ですか？"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "food",
+      "meaning": "食べ物",
+      "example": {
+        "en": "I like Japanese food.",
+        "ja": "私は日本食が好きです。"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "breakfast",
+      "meaning": "朝食",
+      "example": {
+        "en": "I eat breakfast at seven.",
+        "ja": "私は7時に朝食を食べます。"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "lunch",
+      "meaning": "昼食",
+      "example": {
+        "en": "We have lunch at noon.",
+        "ja": "私たちは正午に昼食をとります。"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "dinner",
+      "meaning": "夕食",
+      "example": {
+        "en": "Dinner is ready.",
+        "ja": "夕食の準備ができました。"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "water",
+      "meaning": "水",
+      "example": {
+        "en": "Drink some water.",
+        "ja": "水を飲んで。"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "tea",
+      "meaning": "お茶",
+      "example": {
+        "en": "Would you like tea?",
+        "ja": "お茶はいかがですか？"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "milk",
+      "meaning": "牛乳",
+      "example": {
+        "en": "I bought milk.",
+        "ja": "私は牛乳を買いました。"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "bread",
+      "meaning": "パン",
+      "example": {
+        "en": "I ate bread.",
+        "ja": "私はパンを食べました。"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "rice",
+      "meaning": "ごはん",
+      "example": {
+        "en": "I eat rice.",
+        "ja": "私はごはんを食べます。"
+      }
+    },
+    {
+      "category": "食べ物",
+      "word": "apple",
+      "meaning": "りんご",
+      "example": {
+        "en": "An apple a day.",
+        "ja": "りんごを毎日。"
+      }
+    },
+    {
+      "category": "動物",
+      "word": "dog",
+      "meaning": "犬",
+      "example": {
+        "en": "My dog is cute.",
+        "ja": "私の犬はかわいいです。"
+      }
+    },
+    {
+      "category": "動物",
+      "word": "cat",
+      "meaning": "猫",
+      "example": {
+        "en": "The cat is sleeping.",
+        "ja": "猫が寝ています。"
+      }
+    },
+    {
+      "category": "動物",
+      "word": "bird",
+      "meaning": "鳥",
+      "example": {
+        "en": "I saw a bird.",
+        "ja": "鳥を見ました。"
+      }
+    },
+    {
+      "category": "動物",
+      "word": "fish",
+      "meaning": "魚",
+      "example": {
+        "en": "I can cook fish.",
+        "ja": "私は魚を料理できます。"
+      }
+    },
+    {
+      "category": "もの",
+      "word": "schoolbag",
+      "meaning": "通学かばん",
+      "example": {
+        "en": "My schoolbag is new.",
+        "ja": "私の通学かばんは新しいです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "good",
+      "meaning": "よい",
+      "example": {
+        "en": "This is a good idea.",
+        "ja": "これは良い考えです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "bad",
+      "meaning": "悪い",
+      "example": {
+        "en": "That's a bad habit.",
+        "ja": "それは悪い習慣です。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "new",
+      "meaning": "新しい",
+      "example": {
+        "en": "I have a new phone.",
+        "ja": "私は新しい電話を持っています。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "old",
+      "meaning": "古い",
+      "example": {
+        "en": "This house is old.",
+        "ja": "この家は古いです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "big",
+      "meaning": "大きい",
+      "example": {
+        "en": "It is a big city.",
+        "ja": "それは大きい街です。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "small",
+      "meaning": "小さい",
+      "example": {
+        "en": "My room is small.",
+        "ja": "私の部屋は小さいです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "long",
+      "meaning": "長い",
+      "example": {
+        "en": "This is a long story.",
+        "ja": "これは長い話です。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "short",
+      "meaning": "短い",
+      "example": {
+        "en": "The movie was short.",
+        "ja": "その映画は短かったです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "hot",
+      "meaning": "暑い／熱い",
+      "example": {
+        "en": "It is hot today.",
+        "ja": "今日は暑いです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "cold",
+      "meaning": "寒い／冷たい",
+      "example": {
+        "en": "The water is cold.",
+        "ja": "水は冷たいです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "busy",
+      "meaning": "忙しい",
+      "example": {
+        "en": "I am busy now.",
+        "ja": "私は今忙しいです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "free",
+      "meaning": "ひま",
+      "example": {
+        "en": "I am free tomorrow.",
+        "ja": "私は明日ひまです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "happy",
+      "meaning": "うれしい",
+      "example": {
+        "en": "I am happy.",
+        "ja": "私はうれしいです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "sad",
+      "meaning": "悲しい",
+      "example": {
+        "en": "He looks sad.",
+        "ja": "彼は悲しそうです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "easy",
+      "meaning": "簡単",
+      "example": {
+        "en": "This question is easy.",
+        "ja": "この問題は簡単です。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "difficult",
+      "meaning": "難しい",
+      "example": {
+        "en": "English is difficult.",
+        "ja": "英語は難しいです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "fast",
+      "meaning": "速い",
+      "example": {
+        "en": "He runs fast.",
+        "ja": "彼は速く走ります。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "slow",
+      "meaning": "遅い",
+      "example": {
+        "en": "This train is slow.",
+        "ja": "この電車は遅いです。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "early",
+      "meaning": "早い",
+      "example": {
+        "en": "I get up early.",
+        "ja": "私は早く起きます。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "late",
+      "meaning": "遅い（時間）",
+      "example": {
+        "en": "Don't be late.",
+        "ja": "遅れないで。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "hungry",
+      "meaning": "おなかがすいた",
+      "example": {
+        "en": "I'm hungry.",
+        "ja": "おなかがすきました。"
+      }
+    },
+    {
+      "category": "形容詞",
+      "word": "thirsty",
+      "meaning": "のどがかわいた",
+      "example": {
+        "en": "I'm thirsty.",
+        "ja": "のどがかわきました。"
+      }
+    },
+    {
+      "category": "よく出る語",
+      "word": "because",
+      "meaning": "〜なので",
+      "example": {
+        "en": "I stayed home because it rained.",
+        "ja": "雨だったので家にいました。"
+      }
+    },
+    {
+      "category": "よく出る語",
+      "word": "and",
+      "meaning": "そして",
+      "example": {
+        "en": "I like tea and coffee.",
+        "ja": "私は紅茶とコーヒーが好きです。"
+      }
+    },
+    {
+      "category": "よく出る語",
+      "word": "but",
+      "meaning": "しかし",
+      "example": {
+        "en": "I like tea, but I don't like coffee.",
+        "ja": "紅茶は好きですが、コーヒーは好きではありません。"
+      }
+    },
+    {
+      "category": "よく出る語",
+      "word": "or",
+      "meaning": "または",
+      "example": {
+        "en": "Tea or coffee?",
+        "ja": "紅茶かコーヒー？"
+      }
+    },
+    {
+      "category": "よく出る語",
+      "word": "sometimes",
+      "meaning": "ときどき",
+      "example": {
+        "en": "I sometimes play tennis.",
+        "ja": "私はときどきテニスをします。"
+      }
+    },
+    {
+      "category": "よく出る語",
+      "word": "always",
+      "meaning": "いつも",
+      "example": {
+        "en": "He always smiles.",
+        "ja": "彼はいつも笑います。"
+      }
+    },
+    {
+      "category": "よく出る語",
+      "word": "often",
+      "meaning": "よく",
+      "example": {
+        "en": "I often read books.",
+        "ja": "私はよく本を読みます。"
+      }
+    },
+    {
+      "category": "よく出る語",
+      "word": "usually",
+      "meaning": "たいてい",
+      "example": {
+        "en": "She usually walks.",
+        "ja": "彼女はたいてい歩きます。"
+      }
+    },
+    {
+      "category": "よく出る語",
+      "word": "never",
+      "meaning": "決して〜ない",
+      "example": {
+        "en": "I never smoke.",
+        "ja": "私は決してタバコを吸いません。"
+      }
+    }
+  ]
+}

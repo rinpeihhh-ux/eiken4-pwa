@@ -111,6 +111,42 @@ const app = {
             StatisticsModule.init();
         });
 
+        // Pre-study and reference buttons
+        document.getElementById('prestudy-btn').addEventListener('click', () => {
+            this.showScreen('prestudy-screen');
+            PreStudyModule.init();
+        });
+
+        document.getElementById('freq-words-btn').addEventListener('click', () => {
+            this.showScreen('freq-words-screen');
+            ReferenceModule.init('words');
+        });
+
+        document.getElementById('freq-phrases-btn').addEventListener('click', () => {
+            this.showScreen('freq-phrases-screen');
+            ReferenceModule.init('phrases');
+        });
+
+        document.getElementById('prestudy-back-btn').addEventListener('click', () => {
+            this.showScreen('home-screen');
+            this.renderHome();
+        });
+
+        document.getElementById('freq-words-back-btn').addEventListener('click', () => {
+            this.showScreen('home-screen');
+        });
+
+        document.getElementById('freq-phrases-back-btn').addEventListener('click', () => {
+            this.showScreen('home-screen');
+        });
+
+        document.getElementById('prestudy-complete-btn').addEventListener('click', () => {
+            StorageManager.setPreStudyCompleted(true);
+            this.progress = StorageManager.getProgress();
+            this.showScreen('home-screen');
+            this.renderHome();
+        });
+
         document.getElementById('review-back-btn').addEventListener('click', () => {
             this.showScreen('home-screen');
             this.renderHome();
@@ -160,7 +196,23 @@ const app = {
             reviewCountEl.textContent = `${wrongAnswersStats.total}問`;
         }
 
-        // Render day cards
+                // Update pre-study status
+        const prestudyStatusEl = document.getElementById('prestudy-status');
+        const prestudySubtitleEl = document.getElementById('prestudy-subtitle');
+        if (prestudyStatusEl) {
+            if (this.progress.preStudyCompleted) {
+                prestudyStatusEl.textContent = '事前学習：完了（Day1を開始できます）';
+                prestudyStatusEl.classList.add('done');
+            } else {
+                prestudyStatusEl.textContent = '事前学習：未完了（Day1はロックされます）';
+                prestudyStatusEl.classList.remove('done');
+            }
+        }
+        if (prestudySubtitleEl) {
+            prestudySubtitleEl.textContent = this.progress.preStudyCompleted ? '完了済み' : 'Day1を始める前に';
+        }
+
+// Render day cards
         const dayGrid = document.getElementById('day-grid');
         dayGrid.innerHTML = '';
 
@@ -169,7 +221,7 @@ const app = {
             const dayProgress = this.progress.days[dayKey];
             const isCompleted = dayProgress.completed;
             // Day is locked if it's not Day 1 AND the previous day is not completed
-            const isLocked = day.day > 1 && !this.progress.days[`day${day.day - 1}`].completed;
+            const isLocked = (day.day === 1 && !this.progress.preStudyCompleted) || (day.day > 1 && !this.progress.days[`day${day.day - 1}`].completed);
 
             const card = document.createElement('div');
             card.className = `day-card ${isCompleted ? 'completed' : ''} ${isLocked ? 'locked' : ''}`;
@@ -178,7 +230,7 @@ const app = {
                 <div class="day-number">Day ${day.day}</div>
                 <div class="day-title">${day.title}</div>
                 <div class="day-status">
-                    ${isCompleted ? '✓ 完了' : isLocked ? '🔒 ロック中' : '開始可能'}
+                    ${isCompleted ? '✓ 完了' : isLocked ? (day.day === 1 ? '🔒 事前学習を完了' : '🔒 ロック中') : '開始可能'}
                 </div>
             `;
 
@@ -195,6 +247,14 @@ const app = {
     loadDay(dayNum) {
         const day = this.curriculum.find(d => d.day === dayNum);
         if (!day) return;
+
+        this.progress = StorageManager.getProgress();
+        if (dayNum === 1 && !this.progress.preStudyCompleted) {
+            alert('Day1を始める前に、まず「事前学習」を完了してください。');
+            this.showScreen('prestudy-screen');
+            PreStudyModule.init();
+            return;
+        }
 
         this.showScreen('day-screen');
 

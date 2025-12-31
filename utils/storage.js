@@ -23,6 +23,7 @@ const StorageManager = {
             const defaultProgress = {
                 days: {},
                 overallProgress: 0,
+                preStudyCompleted: false,
                 lastAccessed: new Date().toISOString()
             };
 
@@ -42,6 +43,11 @@ const StorageManager = {
 
             this.saveProgress(defaultProgress);
             return defaultProgress;
+        }
+        // Migration for older saved data
+        if (progress.preStudyCompleted === undefined) {
+            progress.preStudyCompleted = false;
+            this.saveProgress(progress);
         }
         return progress;
     },
@@ -68,6 +74,16 @@ const StorageManager = {
             return false;
         }
     },
+
+    // Set pre-study completion flag
+    setPreStudyCompleted(isCompleted) {
+        const progress = this.getProgress() || this.initProgress();
+        progress.preStudyCompleted = !!isCompleted;
+        this.saveProgress(progress);
+        return true;
+    },
+
+
 
     // Update a specific day's section
     updateDaySection(dayNum, section, completed = true, score = null) {

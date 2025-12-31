@@ -59,7 +59,36 @@
                         <span class="action-subtitle">見る</span>
                     </div>
                 </button>
+            
+            <div class="prep-section">
+                <h2>事前学習・参照</h2>
+                <div class="prep-actions">
+                    <button id="prestudy-btn" class="action-btn action-btn-prep">
+                        <span class="action-icon">🚀</span>
+                        <div class="action-info">
+                            <span class="action-title">事前学習</span>
+                            <span class="action-subtitle" id="prestudy-subtitle">Day1を始める前に</span>
+                        </div>
+                    </button>
+                    <button id="freq-words-btn" class="action-btn action-btn-prep">
+                        <span class="action-icon">📚</span>
+                        <div class="action-info">
+                            <span class="action-title">頻出単語</span>
+                            <span class="action-subtitle">参照用</span>
+                        </div>
+                    </button>
+                    <button id="freq-phrases-btn" class="action-btn action-btn-prep">
+                        <span class="action-icon">💬</span>
+                        <div class="action-info">
+                            <span class="action-title">頻出熟語</span>
+                            <span class="action-subtitle">参照用</span>
+                        </div>
+                    </button>
+                </div>
+                <p class="prep-status" id="prestudy-status"></p>
             </div>
+
+</div>
 
             <div class="day-grid" id="day-grid">
                 <!-- Day cards will be generated here -->
@@ -221,6 +250,58 @@
         </div>
     </div>
 
+
+        <!-- Pre-study Screen -->
+        <div id="prestudy-screen" class="screen">
+            <header class="screen-header">
+                <button class="back-btn" id="prestudy-back-btn">← 戻る</button>
+                <h2>事前学習</h2>
+                <button class="pill-btn" id="prestudy-complete-btn">完了にする</button>
+            </header>
+
+            <div class="prestudy-content" id="prestudy-content">
+                <!-- Pre-study content will be rendered here -->
+            </div>
+        </div>
+
+        <!-- Frequent Words Screen -->
+        <div id="freq-words-screen" class="screen">
+            <header class="screen-header">
+                <button class="back-btn" id="freq-words-back-btn">← 戻る</button>
+                <h2>頻出単語（参照用）</h2>
+            </header>
+
+            <div class="reference-toolbar">
+                <input type="text" id="freq-words-search" class="search-input" placeholder="検索（例：go / 行く）">
+                <select id="freq-words-category" class="select-input">
+                    <option value="all">すべて</option>
+                </select>
+            </div>
+
+            <div class="reference-content" id="freq-words-content">
+                <!-- Words will be rendered here -->
+            </div>
+        </div>
+
+        <!-- Frequent Phrases Screen -->
+        <div id="freq-phrases-screen" class="screen">
+            <header class="screen-header">
+                <button class="back-btn" id="freq-phrases-back-btn">← 戻る</button>
+                <h2>頻出熟語（参照用）</h2>
+            </header>
+
+            <div class="reference-toolbar">
+                <input type="text" id="freq-phrases-search" class="search-input" placeholder="検索（例：look for / 探す）">
+                <select id="freq-phrases-category" class="select-input">
+                    <option value="all">すべて</option>
+                </select>
+            </div>
+
+            <div class="reference-content" id="freq-phrases-content">
+                <!-- Phrases will be rendered here -->
+            </div>
+        </div>
+
     <!-- Scripts -->
     <script src="utils/storage.js"></script>
     <script src="utils/audio.js"></script>
@@ -228,6 +309,8 @@
     <script src="modules/grammar.js"></script>
     <script src="modules/listening.js"></script>
     <script src="modules/reading.js"></script>
+    <script src="modules/prestudy.js"></script>
+    <script src="modules/reference.js"></script>
     <script src="modules/mock-exam.js"></script>
     <script src="modules/review.js"></script>
     <script src="modules/statistics.js"></script>

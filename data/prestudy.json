@@ -1,0 +1,426 @@
+{
+  "title": "事前学習（英検4級）",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "1) 試験の全体像（ざっくり）",
+      "body": [
+        "英検4級は「筆記（リーディング）」と「リスニング」があります。",
+        "アプリでは、単語・文法・読解・リスニングを10日間で一周できるように作っています。",
+        "最初にこの「事前学習」で、最低限のルール（文法）と解き方のコツを押さえます。"
+      ]
+    },
+    {
+      "id": "howto",
+      "title": "2) 解き方のコツ（短期集中向け）",
+      "body": [
+        "単語：意味を覚えるだけでなく、例文で「使い方」も一緒に覚えます。",
+        "文法：むずかしい説明は避けて「型（かた）」で覚えます。例：Do you ~ ? / I can ~ .",
+        "読解：まずは「だれ・いつ・どこ・何を」だけ拾う意識でOKです。",
+        "リスニング：1回目は全体の意味、2回目は選択肢を見ながらキーワードを拾います。"
+      ]
+    },
+    {
+      "id": "grammar",
+      "title": "3) 文法まとめ（4級で必須）",
+      "grammar_topics": [
+        {
+          "id": "g01",
+          "title": "be動詞（am / is / are）",
+          "explain": "「〜です / 〜にいます」を表す動詞です。主語によって am / is / are が変わります。",
+          "examples": [
+            {
+              "en": "I am a student.",
+              "ja": "私は学生です。"
+            },
+            {
+              "en": "She is in the room.",
+              "ja": "彼女は部屋にいます。"
+            }
+          ],
+          "common_mistakes": [
+            "I is ... としない。I は am。"
+          ]
+        },
+        {
+          "id": "g02",
+          "title": "一般動詞（play / like / go など）",
+          "explain": "「〜する」を表す動詞です。主語が he / she / it のときは、動詞に s がつくことがあります。",
+          "examples": [
+            {
+              "en": "I play soccer.",
+              "ja": "私はサッカーをします。"
+            },
+            {
+              "en": "He plays soccer.",
+              "ja": "彼はサッカーをします。"
+            }
+          ],
+          "common_mistakes": [
+            "He play ... ではなく He plays ..."
+          ]
+        },
+        {
+          "id": "g03",
+          "title": "否定文（not / don't / doesn't）",
+          "explain": "「〜しません」「〜ではありません」を言う形です。be動詞と一般動詞で作り方が違います。",
+          "examples": [
+            {
+              "en": "I am not busy.",
+              "ja": "私は忙しくありません。"
+            },
+            {
+              "en": "She doesn't like coffee.",
+              "ja": "彼女はコーヒーが好きではありません。"
+            }
+          ],
+          "common_mistakes": [
+            "do not と does not を主語で使い分ける。"
+          ]
+        },
+        {
+          "id": "g04",
+          "title": "疑問文（Are you ... ? / Do you ... ?）",
+          "explain": "質問するときの形です。be動詞は先頭に、一般動詞は Do / Does を先頭に置きます。",
+          "examples": [
+            {
+              "en": "Are you happy?",
+              "ja": "あなたは幸せですか？"
+            },
+            {
+              "en": "Do you play tennis?",
+              "ja": "あなたはテニスをしますか？"
+            }
+          ],
+          "common_mistakes": [
+            "Do you are ... と混ぜない。"
+          ]
+        },
+        {
+          "id": "g05",
+          "title": "疑問詞（what / who / where / when / why / how）",
+          "explain": "「何」「だれ」「どこ」などを聞く言葉です。疑問詞＋疑問文の形になります。",
+          "examples": [
+            {
+              "en": "Where do you live?",
+              "ja": "あなたはどこに住んでいますか？"
+            },
+            {
+              "en": "What is this?",
+              "ja": "これは何ですか？"
+            }
+          ],
+          "common_mistakes": [
+            "Where are you live? ではなく Where do you live?"
+          ]
+        },
+        {
+          "id": "g06",
+          "title": "現在形",
+          "explain": "ふだんのこと、いつもすることを表します。",
+          "examples": [
+            {
+              "en": "I get up at 7.",
+              "ja": "私は7時に起きます。"
+            },
+            {
+              "en": "He goes to school by bus.",
+              "ja": "彼はバスで学校へ行きます。"
+            }
+          ],
+          "common_mistakes": [
+            "he/she/it では go → goes など。"
+          ]
+        },
+        {
+          "id": "g07",
+          "title": "過去形",
+          "explain": "昨日など、過去のことを表します。動詞が過去形になります。",
+          "examples": [
+            {
+              "en": "I watched TV yesterday.",
+              "ja": "私は昨日テレビを見ました。"
+            },
+            {
+              "en": "She was tired.",
+              "ja": "彼女は疲れていました。"
+            }
+          ],
+          "common_mistakes": [
+            "be動詞の過去は was / were。"
+          ]
+        },
+        {
+          "id": "g08",
+          "title": "未来（will）",
+          "explain": "これからのことを表します。will + 動詞の原形。",
+          "examples": [
+            {
+              "en": "I will study English.",
+              "ja": "私は英語を勉強します。"
+            },
+            {
+              "en": "It will rain tomorrow.",
+              "ja": "明日雨が降るでしょう。"
+            }
+          ],
+          "common_mistakes": [
+            "will の後は動詞に s や過去形をつけない。"
+          ]
+        },
+        {
+          "id": "g09",
+          "title": "助動詞（can / must / may など）",
+          "explain": "動詞の前に置いて、意味を足します（できる／しなければならない等）。助動詞＋動詞の原形。",
+          "examples": [
+            {
+              "en": "I can swim.",
+              "ja": "私は泳げます。"
+            },
+            {
+              "en": "You must be quiet.",
+              "ja": "静かにしなければなりません。"
+            }
+          ],
+          "common_mistakes": [
+            "can swims のようにしない。can + swim。"
+          ]
+        },
+        {
+          "id": "g10",
+          "title": "命令文（Please ~ / Don't ~）",
+          "explain": "相手にお願い・命令をするときの形です。動詞の原形で始めます。",
+          "examples": [
+            {
+              "en": "Please open the door.",
+              "ja": "ドアを開けてください。"
+            },
+            {
+              "en": "Don't run.",
+              "ja": "走らないで。"
+            }
+          ],
+          "common_mistakes": [
+            "Please to open ... としない。"
+          ]
+        },
+        {
+          "id": "g11",
+          "title": "There is / There are",
+          "explain": "「〜がある／いる」を表します。1つなら is、複数なら are。",
+          "examples": [
+            {
+              "en": "There is a cat.",
+              "ja": "猫が1匹います。"
+            },
+            {
+              "en": "There are two cats.",
+              "ja": "猫が2匹います。"
+            }
+          ],
+          "common_mistakes": [
+            "There are a cat と数を合わせない。"
+          ]
+        },
+        {
+          "id": "g12",
+          "title": "名詞の単数・複数（a / an / -s）",
+          "explain": "1つなら a/an、2つ以上なら名詞に s をつけます（例外あり）。",
+          "examples": [
+            {
+              "en": "a book",
+              "ja": "本が1冊"
+            },
+            {
+              "en": "two books",
+              "ja": "本が2冊"
+            }
+          ],
+          "common_mistakes": [
+            "a books としない。"
+          ]
+        },
+        {
+          "id": "g13",
+          "title": "冠詞（a / an / the）",
+          "explain": "a/an は「ひとつの」、the は「その（特定の）」のイメージです。",
+          "examples": [
+            {
+              "en": "I have a pen.",
+              "ja": "私はペンを1本持っています。"
+            },
+            {
+              "en": "The pen is red.",
+              "ja": "そのペンは赤いです。"
+            }
+          ],
+          "common_mistakes": [
+            "the を何でも付けない。"
+          ]
+        },
+        {
+          "id": "g14",
+          "title": "代名詞（I / me / my など）",
+          "explain": "同じ名詞をくり返さないための言葉です。文の位置で形が変わります。",
+          "examples": [
+            {
+              "en": "I like him.",
+              "ja": "私は彼が好きです。"
+            },
+            {
+              "en": "This is my bag.",
+              "ja": "これは私のかばんです。"
+            }
+          ],
+          "common_mistakes": [
+            "I と me を混ぜない（I は主語、me は目的語）。"
+          ]
+        },
+        {
+          "id": "g15",
+          "title": "前置詞（in / on / at / to / for / with など）",
+          "explain": "「場所・時・方向」などを表します。セットで覚えると楽です。",
+          "examples": [
+            {
+              "en": "in the park",
+              "ja": "公園で"
+            },
+            {
+              "en": "go to school",
+              "ja": "学校へ行く"
+            }
+          ],
+          "common_mistakes": [
+            "go to home としない（ふつう go home）。"
+          ]
+        },
+        {
+          "id": "g16",
+          "title": "進行形（be + ~ing）",
+          "explain": "「今〜している」を表します。be動詞 + 動詞ing。",
+          "examples": [
+            {
+              "en": "I am studying now.",
+              "ja": "私は今勉強しています。"
+            },
+            {
+              "en": "They are playing.",
+              "ja": "彼らは遊んでいます。"
+            }
+          ],
+          "common_mistakes": [
+            "I am study now としない。"
+          ]
+        },
+        {
+          "id": "g17",
+          "title": "形容詞と副詞",
+          "explain": "形容詞は名詞を説明（big dog）。副詞は動詞などを説明（run fast）。",
+          "examples": [
+            {
+              "en": "a big dog",
+              "ja": "大きい犬"
+            },
+            {
+              "en": "He runs fast.",
+              "ja": "彼は速く走ります。"
+            }
+          ],
+          "common_mistakes": [
+            "He runs fastly は基本使わない（fast のまま）。"
+          ]
+        },
+        {
+          "id": "g18",
+          "title": "比較（-er / more / -est / most）",
+          "explain": "2つを比べる（bigger）、いちばん（the biggest）。",
+          "examples": [
+            {
+              "en": "This box is bigger than that one.",
+              "ja": "この箱はあの箱より大きい。"
+            },
+            {
+              "en": "He is the tallest in my class.",
+              "ja": "彼はクラスで一番背が高い。"
+            }
+          ],
+          "common_mistakes": [
+            "than の後は比較する相手。"
+          ]
+        },
+        {
+          "id": "g19",
+          "title": "接続詞（and / but / because / when）",
+          "explain": "文と文をつなぎます。「そして／でも／なぜなら／〜するとき」など。",
+          "examples": [
+            {
+              "en": "I like tea, but I don't like coffee.",
+              "ja": "私は紅茶が好きですがコーヒーは好きではありません。"
+            },
+            {
+              "en": "I stayed home because it was rainy.",
+              "ja": "雨だったので家にいました。"
+            }
+          ],
+          "common_mistakes": [
+            "because の後に理由が来る。"
+          ]
+        },
+        {
+          "id": "g20",
+          "title": "不定詞（to + 動詞）",
+          "explain": "「〜すること／〜するために」を表します。よく使う形だけ覚えればOK。",
+          "examples": [
+            {
+              "en": "I want to play soccer.",
+              "ja": "私はサッカーをしたいです。"
+            },
+            {
+              "en": "I went to the store to buy milk.",
+              "ja": "牛乳を買うために店へ行きました。"
+            }
+          ],
+          "common_mistakes": [
+            "to の後は動詞の原形。"
+          ]
+        },
+        {
+          "id": "g21",
+          "title": "数・量（some / any / many / much）",
+          "explain": "「いくつか／いくつでも／たくさん」など。まずは使い分けをざっくりでOK。",
+          "examples": [
+            {
+              "en": "I have some friends.",
+              "ja": "私には友だちが何人かいます。"
+            },
+            {
+              "en": "Do you have any questions?",
+              "ja": "何か質問はありますか？"
+            }
+          ],
+          "common_mistakes": [
+            "any は疑問文・否定文でよく使う。"
+          ]
+        },
+        {
+          "id": "g22",
+          "title": "頻出の型（Let's / How about / Would you like）",
+          "explain": "会話でよく出る「定番の言い方」です。意味ごと覚えるのがコツです。",
+          "examples": [
+            {
+              "en": "Let's go.",
+              "ja": "行こう。"
+            },
+            {
+              "en": "Would you like some tea?",
+              "ja": "紅茶はいかがですか？"
+            }
+          ],
+          "common_mistakes": [
+            "語順を考えすぎず、そのまま覚える。"
+          ]
+        }
+      ]
+    }
+  ]
+}

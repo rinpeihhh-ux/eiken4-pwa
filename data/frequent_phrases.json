@@ -1,0 +1,688 @@
+{
+  "items": [
+    {
+      "category": "あいさつ",
+      "phrase": "How are you?",
+      "meaning": "元気ですか？",
+      "example": {
+        "en": "How are you? — I'm fine.",
+        "ja": "元気ですか？— 元気です。"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "Nice to meet you.",
+      "meaning": "はじめまして。",
+      "example": {
+        "en": "Nice to meet you. — Nice to meet you, too.",
+        "ja": "はじめまして。— こちらこそ。"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "Good morning.",
+      "meaning": "おはよう。",
+      "example": {
+        "en": "Good morning, everyone.",
+        "ja": "みなさん、おはよう。"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "Good afternoon.",
+      "meaning": "こんにちは（午後）。",
+      "example": {
+        "en": "Good afternoon, Mr. Brown.",
+        "ja": "ブラウンさん、こんにちは。"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "Good evening.",
+      "meaning": "こんばんは。",
+      "example": {
+        "en": "Good evening. How was your day?",
+        "ja": "こんばんは。今日どうだった？"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "Good night.",
+      "meaning": "おやすみ。",
+      "example": {
+        "en": "Good night. See you tomorrow.",
+        "ja": "おやすみ。また明日。"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "See you.",
+      "meaning": "またね。",
+      "example": {
+        "en": "See you later.",
+        "ja": "またあとでね。"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "Thank you.",
+      "meaning": "ありがとう。",
+      "example": {
+        "en": "Thank you for your help.",
+        "ja": "手伝ってくれてありがとう。"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "You're welcome.",
+      "meaning": "どういたしまして。",
+      "example": {
+        "en": "You're welcome.",
+        "ja": "どういたしまして。"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "I'm sorry.",
+      "meaning": "ごめんなさい。",
+      "example": {
+        "en": "I'm sorry I'm late.",
+        "ja": "遅れてごめんなさい。"
+      }
+    },
+    {
+      "category": "あいさつ",
+      "phrase": "Excuse me.",
+      "meaning": "すみません（呼びかけ）。",
+      "example": {
+        "en": "Excuse me. Where is the station?",
+        "ja": "すみません。駅はどこですか？"
+      }
+    },
+    {
+      "category": "教室",
+      "phrase": "May I come in?",
+      "meaning": "入ってもいいですか？",
+      "example": {
+        "en": "May I come in?",
+        "ja": "入ってもいいですか？"
+      }
+    },
+    {
+      "category": "教室",
+      "phrase": "I don't understand.",
+      "meaning": "わかりません。",
+      "example": {
+        "en": "I don't understand this question.",
+        "ja": "この問題がわかりません。"
+      }
+    },
+    {
+      "category": "教室",
+      "phrase": "Please speak slowly.",
+      "meaning": "ゆっくり話してください。",
+      "example": {
+        "en": "Please speak slowly.",
+        "ja": "ゆっくり話してください。"
+      }
+    },
+    {
+      "category": "依頼",
+      "phrase": "Can you help me?",
+      "meaning": "手伝ってくれますか？",
+      "example": {
+        "en": "Can you help me with this?",
+        "ja": "これを手伝ってくれますか？"
+      }
+    },
+    {
+      "category": "依頼",
+      "phrase": "Please tell me.",
+      "meaning": "教えてください。",
+      "example": {
+        "en": "Please tell me your name.",
+        "ja": "あなたの名前を教えてください。"
+      }
+    },
+    {
+      "category": "依頼",
+      "phrase": "Please wait.",
+      "meaning": "待ってください。",
+      "example": {
+        "en": "Please wait a minute.",
+        "ja": "少し待ってください。"
+      }
+    },
+    {
+      "category": "依頼",
+      "phrase": "Please look at this.",
+      "meaning": "これを見てください。",
+      "example": {
+        "en": "Please look at this picture.",
+        "ja": "この絵を見てください。"
+      }
+    },
+    {
+      "category": "買い物",
+      "phrase": "How much is it?",
+      "meaning": "いくらですか？",
+      "example": {
+        "en": "How much is it? — It's 500 yen.",
+        "ja": "いくらですか？— 500円です。"
+      }
+    },
+    {
+      "category": "買い物",
+      "phrase": "I'd like this.",
+      "meaning": "これがほしいです。",
+      "example": {
+        "en": "I'd like this, please.",
+        "ja": "これをください。"
+      }
+    },
+    {
+      "category": "買い物",
+      "phrase": "Do you have ~ ?",
+      "meaning": "〜はありますか？",
+      "example": {
+        "en": "Do you have this in blue?",
+        "ja": "これの青はありますか？"
+      }
+    },
+    {
+      "category": "買い物",
+      "phrase": "I'm just looking.",
+      "meaning": "見ているだけです。",
+      "example": {
+        "en": "I'm just looking, thanks.",
+        "ja": "見ているだけです、ありがとう。"
+      }
+    },
+    {
+      "category": "道案内",
+      "phrase": "Where is ~ ?",
+      "meaning": "〜はどこですか？",
+      "example": {
+        "en": "Where is the restroom?",
+        "ja": "トイレはどこですか？"
+      }
+    },
+    {
+      "category": "道案内",
+      "phrase": "How can I get to ~ ?",
+      "meaning": "〜へはどうやって行けますか？",
+      "example": {
+        "en": "How can I get to the park?",
+        "ja": "公園へはどうやって行けますか？"
+      }
+    },
+    {
+      "category": "道案内",
+      "phrase": "Turn left.",
+      "meaning": "左に曲がって。",
+      "example": {
+        "en": "Turn left at the corner.",
+        "ja": "角で左に曲がって。"
+      }
+    },
+    {
+      "category": "道案内",
+      "phrase": "Turn right.",
+      "meaning": "右に曲がって。",
+      "example": {
+        "en": "Turn right here.",
+        "ja": "ここで右に曲がって。"
+      }
+    },
+    {
+      "category": "道案内",
+      "phrase": "Go straight.",
+      "meaning": "まっすぐ行って。",
+      "example": {
+        "en": "Go straight for two minutes.",
+        "ja": "2分まっすぐ行って。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "What do you mean?",
+      "meaning": "どういう意味ですか？",
+      "example": {
+        "en": "What do you mean by that?",
+        "ja": "それはどういう意味ですか？"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "I think so.",
+      "meaning": "そう思います。",
+      "example": {
+        "en": "I think so, too.",
+        "ja": "私もそう思います。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "I hope so.",
+      "meaning": "そうだといいな。",
+      "example": {
+        "en": "I hope so.",
+        "ja": "そうだといいな。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "That's OK.",
+      "meaning": "大丈夫です。",
+      "example": {
+        "en": "That's OK. Don't worry.",
+        "ja": "大丈夫。心配しないで。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "No problem.",
+      "meaning": "問題ないよ。",
+      "example": {
+        "en": "No problem. I can do it.",
+        "ja": "問題ないよ。できるよ。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "Of course.",
+      "meaning": "もちろん。",
+      "example": {
+        "en": "Of course. Let's go.",
+        "ja": "もちろん。行こう。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "Really?",
+      "meaning": "本当？",
+      "example": {
+        "en": "Really? That's great!",
+        "ja": "本当？すごい！"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "I see.",
+      "meaning": "なるほど。",
+      "example": {
+        "en": "I see. Thank you.",
+        "ja": "なるほど。ありがとう。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "What time is it?",
+      "meaning": "今何時ですか？",
+      "example": {
+        "en": "What time is it now?",
+        "ja": "今何時ですか？"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "It's time to ~",
+      "meaning": "〜する時間です。",
+      "example": {
+        "en": "It's time to go.",
+        "ja": "行く時間です。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "Let's ~",
+      "meaning": "〜しよう。",
+      "example": {
+        "en": "Let's play soccer.",
+        "ja": "サッカーをしよう。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "How about ~ ?",
+      "meaning": "〜はどう？",
+      "example": {
+        "en": "How about pizza?",
+        "ja": "ピザはどう？"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "Would you like ~ ?",
+      "meaning": "〜はいかがですか？",
+      "example": {
+        "en": "Would you like some tea?",
+        "ja": "お茶はいかがですか？"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "I'd like to ~",
+      "meaning": "〜したいです。",
+      "example": {
+        "en": "I'd like to visit Kyoto.",
+        "ja": "京都を訪れたいです。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "I want to ~",
+      "meaning": "〜したい。",
+      "example": {
+        "en": "I want to go home.",
+        "ja": "家に帰りたい。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "I have to ~",
+      "meaning": "〜しなければならない。",
+      "example": {
+        "en": "I have to study today.",
+        "ja": "今日は勉強しなければならない。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "You should ~",
+      "meaning": "〜したほうがいい。",
+      "example": {
+        "en": "You should rest.",
+        "ja": "休んだほうがいいよ。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "Don't worry.",
+      "meaning": "心配しないで。",
+      "example": {
+        "en": "Don't worry. It's OK.",
+        "ja": "心配しないで。大丈夫。"
+      }
+    },
+    {
+      "category": "会話",
+      "phrase": "Be careful.",
+      "meaning": "気をつけて。",
+      "example": {
+        "en": "Be careful on the road.",
+        "ja": "道で気をつけて。"
+      }
+    },
+    {
+      "category": "家",
+      "phrase": "Do you have any ~ ?",
+      "meaning": "何か〜はありますか？",
+      "example": {
+        "en": "Do you have any questions?",
+        "ja": "何か質問はありますか？"
+      }
+    },
+    {
+      "category": "家",
+      "phrase": "I'm hungry.",
+      "meaning": "おなかがすいた。",
+      "example": {
+        "en": "I'm hungry. Let's eat.",
+        "ja": "おなかがすいた。食べよう。"
+      }
+    },
+    {
+      "category": "家",
+      "phrase": "I'm thirsty.",
+      "meaning": "のどがかわいた。",
+      "example": {
+        "en": "I'm thirsty. Can I have water?",
+        "ja": "のどがかわいた。水をもらえますか？"
+      }
+    },
+    {
+      "category": "家",
+      "phrase": "I'm tired.",
+      "meaning": "疲れた。",
+      "example": {
+        "en": "I'm tired. I want to sleep.",
+        "ja": "疲れた。寝たい。"
+      }
+    },
+    {
+      "category": "学校",
+      "phrase": "What's this?",
+      "meaning": "これは何ですか？",
+      "example": {
+        "en": "What's this? — It's a pen.",
+        "ja": "これは何ですか？— ペンです。"
+      }
+    },
+    {
+      "category": "学校",
+      "phrase": "What are these?",
+      "meaning": "これらは何ですか？",
+      "example": {
+        "en": "What are these? — They're books.",
+        "ja": "これらは何ですか？— 本です。"
+      }
+    },
+    {
+      "category": "学校",
+      "phrase": "Can I use this?",
+      "meaning": "これを使っていいですか？",
+      "example": {
+        "en": "Can I use this dictionary?",
+        "ja": "この辞書を使っていいですか？"
+      }
+    },
+    {
+      "category": "学校",
+      "phrase": "Can I borrow ~ ?",
+      "meaning": "〜を借りてもいいですか？",
+      "example": {
+        "en": "Can I borrow your pen?",
+        "ja": "ペンを借りてもいいですか？"
+      }
+    },
+    {
+      "category": "学校",
+      "phrase": "Here you are.",
+      "meaning": "どうぞ。",
+      "example": {
+        "en": "Here you are. — Thank you.",
+        "ja": "どうぞ。— ありがとう。"
+      }
+    },
+    {
+      "category": "学校",
+      "phrase": "Please repeat that.",
+      "meaning": "もう一度言ってください。",
+      "example": {
+        "en": "Please repeat that.",
+        "ja": "もう一度言ってください。"
+      }
+    },
+    {
+      "category": "学校",
+      "phrase": "That's right.",
+      "meaning": "その通り。",
+      "example": {
+        "en": "That's right. Good job!",
+        "ja": "その通り。よくできたね！"
+      }
+    },
+    {
+      "category": "学校",
+      "phrase": "That's wrong.",
+      "meaning": "違います。",
+      "example": {
+        "en": "That's wrong. Try again.",
+        "ja": "違います。もう一度。"
+      }
+    },
+    {
+      "category": "旅行",
+      "phrase": "How long does it take?",
+      "meaning": "どれくらいかかりますか？",
+      "example": {
+        "en": "How long does it take to get there?",
+        "ja": "そこまでどれくらいかかりますか？"
+      }
+    },
+    {
+      "category": "旅行",
+      "phrase": "I'm looking for ~",
+      "meaning": "〜を探しています。",
+      "example": {
+        "en": "I'm looking for the post office.",
+        "ja": "郵便局を探しています。"
+      }
+    },
+    {
+      "category": "旅行",
+      "phrase": "Take a picture.",
+      "meaning": "写真を撮って。",
+      "example": {
+        "en": "Please take a picture of us.",
+        "ja": "私たちの写真を撮ってください。"
+      }
+    },
+    {
+      "category": "旅行",
+      "phrase": "Have a good trip.",
+      "meaning": "よい旅を。",
+      "example": {
+        "en": "Have a good trip!",
+        "ja": "よい旅を！"
+      }
+    },
+    {
+      "category": "天気",
+      "phrase": "It's sunny.",
+      "meaning": "晴れです。",
+      "example": {
+        "en": "It's sunny today.",
+        "ja": "今日は晴れです。"
+      }
+    },
+    {
+      "category": "天気",
+      "phrase": "It's cloudy.",
+      "meaning": "くもりです。",
+      "example": {
+        "en": "It's cloudy now.",
+        "ja": "今くもりです。"
+      }
+    },
+    {
+      "category": "天気",
+      "phrase": "It's rainy.",
+      "meaning": "雨です。",
+      "example": {
+        "en": "It's rainy today.",
+        "ja": "今日は雨です。"
+      }
+    },
+    {
+      "category": "天気",
+      "phrase": "It's windy.",
+      "meaning": "風が強い。",
+      "example": {
+        "en": "It's windy outside.",
+        "ja": "外は風が強いです。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "in front of ~",
+      "meaning": "〜の前に",
+      "example": {
+        "en": "The car is in front of the house.",
+        "ja": "車は家の前にあります。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "next to ~",
+      "meaning": "〜のとなりに",
+      "example": {
+        "en": "Sit next to me.",
+        "ja": "私のとなりに座って。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "far from ~",
+      "meaning": "〜から遠い",
+      "example": {
+        "en": "My house is far from here.",
+        "ja": "私の家はここから遠いです。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "be good at ~",
+      "meaning": "〜が得意",
+      "example": {
+        "en": "He is good at math.",
+        "ja": "彼は数学が得意です。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "be interested in ~",
+      "meaning": "〜に興味がある",
+      "example": {
+        "en": "I am interested in music.",
+        "ja": "私は音楽に興味があります。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "look at ~",
+      "meaning": "〜を見る",
+      "example": {
+        "en": "Look at the map.",
+        "ja": "地図を見て。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "listen to ~",
+      "meaning": "〜を聞く",
+      "example": {
+        "en": "Listen to this song.",
+        "ja": "この歌を聞いて。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "take care of ~",
+      "meaning": "〜の世話をする",
+      "example": {
+        "en": "She takes care of her dog.",
+        "ja": "彼女は犬の世話をします。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "get up",
+      "meaning": "起きる",
+      "example": {
+        "en": "I get up at six.",
+        "ja": "私は6時に起きます。"
+      }
+    },
+    {
+      "category": "頻出",
+      "phrase": "go to bed",
+      "meaning": "寝る",
+      "example": {
+        "en": "I go to bed early.",
+        "ja": "私は早く寝ます。"
+      }
+    }
+  ]
+}
