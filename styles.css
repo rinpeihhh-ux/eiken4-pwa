@@ -1206,6 +1206,13 @@ body {
     font-weight: 600;
 }
 
+
+.ref-pos {
+    font-weight: 500;
+    font-size: 0.9rem;
+    margin-top: 0.15rem;
+}
+
 .ref-example {
     margin-top: var(--spacing-sm);
 }

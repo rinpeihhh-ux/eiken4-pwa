@@ -240,46 +240,70 @@ const ReferenceModule = {
         const html = filtered.map((item, idx) => {
             const num = (item._no ?? (idx + 1));
             const key = this.getItemKey(item);
+            const safeKey = key ? this.escape(key) : '';
             const isMem = key ? StorageManager.isReferenceMemorized(this.type, key) : false;
             const catLabel = this.escape(item.category || '');
 
             if (this.type !== 'phrases') {
-                const supp = this.getWordSupplement(item);
-                return `
-                    <div class="ref-item card flip-card" data-item-key="${this.escape(key)}">
+                const posLabel = this.escape(item.pos || (item?.info?.pos || ''));
+                const suppRows = this.getWordSupplement(item) || [];
+                const suppHtml = suppRows.map(r => `
+                    <div><strong>${this.escape(r.label)}:</strong> ${this.escape(r.value)}</div>
+                `).join('');
+
+return `
+                    <div class="ref-item card flip-card" data-item-key="${safeKey}">
                         <div class="flip-inner">
                             <div class="flip-face flip-front">
                                 <div class="ref-meta">
                                     <div class="ref-num">${num}</div>
                                     <div class="ref-badges">
                                         ${catLabel ? `<span class="ref-tag">${catLabel}</span>` : ''}
+                                        ${posLabel ? `<span class="ref-tag">${posLabel}</span>` : ''}
                                         <label class="mem-check" title="記憶済みにする">
-                                            <input type="checkbox" data-action="toggle-mem" data-item-key="${this.escape(key)}" ${isMem ? 'checked' : ''}>
+                                            <input type="checkbox" data-action="toggle-mem" data-item-key="${safeKey}" ${isMem ? 'checked' : ''}>
                                             <span>記憶</span>
                                         </label>
                                     </div>
                                 </div>
+
                                 <div class="ref-head">
                                     <div class="ref-main">${this.escape(item.word)}</div>
                                     <div class="ref-sub">${this.escape(item.meaning)}</div>
+                                    ${posLabel ? `<div class="ref-sub ref-pos">品詞: ${posLabel}</div>` : ''}
                                 </div>
+
                                 ${item.example ? `
                                 <div class="ref-example">
                                     <div class="ref-example-head">
                                         <div class="muted">例文</div>
-                                        <button class="example-audio-btn" data-action="play-example" data-text="${this.escape(item.example.en)}" type="button">🔊</button>
+                                        <button class="example-audio-btn" data-action="play-example" data-text="${this.escape(item.example.en)}" type="button" title="例文を再生">🔊</button>
                                     </div>
                                     <div class="example-en">${this.escape(item.example.en)}</div>
                                     <div class="example-ja">${this.escape(item.example.ja)}</div>
                                 </div>` : ''}
+
+                                <div class="ref-back-hint">カードをタップすると裏返ります</div>
                             </div>
 
                             <div class="flip-face flip-back">
+                                <div class="ref-meta">
+                                    <div class="ref-num">${num}</div>
+                                    <div class="ref-badges">
+                                        ${catLabel ? `<span class="ref-tag">${catLabel}</span>` : ''}
+                                        <label class="mem-check" title="記憶済みにする">
+                                            <input type="checkbox" data-action="toggle-mem" data-item-key="${safeKey}" ${isMem ? 'checked' : ''}>
+                                            <span>記憶</span>
+                                        </label>
+                                    </div>
+                                </div>
+
                                 <div class="ref-back-title">補足情報</div>
                                 <div class="ref-back-list">
-                                    ${supp.map(r => `<div><strong>${this.escape(r.label)}:</strong> ${this.escape(r.value)}</div>`).join('')}
+                                    ${suppHtml || '<div class="muted">補足情報はありません。</div>'}
                                 </div>
-                                <div class="ref-back-hint">カードをタップすると表↔裏が切り替わります</div>
+
+                                <div class="ref-back-hint">もう一度タップで表に戻ります</div>
                             </div>
                         </div>
                     </div>
@@ -288,13 +312,13 @@ const ReferenceModule = {
 
             // phrases
             return `
-                <div class="ref-item card" data-item-key="${this.escape(key)}">
+                <div class="ref-item card" data-item-key="${safeKey}">
                     <div class="ref-meta">
                         <div class="ref-num">${num}</div>
                         <div class="ref-badges">
                             ${catLabel ? `<span class="ref-tag">${catLabel}</span>` : ''}
                             <label class="mem-check" title="記憶済みにする">
-                                <input type="checkbox" data-action="toggle-mem" data-item-key="${this.escape(key)}" ${isMem ? 'checked' : ''}>
+                                <input type="checkbox" data-action="toggle-mem" data-item-key="${safeKey}" ${isMem ? 'checked' : ''}>
                                 <span>記憶</span>
                             </label>
                         </div>
@@ -302,12 +326,13 @@ const ReferenceModule = {
                     <div class="ref-head">
                         <div class="ref-main">${this.escape(item.phrase)}</div>
                         <div class="ref-sub">${this.escape(item.meaning)}</div>
+                                    ${posLabel ? `<div class="ref-sub ref-pos">品詞: ${posLabel}</div>` : ''}
                     </div>
                     ${item.example ? `
                     <div class="ref-example">
                         <div class="ref-example-head">
                             <div class="muted">例文</div>
-                            <button class="example-audio-btn" data-action="play-example" data-text="${this.escape(item.example.en)}" type="button">🔊</button>
+                            <button class="example-audio-btn" data-action="play-example" data-text="${this.escape(item.example.en)}" type="button" title="例文を再生">🔊</button>
                         </div>
                         <div class="example-en">${this.escape(item.example.en)}</div>
                         <div class="example-ja">${this.escape(item.example.ja)}</div>
@@ -320,7 +345,7 @@ const ReferenceModule = {
     },
 
     getItemKey(item) {
-        const key = this.type === 'words' ? item.word : item.phrase;
+        const key = (this.type === 'phrases') ? item.phrase : item.word;
         return String(key || '').trim();
     },
 
@@ -346,39 +371,18 @@ const ReferenceModule = {
 
     // Provide light-weight supplemental info for the back side of word cards
     getWordSupplement(item) {
-        const word = String(item.word || '').trim();
-        const posFromData = item?.info?.pos ? String(item.info.pos).trim() : '';
-        // Minimal safe POS: if item.info.pos exists, trust it; otherwise derive from category (for non-rank lists)
-        const pos = posFromData || this.derivePos(word, item.category);
-
+        // 裏面には、Excelの列G/H/Iの情報をそのまま表示する（推測で生成しない）
+        const info = item && item.info ? item.info : {};
         const rows = [];
-        // Rank info (if present)
-        if (item?.info?.rank) {
-            rows.push({ label: 'ランク', value: `Rank ${String(item.info.rank)}` });
-        }
 
-        // 表記情報（確実に正しい）
-        if (word) {
-            rows.push({ label: '文字数', value: `${word.length}` });
-            const lower = word.toLowerCase();
-            const upper = word.toUpperCase();
-            if (word !== lower) rows.push({ label: '小文字', value: lower });
-            if (word !== upper) rows.push({ label: '大文字', value: upper });
-        }
+        const inf = (info.inflections !== undefined) ? String(info.inflections).trim() : '';
+        const syn = (info.syn_ant !== undefined) ? String(info.syn_ant).trim() : '';
+        const adv = (info.advice !== undefined) ? String(info.advice).trim() : '';
 
-        // Meaning/category
-        if (pos && pos !== '不明') rows.push({ label: '品詞（確実）', value: pos });
-        if (item.category) rows.push({ label: '区分', value: String(item.category) });
-        if (item.meaning) rows.push({ label: '意味', value: String(item.meaning) });
+        rows.push({ label: '活用変化', value: inf || '-' });
+        rows.push({ label: '類義語・反意語', value: syn || '-' });
+        rows.push({ label: '学習アドバイス/豆知識', value: adv || '-' });
 
-        // Show only what we can keep accurate.
-        // Conjugation hints: show 3rd person singular only, and only when the category clearly indicates a verb.
-        if (pos === '動詞' && word && /^[A-Za-z]+$/.test(word)) {
-            rows.push({ label: '三単現（現在）', value: this.toThirdPerson(word.toLowerCase()) });
-            rows.push({ label: '注意', value: '三単現は「主語が he / she / it / 単数名詞」のときに使います。' });
-        }
-
-        rows.push({ label: '発音', value: '🔊ボタン（例文）で確認できます' });
         return rows;
     },
 

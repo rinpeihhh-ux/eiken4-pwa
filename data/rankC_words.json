@@ -5,27 +5,35 @@
       "word": "arrive",
       "meaning": "到着する",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"arrive\".",
-        "ja": "「arrive」は「到着する」という意味です。"
+        "en": "The bus arrived on time.",
+        "ja": "バスは時間通りに到着しました。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "arrives / arrived / arrived",
+        "syn_ant": "leave(去る)",
+        "advice": "arrive at (場所) で「～に着く」。get to と同じ意味だよ。"
       }
     },
     {
       "_no": 2,
-      "word": "borrow",
-      "meaning": "借りる",
+      "word": "begin",
+      "meaning": "始まる",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"borrow\".",
-        "ja": "「borrow」は「借りる」という意味です。"
+        "en": "The concert begins at six.",
+        "ja": "コンサートは6時に始まります。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "begins / began / begun",
+        "syn_ant": "start",
+        "advice": "活用 begin - began - begun はよく出る！ n を重ねて beginning。"
       }
     },
     {
@@ -33,4157 +41,2609 @@
       "word": "choose",
       "meaning": "選ぶ",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"choose\".",
-        "ja": "「choose」は「選ぶ」という意味です。"
+        "en": "Choose your favorite color.",
+        "ja": "好きな色を選んでください。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "chooses / chose / chosen",
+        "syn_ant": "-",
+        "advice": "過去形は chose (チョウズ)。oが1つ減る変化に注意。"
       }
     },
     {
       "_no": 4,
-      "word": "collect",
-      "meaning": "集める",
+      "word": "grow",
+      "meaning": "育つ・育てる",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"collect\".",
-        "ja": "「collect」は「集める」という意味です。"
+        "en": "I want to grow flowers.",
+        "ja": "花を育てたいです。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "grows / grew / grown",
+        "syn_ant": "-",
+        "advice": "grow up で「大人になる（成長する）」。活用 grew は know-knew と同じ！"
       }
     },
     {
       "_no": 5,
-      "word": "compare",
-      "meaning": "比べる",
+      "word": "hope",
+      "meaning": "～を望む",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"compare\".",
-        "ja": "「compare」は「比べる」という意味です。"
+        "en": "I hope you like it.",
+        "ja": "気に入ってくれるといいな。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "hopes / hoped / hoped",
+        "syn_ant": "wish",
+        "advice": "I hope that ～ の形で「～であればいいな」と前向きな願いに。"
       }
     },
     {
       "_no": 6,
-      "word": "continue",
-      "meaning": "続ける",
+      "word": "hurry",
+      "meaning": "急ぐ",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"continue\".",
-        "ja": "「continue」は「続ける」という意味です。"
+        "en": "Hurry up",
+        "ja": "or you'll be late."
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "急がないと遅れるよ。",
+        "syn_ant": "hurries / hurried / hurried",
+        "advice": "-,yをiに変えてes/edにする(hurries)。名詞で「急ぎ」の意味も。"
       }
     },
     {
       "_no": 7,
-      "word": "cover",
-      "meaning": "覆う",
+      "word": "join",
+      "meaning": "加わる",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"cover\".",
-        "ja": "「cover」は「覆う」という意味です。"
+        "en": "Join the soccer club.",
+        "ja": "サッカー部に入る。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "joins / joined / joined",
+        "syn_ant": "-",
+        "advice": "「（クラブなどに）入部する」という文脈でよく出ます。"
       }
     },
     {
       "_no": 8,
-      "word": "design",
-      "meaning": "設計する",
+      "word": "lose",
+      "meaning": "失う・負ける",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"design\".",
-        "ja": "「design」は「設計する」という意味です。"
+        "en": "I lost my wallet.",
+        "ja": "財布を失くしました。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "loses / lost / lost",
+        "syn_ant": "win(勝つ)",
+        "advice": "過去形 lost は「負けた」と「失くした」の両方の意味があるよ。"
       }
     },
     {
       "_no": 9,
-      "word": "discover",
-      "meaning": "発見する",
+      "word": "win",
+      "meaning": "勝つ",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"discover\".",
-        "ja": "「discover」は「発見する」という意味です。"
+        "en": "We won the game.",
+        "ja": "試合に勝ちました。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "wins / won / won",
+        "syn_ant": "lose",
+        "advice": "不規則変化 won (ワン)。数字の 1 (one) と同じ発音だよ。"
       }
     },
     {
       "_no": 10,
-      "word": "drop",
-      "meaning": "落とす",
+      "word": "move",
+      "meaning": "動く・引っ越す",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"drop\".",
-        "ja": "「drop」は「落とす」という意味です。"
+        "en": "We moved to this city.",
+        "ja": "この町に引っ越してきました。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "moves / moved / moved",
+        "syn_ant": "-",
+        "advice": "「引っ越す」という意味が4級の長文ではよく狙われる！"
       }
     },
     {
       "_no": 11,
-      "word": "earn",
-      "meaning": "稼ぐ",
+      "word": "ride",
+      "meaning": "乗る",
       "category": "よく出る",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"earn\".",
-        "ja": "「earn」は「稼ぐ」という意味です。"
+        "en": "I ride a bike every day.",
+        "ja": "毎日自転車に乗ります。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "rides / rode / ridden",
+        "syn_ant": "get on",
+        "advice": "自転車や馬にまたがって乗るイメージ。"
       }
     },
     {
       "_no": 12,
-      "word": "explain",
-      "meaning": "説明する",
+      "word": "sleepy",
+      "meaning": "眠い",
       "category": "よく出る",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"explain\".",
-        "ja": "「explain」は「説明する」という意味です。"
+        "en": "I'm so sleepy.",
+        "ja": "とても眠いです。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(sleepier/sleepiest)",
+        "syn_ant": "-",
+        "advice": "sleep(眠る)の形容詞。yをiに変えてer。"
       }
     },
     {
       "_no": 13,
-      "word": "follow",
-      "meaning": "従う",
+      "word": "weak",
+      "meaning": "弱い",
       "category": "よく出る",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"follow\".",
-        "ja": "「follow」は「従う」という意味です。"
+        "en": "I feel weak.",
+        "ja": "体がだるい（弱い）。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(weaker/weakest)",
+        "syn_ant": "strong",
+        "advice": "week (週) と発音が同じだけど綴りが違うよ。"
       }
     },
     {
       "_no": 14,
-      "word": "grow",
-      "meaning": "育つ",
+      "word": "useful",
+      "meaning": "役に立つ",
       "category": "よく出る",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"grow\".",
-        "ja": "「grow」は「育つ」という意味です。"
+        "en": "This map is useful.",
+        "ja": "この地図は役に立ちます。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more useful / most)",
+        "syn_ant": "useless",
+        "advice": "use(使う) + ful(満ちている) = 使える・役立つ。"
       }
     },
     {
       "_no": 15,
-      "word": "guide",
-      "meaning": "案内する",
+      "word": "careful",
+      "meaning": "注意深い",
       "category": "よく出る",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"guide\".",
-        "ja": "「guide」は「案内する」という意味です。"
+        "en": "Be careful.",
+        "ja": "気をつけて。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more careful / most)",
+        "syn_ant": "careless",
+        "advice": "「注意して」と声をかける時の定番フレーズ。"
       }
     },
     {
       "_no": 16,
-      "word": "imagine",
-      "meaning": "想像する",
+      "word": "danger",
+      "meaning": "危険",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"imagine\".",
-        "ja": "「imagine」は「想像する」という意味です。"
+        "en": "The sign shows danger.",
+        "ja": "その標識は危険を示している。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / dangers(複)",
+        "advice": "safety,形容詞 dangerous (危険な) の名詞形。"
       }
     },
     {
       "_no": 17,
-      "word": "improve",
-      "meaning": "上達させる",
+      "word": "safety",
+      "meaning": "安全",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"improve\".",
-        "ja": "「improve」は「上達させる」という意味です。"
+        "en": "Think about safety first.",
+        "ja": "まず安全を考えよう。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / safeties(複)",
+        "advice": "danger,形容詞 safe (安全な) の名詞形。"
       }
     },
     {
       "_no": 18,
-      "word": "increase",
-      "meaning": "増える",
+      "word": "health",
+      "meaning": "健康",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"increase\".",
-        "ja": "「increase」は「増える」という意味です。"
+        "en": "Health is important.",
+        "ja": "健康は大切だ。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "sick,形容詞 healthy (健康な) の名詞形。"
       }
     },
     {
       "_no": 19,
-      "word": "introduce",
-      "meaning": "紹介する",
+      "word": "history",
+      "meaning": "歴史",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"introduce\".",
-        "ja": "「introduce」は「紹介する」という意味です。"
+        "en": "I like Japanese history.",
+        "ja": "日本の歴史が好きです。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / histories(複)",
+        "advice": "-,yをiに変えてes(histories)。"
       }
     },
     {
       "_no": 20,
-      "word": "invent",
-      "meaning": "発明する",
+      "word": "science",
+      "meaning": "科学",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"invent\".",
-        "ja": "「invent」は「発明する」という意味です。"
+        "en": "Science is my favorite subject.",
+        "ja": "理科は私の好きな教科です。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,理科の授業のこと。"
       }
     },
     {
       "_no": 21,
-      "word": "join",
-      "meaning": "参加する",
+      "word": "subject",
+      "meaning": "科目・主題",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"join\".",
-        "ja": "「join」は「参加する」という意味です。"
+        "en": "What subject do you like?",
+        "ja": "どの教科が好き？"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / subjects(複)",
+        "advice": "-,英語、数学などの「教科」のこと。"
       }
     },
     {
       "_no": 22,
-      "word": "kill",
-      "meaning": "殺す",
+      "word": "future",
+      "meaning": "未来",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"kill\".",
-        "ja": "「kill」は「殺す」という意味です。"
+        "en": "In the future.",
+        "ja": "将来。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / futures(複)",
+        "advice": "past,in the future (将来は、いつか) という熟語で覚えよう。"
       }
     },
     {
       "_no": 23,
-      "word": "knock",
-      "meaning": "ノックする",
+      "word": "past",
+      "meaning": "過去",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"knock\".",
-        "ja": "「knock」は「ノックする」という意味です。"
+        "en": "In the past.",
+        "ja": "昔は。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / -",
+        "advice": "-,future,前置詞で「～を過ぎて(half past ten)」という意味も。"
       }
     },
     {
       "_no": 24,
-      "word": "lift",
-      "meaning": "持ち上げる",
+      "word": "gift",
+      "meaning": "贈り物",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"lift\".",
-        "ja": "「lift」は「持ち上げる」という意味です。"
+        "en": "A birthday gift.",
+        "ja": "誕生日プレゼント。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / gifts(複)",
+        "advice": "present,presentと同じ意味だけど、giftの方が少しフォーマル。"
       }
     },
     {
       "_no": 25,
-      "word": "lose",
-      "meaning": "失う",
+      "word": "present",
+      "meaning": "プレゼント・現在の",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"lose\".",
-        "ja": "「lose」は「失う」という意味です。"
+        "en": "I got a present.",
+        "ja": "プレゼントをもらった。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / presents(複)",
+        "advice": "gift,「現在」や「出席している」という意味もある。"
       }
     },
     {
       "_no": 26,
-      "word": "manage",
-      "meaning": "管理する",
+      "word": "hobby",
+      "meaning": "趣味",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"manage\".",
-        "ja": "「manage」は「管理する」という意味です。"
+        "en": "My hobby is cooking.",
+        "ja": "私の趣味は料理です。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / hobbies(複)",
+        "advice": "-,yをiに変えてes(hobbies)。"
       }
     },
     {
       "_no": 27,
-      "word": "marry",
-      "meaning": "結婚する",
+      "word": "idea",
+      "meaning": "考え",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"marry\".",
-        "ja": "「marry」は「結婚する」という意味です。"
+        "en": "That's a good idea.",
+        "ja": "それはいい考えだ。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / ideas(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 28,
-      "word": "match",
-      "meaning": "一致する",
+      "word": "luck",
+      "meaning": "運",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"match\".",
-        "ja": "「match」は「一致する」という意味です。"
+        "en": "Good luck!",
+        "ja": "がんばって（幸運を）！"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,形容詞 lucky (幸運な) の名詞形。"
       }
     },
     {
       "_no": 29,
-      "word": "measure",
-      "meaning": "測る",
+      "word": "reason",
+      "meaning": "理由",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"measure\".",
-        "ja": "「measure」は「測る」という意味です。"
+        "en": "The reason for that.",
+        "ja": "その理由。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / reasons(複)",
+        "advice": "-,why? と聞かれた時の答え。"
       }
     },
     {
       "_no": 30,
-      "word": "miss",
-      "meaning": "逃す・寂しく思う",
+      "word": "mistake",
+      "meaning": "間違い",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"miss\".",
-        "ja": "「miss」は「逃す・寂しく思う」という意味です。"
+        "en": "Make a mistake.",
+        "ja": "間違える。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / mistakes(複)",
+        "advice": "-,make a mistake で「間違いをする」という熟語。"
       }
     },
     {
       "_no": 31,
-      "word": "move",
-      "meaning": "動く・引っ越す",
+      "word": "experience",
+      "meaning": "経験",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"move\".",
-        "ja": "「move」は「動く・引っ越す」という意味です。"
+        "en": "Great experience.",
+        "ja": "素晴らしい経験。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / experiences(複)",
+        "advice": "-,動詞で「経験する」という意味もある。"
       }
     },
     {
       "_no": 32,
-      "word": "notice",
-      "meaning": "気づく",
+      "word": "opinion",
+      "meaning": "意見",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"notice\".",
-        "ja": "「notice」は「気づく」という意味です。"
+        "en": "In my opinion.",
+        "ja": "私の意見では。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / opinions(複)",
+        "advice": "-,「私はこう思う」と言うときの少し丁寧な表現。"
       }
     },
     {
       "_no": 33,
-      "word": "offer",
-      "meaning": "提供する",
+      "word": "plan",
+      "meaning": "計画",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"offer\".",
-        "ja": "「offer」は「提供する」という意味です。"
+        "en": "What is your plan?",
+        "ja": "計画（予定）は何？"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / plans(複)",
+        "advice": "-,動詞で「計画を立てる」の意味もある。nを重ねて planning。"
       }
     },
     {
       "_no": 34,
-      "word": "order",
-      "meaning": "注文する",
+      "word": "holiday",
+      "meaning": "休日",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"order\".",
-        "ja": "「order」は「注文する」という意味です。"
+        "en": "Summer holidays.",
+        "ja": "夏休み。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / holidays(複)",
+        "advice": "vacation,vacation(長期休暇)に近い。"
       }
     },
     {
       "_no": 35,
-      "word": "pass",
-      "meaning": "通る・渡す",
+      "word": "vacation",
+      "meaning": "休暇",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"pass\".",
-        "ja": "「pass」は「通る・渡す」という意味です。"
+        "en": "Winter vacation.",
+        "ja": "冬休み。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / vacations(複)",
+        "advice": "holiday,数日間続く長い休みのこと。"
       }
     },
     {
       "_no": 36,
-      "word": "perform",
-      "meaning": "演奏する",
+      "word": "trip",
+      "meaning": "旅行",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"perform\".",
-        "ja": "「perform」は「演奏する」という意味です。"
+        "en": "A school trip.",
+        "ja": "修学旅行。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / trips(複)",
+        "advice": "travel,take a trip で「旅行に行く」。短期間の旅行に使う。"
       }
     },
     {
       "_no": 37,
-      "word": "prepare",
-      "meaning": "準備する",
+      "word": "schedule",
+      "meaning": "予定表",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"prepare\".",
-        "ja": "「prepare」は「準備する」という意味です。"
+        "en": "Check the schedule.",
+        "ja": "予定をチェックして。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / schedules(複)",
+        "advice": "-,発音は「スケジュール」。"
       }
     },
     {
       "_no": 38,
-      "word": "prevent",
-      "meaning": "防ぐ",
+      "word": "traffic",
+      "meaning": "交通",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"prevent\".",
-        "ja": "「prevent」は「防ぐ」という意味です。"
+        "en": "Heavy traffic.",
+        "ja": "交通渋滞。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,車などの交通量のこと。sはつけない。"
       }
     },
     {
       "_no": 39,
-      "word": "produce",
-      "meaning": "生産する",
+      "word": "noise",
+      "meaning": "騒音",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"produce\".",
-        "ja": "「produce」は「生産する」という意味です。"
+        "en": "Make a noise.",
+        "ja": "騒ぎ立てる。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / noises(複)",
+        "advice": "-,うるさい音のこと。"
       }
     },
     {
       "_no": 40,
-      "word": "promise",
-      "meaning": "約束する",
+      "word": "voice",
+      "meaning": "声",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"promise\".",
-        "ja": "「promise」は「約束する」という意味です。"
+        "en": "A loud voice.",
+        "ja": "大きな声。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / voices(複)",
+        "advice": "sound,sound(音)と違って、人の声を指すよ。"
       }
     },
     {
       "_no": 41,
-      "word": "protect",
-      "meaning": "守る",
+      "word": "address",
+      "meaning": "住所",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"protect\".",
-        "ja": "「protect」は「守る」という意味です。"
+        "en": "Tell me your address.",
+        "ja": "住所を教えて。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / addresses(複)",
+        "advice": "-,複数形は es をつける。"
       }
     },
     {
       "_no": 42,
-      "word": "provide",
-      "meaning": "提供する",
+      "word": "corner",
+      "meaning": "角",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"provide\".",
-        "ja": "「provide」は「提供する」という意味です。"
+        "en": "At the corner.",
+        "ja": "角のところで。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / corners(複)",
+        "advice": "-,at the corner of ～ (～の角に)。"
       }
     },
     {
       "_no": 43,
-      "word": "pull",
-      "meaning": "引く",
+      "word": "space",
+      "meaning": "空間・宇宙",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"pull\".",
-        "ja": "「pull」は「引く」という意味です。"
+        "en": "Look at the space.",
+        "ja": "宇宙（空いた場所）を見て。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / spaces(複)",
+        "advice": "-,空きスペースだけでなく「宇宙(outer space)」の意味も。"
       }
     },
     {
       "_no": 44,
-      "word": "push",
-      "meaning": "押す",
+      "word": "area",
+      "meaning": "地域",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"push\".",
-        "ja": "「push」は「押す」という意味です。"
+        "en": "In this area.",
+        "ja": "この地域では。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / areas(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 45,
-      "word": "receive",
-      "meaning": "受け取る",
+      "word": "forest",
+      "meaning": "森",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"receive\".",
-        "ja": "「receive」は「受け取る」という意味です。"
+        "en": "Animals in the forest.",
+        "ja": "森の動物たち。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / forests(複)",
+        "advice": "-,woodより広い森のこと。"
       }
     },
     {
       "_no": 46,
-      "word": "reduce",
-      "meaning": "減らす",
+      "word": "wood",
+      "meaning": "木材・小さな森",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"reduce\".",
-        "ja": "「reduce」は「減らす」という意味です。"
+        "en": "Made of wood.",
+        "ja": "木でできている。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / woods(複)",
+        "advice": "-,複数形 woods になると「森・林」という意味になる。"
       }
     },
     {
       "_no": 47,
-      "word": "refuse",
-      "meaning": "断る",
+      "word": "stone",
+      "meaning": "石",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"refuse\".",
-        "ja": "「refuse」は「断る」という意味です。"
+        "en": "A heavy stone.",
+        "ja": "重い石。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / stones(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 48,
-      "word": "relax",
-      "meaning": "くつろぐ",
+      "word": "oil",
+      "meaning": "油・石油",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"relax\".",
-        "ja": "「relax」は「くつろぐ」という意味です。"
+        "en": "Olive oil.",
+        "ja": "オリーブオイル。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / oils(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 49,
-      "word": "repeat",
-      "meaning": "繰り返す",
+      "word": "gold",
+      "meaning": "金",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"repeat\".",
-        "ja": "「repeat」は「繰り返す」という意味です。"
+        "en": "A gold medal.",
+        "ja": "金メダル。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,銀(silver)や銅(bronze)もセットで。"
       }
     },
     {
       "_no": 50,
-      "word": "report",
-      "meaning": "報告する",
+      "word": "silver",
+      "meaning": "銀",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"report\".",
-        "ja": "「report」は「報告する」という意味です。"
+        "en": "Silver ring.",
+        "ja": "銀の指輪。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,-"
       }
     },
     {
       "_no": 51,
-      "word": "rescue",
-      "meaning": "救助する",
+      "word": "clerk",
+      "meaning": "事務員・店員",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"rescue\".",
-        "ja": "「rescue」は「救助する」という意味です。"
+        "en": "A shop clerk.",
+        "ja": "店員さん。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / clerks(複)",
+        "advice": "-,お店で働いている人のこと。"
       }
     },
     {
       "_no": 52,
-      "word": "respect",
-      "meaning": "尊敬する",
+      "word": "doctor",
+      "meaning": "医者",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"respect\".",
-        "ja": "「respect」は「尊敬する」という意味です。"
+        "en": "See a doctor.",
+        "ja": "医者に診てもらう。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / doctors(複)",
+        "advice": "-,病院(hospital)にいる人。"
       }
     },
     {
       "_no": 53,
-      "word": "return",
-      "meaning": "戻る",
+      "word": "nurse",
+      "meaning": "看護師",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"return\".",
-        "ja": "「return」は「戻る」という意味です。"
+        "en": "A school nurse.",
+        "ja": "保健室の先生。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / nurses(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 54,
-      "word": "ride",
-      "meaning": "乗る",
+      "word": "dentist",
+      "meaning": "歯医者",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"ride\".",
-        "ja": "「ride」は「乗る」という意味です。"
+        "en": "Go to the dentist.",
+        "ja": "歯医者に行く。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / dentists(複)",
+        "advice": "-,「歯(tooth)」の専門医。"
       }
     },
     {
       "_no": 55,
-      "word": "rise",
-      "meaning": "上がる",
+      "word": "pilot",
+      "meaning": "パイロット",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"rise\".",
-        "ja": "「rise」は「上がる」という意味です。"
+        "en": "I want to be a pilot.",
+        "ja": "飛行士になりたい。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / pilots(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 56,
-      "word": "save",
-      "meaning": "救う・蓄える",
+      "word": "driver",
+      "meaning": "運転手",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"save\".",
-        "ja": "「save」は「救う・蓄える」という意味です。"
+        "en": "A bus driver.",
+        "ja": "バスの運転手。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / drivers(複)",
+        "advice": "-,drive(運転する) + er(人)。"
       }
     },
     {
       "_no": 57,
-      "word": "search",
-      "meaning": "探す",
+      "word": "farmer",
+      "meaning": "農家",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"search\".",
-        "ja": "「search」は「探す」という意味です。"
+        "en": "Farmers grow rice.",
+        "ja": "農家が米を育てる。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / farmers(複)",
+        "advice": "-,farm(農場) + er(人)。"
       }
     },
     {
       "_no": 58,
-      "word": "serve",
-      "meaning": "役立つ",
+      "word": "cook",
+      "meaning": "料理人",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"serve\".",
-        "ja": "「serve」は「役立つ」という意味です。"
+        "en": "He is a good cook.",
+        "ja": "彼は料理が上手だ。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / cooks(複)",
+        "advice": "-,cookerは「調理器具」のことなので注意！"
       }
     },
     {
       "_no": 59,
-      "word": "shake",
-      "meaning": "振る",
+      "word": "stewardess",
+      "meaning": "客室乗務員",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"shake\".",
-        "ja": "「shake」は「振る」という意味です。"
+        "en": "Flight attendant.",
+        "ja": "客室乗務員。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / stewardesses(複)",
+        "advice": "-,最近は flight attendant ということが多いよ。"
       }
     },
     {
       "_no": 60,
-      "word": "shout",
-      "meaning": "叫ぶ",
+      "word": "officer",
+      "meaning": "役人・警官",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"shout\".",
-        "ja": "「shout」は「叫ぶ」という意味です。"
+        "en": "A police officer.",
+        "ja": "警察官。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / officers(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 61,
-      "word": "solve",
-      "meaning": "解決する",
+      "word": "actor",
+      "meaning": "俳優",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"solve\".",
-        "ja": "「solve」は「解決する」という意味です。"
+        "en": "Movie actor.",
+        "ja": "映画俳優。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / actors(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 62,
-      "word": "sound",
-      "meaning": "～に聞こえる・音",
+      "word": "actress",
+      "meaning": "女優",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"sound\".",
-        "ja": "「sound」は「～に聞こえる・音」という意味です。"
+        "en": "She is a famous actress.",
+        "ja": "彼女は有名な女優だ。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / actresses(複)",
+        "advice": "actor,女性の俳優。複数形は es。"
       }
     },
     {
       "_no": 63,
-      "word": "spend",
-      "meaning": "費やす",
+      "word": "guest",
+      "meaning": "客",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"spend\".",
-        "ja": "「spend」は「費やす」という意味です。"
+        "en": "Hotel guests.",
+        "ja": "ホテルの客。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / guests(複)",
+        "advice": "visitor,招待された客やホテルの利用客。"
       }
     },
     {
       "_no": 64,
-      "word": "spread",
-      "meaning": "広がる",
+      "word": "neighbor",
+      "meaning": "隣人",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"spread\".",
-        "ja": "「spread」は「広がる」という意味です。"
+        "en": "Our neighbor.",
+        "ja": "お隣さん。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / neighbors(複)",
+        "advice": "-,近所に住んでいる人。"
       }
     },
     {
       "_no": 65,
-      "word": "suggest",
-      "meaning": "提案する",
+      "word": "fan",
+      "meaning": "扇風機・ファン",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"suggest\".",
-        "ja": "「suggest」は「提案する」という意味です。"
+        "en": "Baseball fan.",
+        "ja": "野球ファン。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / fans(複)",
+        "advice": "-,「あおぐもの」から転じて熱狂的なファンの意味に。"
       }
     },
     {
       "_no": 66,
-      "word": "support",
-      "meaning": "支持する",
+      "word": "leader",
+      "meaning": "リーダー",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"support\".",
-        "ja": "「support」は「支持する」という意味です。"
+        "en": "Team leader.",
+        "ja": "チームのリーダー。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / leaders(複)",
+        "advice": "-,lead(導く) + er(人)。"
       }
     },
     {
       "_no": 67,
-      "word": "taste",
-      "meaning": "味がする・味",
+      "word": "member",
+      "meaning": "会員",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"taste\".",
-        "ja": "「taste」は「味がする・味」という意味です。"
+        "en": "Club member.",
+        "ja": "部員。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / members(複)",
+        "advice": "-,a member of ～ (～の一員)。"
       }
     },
     {
       "_no": 68,
-      "word": "travel",
-      "meaning": "旅行する",
+      "word": "adult",
+      "meaning": "大人",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"travel\".",
-        "ja": "「travel」は「旅行する」という意味です。"
+        "en": "For adults.",
+        "ja": "大人向け。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / adults(複)",
+        "advice": "child,子供(child)の反対。"
       }
     },
     {
       "_no": 69,
-      "word": "treat",
-      "meaning": "扱う",
+      "word": "baby",
+      "meaning": "赤ちゃん",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"treat\".",
-        "ja": "「treat」は「扱う」という意味です。"
+        "en": "A cute baby.",
+        "ja": "かわいい赤ちゃん。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / babies(複)",
+        "advice": "-,yをiに変えてes(babies)。"
       }
     },
     {
       "_no": 70,
-      "word": "trust",
-      "meaning": "信頼する",
+      "word": "gentleman",
+      "meaning": "紳士",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"trust\".",
-        "ja": "「trust」は「信頼する」という意味です。"
+        "en": "Ladies and gentlemen!",
+        "ja": "皆様（淑女紳士の皆様）！"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / gentlemen(複)",
+        "advice": "lady,複数形は man と同様 e に変わる(gentlemen)。"
       }
     },
     {
       "_no": 71,
-      "word": "waste",
-      "meaning": "無駄にする",
+      "word": "lady",
+      "meaning": "婦人",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"waste\".",
-        "ja": "「waste」は「無駄にする」という意味です。"
+        "en": "A kind lady.",
+        "ja": "親切な婦人。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / ladies(複)",
+        "advice": "gentleman,yをiに変えてes(ladies)。"
       }
     },
     {
       "_no": 72,
-      "word": "wonder",
-      "meaning": "～かなと思う",
+      "word": "couple",
+      "meaning": "夫婦・一対",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"wonder\".",
-        "ja": "「wonder」は「～かなと思う」という意味です。"
+        "en": "A young couple.",
+        "ja": "若いカップル。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / couples(複)",
+        "advice": "-,「2つの、2人の」という意味。"
       }
     },
     {
       "_no": 73,
-      "word": "activity",
-      "meaning": "活動",
+      "word": "grandpa",
+      "meaning": "おじいちゃん",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"activity\".",
-        "ja": "「activity」は「活動」という意味です。"
+        "en": "My grandpa is funny.",
+        "ja": "祖父は面白い。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / grandpas(複)",
+        "advice": "grandfather,grandfatherの親しみやすい呼び方。"
       }
     },
     {
       "_no": 74,
-      "word": "address",
-      "meaning": "住所",
+      "word": "grandma",
+      "meaning": "おばあちゃん",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"address\".",
-        "ja": "「address」は「住所」という意味です。"
+        "en": "Visit my grandma.",
+        "ja": "祖母を訪ねる。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / grandmas(複)",
+        "advice": "grandmother,grandmotherの親しみやすい呼び方。"
       }
     },
     {
       "_no": 75,
-      "word": "advice",
-      "meaning": "忠告",
+      "word": "uncle",
+      "meaning": "おじ",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"advice\".",
-        "ja": "「advice」は「忠告」という意味です。"
+        "en": "My uncle lives in Nara.",
+        "ja": "叔父は奈良に住んでいます。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / uncles(複)",
+        "advice": "aunt,父母の兄弟。"
       }
     },
     {
       "_no": 76,
-      "word": "amount",
-      "meaning": "量",
+      "word": "aunt",
+      "meaning": "おば",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"amount\".",
-        "ja": "「amount」は「量」という意味です。"
+        "en": "My aunt is a teacher.",
+        "ja": "叔母は先生です。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / aunts(複)",
+        "advice": "uncle,父母の姉妹。"
       }
     },
     {
       "_no": 77,
-      "word": "area",
-      "meaning": "地域",
+      "word": "cousin",
+      "meaning": "いとこ",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"area\".",
-        "ja": "「area」は「地域」という意味です。"
+        "en": "Play with my cousin.",
+        "ja": "いとこと遊ぶ。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / cousins(複)",
+        "advice": "-,親戚の子供。"
       }
     },
     {
       "_no": 78,
-      "word": "art",
-      "meaning": "芸術",
+      "word": "king",
+      "meaning": "王",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"art\".",
-        "ja": "「art」は「芸術」という意味です。"
+        "en": "The king's castle.",
+        "ja": "王の城。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / kings(複)",
+        "advice": "queen,-"
       }
     },
     {
       "_no": 79,
-      "word": "article",
-      "meaning": "記事",
+      "word": "queen",
+      "meaning": "女王",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"article\".",
-        "ja": "「article」は「記事」という意味です。"
+        "en": "The Queen of England.",
+        "ja": "イギリス女王。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / queens(複)",
+        "advice": "king,-"
       }
     },
     {
       "_no": 80,
-      "word": "attention",
-      "meaning": "注意",
+      "word": "prince",
+      "meaning": "王子",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"attention\".",
-        "ja": "「attention」は「注意」という意味です。"
+        "en": "A handsome prince.",
+        "ja": "ハンサムな王子。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / princes(複)",
+        "advice": "princess,-"
       }
     },
     {
       "_no": 81,
-      "word": "audience",
-      "meaning": "聴衆",
+      "word": "princess",
+      "meaning": "王女",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"audience\".",
-        "ja": "「audience」は「聴衆」という意味です。"
+        "en": "The princess is kind.",
+        "ja": "王女は親切だ。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / princesses(複)",
+        "advice": "prince,複数形は es。"
       }
     },
     {
       "_no": 82,
-      "word": "author",
-      "meaning": "著者",
+      "word": "island",
+      "meaning": "島",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"author\".",
-        "ja": "「author」は「著者」という意味です。"
+        "en": "A small island.",
+        "ja": "小さな島。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / islands(複)",
+        "advice": "-,s を発音しない「アイランド」！"
       }
     },
     {
       "_no": 83,
-      "word": "bill",
-      "meaning": "請求書",
+      "word": "bridge",
+      "meaning": "橋",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"bill\".",
-        "ja": "「bill」は「請求書」という意味です。"
+        "en": "Cross the bridge.",
+        "ja": "橋を渡る。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / bridges(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 84,
-      "word": "bridge",
-      "meaning": "橋",
+      "word": "castle",
+      "meaning": "城",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"bridge\".",
-        "ja": "「bridge」は「橋」という意味です。"
+        "en": "Old castle.",
+        "ja": "古い城。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / castles(複)",
+        "advice": "-,t を発音しない「キャッスル」。"
       }
     },
     {
       "_no": 85,
-      "word": "business",
-      "meaning": "ビジネス",
+      "word": "palace",
+      "meaning": "宮殿",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"business\".",
-        "ja": "「business」は「ビジネス」という意味です。"
+        "en": "The Royal Palace.",
+        "ja": "王宮。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / palaces(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 86,
-      "word": "capital",
-      "meaning": "首都",
+      "word": "church",
+      "meaning": "教会",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"capital\".",
-        "ja": "「capital」は「首都」という意味です。"
+        "en": "Go to church.",
+        "ja": "教会へ行く。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / churches(複)",
+        "advice": "-,複数形は es。"
       }
     },
     {
       "_no": 87,
-      "word": "care",
-      "meaning": "世話",
+      "word": "temple",
+      "meaning": "寺",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"care\".",
-        "ja": "「care」は「世話」という意味です。"
+        "en": "Visit a temple.",
+        "ja": "お寺を訪れる。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / temples(複)",
+        "advice": "shrine,神社は shrine。"
       }
     },
     {
       "_no": 88,
-      "word": "case",
-      "meaning": "場合",
+      "word": "shrine",
+      "meaning": "神社",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"case\".",
-        "ja": "「case」は「場合」という意味です。"
+        "en": "New Year's visit to a shrine.",
+        "ja": "初詣。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / shrines(複)",
+        "advice": "temple,-"
       }
     },
     {
       "_no": 89,
-      "word": "center",
-      "meaning": "中心",
+      "word": "factory",
+      "meaning": "工場",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"center\".",
-        "ja": "「center」は「中心」という意味です。"
+        "en": "A car factory.",
+        "ja": "自動車工場。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / factories(複)",
+        "advice": "-,yをiに変えてes(factories)。"
       }
     },
     {
       "_no": 90,
-      "word": "century",
-      "meaning": "世紀",
+      "word": "office",
+      "meaning": "事務所",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"century\".",
-        "ja": "「century」は「世紀」という意味です。"
+        "en": "Work in an office.",
+        "ja": "事務所で働く。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / offices(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 91,
-      "word": "chance",
-      "meaning": "機会",
+      "word": "theater",
+      "meaning": "劇場",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"chance\".",
-        "ja": "「chance」は「機会」という意味です。"
+        "en": "Movie theater.",
+        "ja": "映画館。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / theaters(複)",
+        "advice": "-,映画館は movie を前につけることが多い。"
       }
     },
     {
       "_no": 92,
-      "word": "character",
-      "meaning": "性格・文字",
+      "word": "bank",
+      "meaning": "銀行・土手",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"character\".",
-        "ja": "「character」は「性格・文字」という意味です。"
+        "en": "At the bank.",
+        "ja": "銀行で。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / banks(複)",
+        "advice": "-,「川の土手」という意味も英検ではよく出る。"
       }
     },
     {
       "_no": 93,
-      "word": "choice",
-      "meaning": "選択",
+      "word": "mall",
+      "meaning": "モール",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"choice\".",
-        "ja": "「choice」は「選択」という意味です。"
+        "en": "Shopping mall.",
+        "ja": "ショッピングモール。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / malls(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 94,
-      "word": "church",
-      "meaning": "教会",
+      "word": "stadium",
+      "meaning": "競技場",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"church\".",
-        "ja": "「church」は「教会」という意味です。"
+        "en": "Baseball stadium.",
+        "ja": "野球場。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / stadiums(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 95,
-      "word": "climate",
-      "meaning": "気候",
+      "word": "tower",
+      "meaning": "塔",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"climate\".",
-        "ja": "「climate」は「気候」という意味です。"
+        "en": "Tokyo Tower.",
+        "ja": "東京タワー。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / towers(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 96,
-      "word": "collection",
-      "meaning": "収集",
+      "word": "gate",
+      "meaning": "門",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"collection\".",
-        "ja": "「collection」は「収集」という意味です。"
+        "en": "School gate.",
+        "ja": "校門。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / gates(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 97,
-      "word": "college",
-      "meaning": "大学",
+      "word": "hall",
+      "meaning": "廊下・ホール",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"college\".",
-        "ja": "「college」は「大学」という意味です。"
+        "en": "In the hall.",
+        "ja": "ホールで（廊下で）。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / halls(複)",
+        "advice": "-,広間や玄関、廊下の意味。"
       }
     },
     {
       "_no": 98,
-      "word": "common",
-      "meaning": "共通の",
+      "word": "roof",
+      "meaning": "屋根",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"common\".",
-        "ja": "「common」は「共通の」という意味です。"
+        "en": "Red roof.",
+        "ja": "赤い屋根。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / roofs(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 99,
-      "word": "communication",
-      "meaning": "通信",
+      "word": "floor",
+      "meaning": "床・階",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"communication\".",
-        "ja": "「communication」は「通信」という意味です。"
+        "en": "On the second floor.",
+        "ja": "2階に。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / floors(複)",
+        "advice": "-,「床」と「階」の両方の意味を覚えよう。"
       }
     },
     {
       "_no": 100,
-      "word": "community",
-      "meaning": "共同体",
+      "word": "wall",
+      "meaning": "壁",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"community\".",
-        "ja": "「community」は「共同体」という意味です。"
+        "en": "On the wall.",
+        "ja": "壁に。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / walls(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 101,
-      "word": "company",
-      "meaning": "会社",
+      "word": "ceiling",
+      "meaning": "天井",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"company\".",
-        "ja": "「company」は「会社」という意味です。"
+        "en": "Look at the ceiling.",
+        "ja": "天井を見て。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / ceilings(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 102,
-      "word": "condition",
-      "meaning": "状態",
+      "word": "gate",
+      "meaning": "門",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"condition\".",
-        "ja": "「condition」は「状態」という意味です。"
+        "en": "Open the gate.",
+        "ja": "門を開けて。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / gates(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 103,
-      "word": "contest",
-      "meaning": "コンテスト",
+      "word": "training",
+      "meaning": "訓練・練習",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"contest\".",
-        "ja": "「contest」は「コンテスト」という意味です。"
+        "en": "Hard training.",
+        "ja": "厳しい練習。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / trainings(複)",
+        "advice": "practice,スポーツや技術の訓練のこと。"
       }
     },
     {
       "_no": 104,
-      "word": "corner",
-      "meaning": "角",
+      "word": "treasure",
+      "meaning": "宝物",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"corner\".",
-        "ja": "「corner」は「角」という意味です。"
+        "en": "My cat is my treasure.",
+        "ja": "私の猫は私の宝物です。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / treasures(複)",
+        "advice": "-,大切なもの、という意味で広く使われるよ。"
       }
     },
     {
       "_no": 105,
-      "word": "cost",
-      "meaning": "費用",
+      "word": "trouble",
+      "meaning": "心配・迷惑",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"cost\".",
-        "ja": "「cost」は「費用」という意味です。"
+        "en": "I'm in trouble.",
+        "ja": "困っています。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / troubles(複)",
+        "advice": "problem,be in trouble で「困っている」という超重要熟語！"
       }
     },
     {
       "_no": 106,
-      "word": "culture",
-      "meaning": "文化",
+      "word": "truth",
+      "meaning": "真実",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"culture\".",
-        "ja": "「culture」は「文化」という意味です。"
+        "en": "Tell the truth.",
+        "ja": "真実を話しなさい。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / truths(複)",
+        "advice": "lie(嘘),tell the truth で「本当のことを言う」。"
       }
     },
     {
       "_no": 107,
-      "word": "custom",
-      "meaning": "習慣",
+      "word": "type",
+      "meaning": "型・タイプ",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"custom\".",
-        "ja": "「custom」は「習慣」という意味です。"
+        "en": "A new type of car.",
+        "ja": "新しいタイプの車。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / types(複)",
+        "advice": "kind,「種類」という意味で kind と同じように使われる。"
       }
     },
     {
       "_no": 108,
-      "word": "danger",
-      "meaning": "危険",
+      "word": "university",
+      "meaning": "大学",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"danger\".",
-        "ja": "「danger」は「危険」という意味です。"
+        "en": "Study at university.",
+        "ja": "大学で勉強する。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / universities(複)",
+        "advice": "college,yをiに変えてes(universities)。"
       }
     },
     {
       "_no": 109,
-      "word": "death",
-      "meaning": "死",
+      "word": "value",
+      "meaning": "価値",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"death\".",
-        "ja": "「death」は「死」という意味です。"
+        "en": "The value of gold.",
+        "ja": "金の価値。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / values(複)",
+        "advice": "-,値段だけでなく、大切さという意味もある。"
       }
     },
     {
       "_no": 110,
-      "word": "degree",
-      "meaning": "度",
+      "word": "variety",
+      "meaning": "変化・多様性",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"degree\".",
-        "ja": "「degree」は「度」という意味です。"
+        "en": "A variety of foods.",
+        "ja": "さまざまな食べ物。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / varieties(複)",
+        "advice": "-,a variety of ～ で「いろいろな～」という熟語。"
       }
     },
     {
       "_no": 111,
-      "word": "department",
-      "meaning": "部門",
+      "word": "view",
+      "meaning": "眺め・景色",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"department\".",
-        "ja": "「department」は「部門」という意味です。"
+        "en": "A beautiful view.",
+        "ja": "美しい眺め。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / views(複)",
+        "advice": "-,-"
       }
     },
     {
       "_no": 112,
-      "word": "difference",
-      "meaning": "違い",
+      "word": "visitor",
+      "meaning": "訪問者",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"difference\".",
-        "ja": "「difference」は「違い」という意味です。"
+        "en": "We have a visitor.",
+        "ja": "来客があります。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / visitors(複)",
+        "advice": "guest,visit(訪れる) + or(人)。"
       }
     },
     {
       "_no": 113,
-      "word": "direction",
-      "meaning": "方向",
+      "word": "war",
+      "meaning": "戦争",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"direction\".",
-        "ja": "「direction」は「方向」という意味です。"
+        "en": "A long war.",
+        "ja": "長い戦争。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / wars(複)",
+        "advice": "peace(平和),平和(peace)の反対語。"
       }
     },
     {
       "_no": 114,
-      "word": "distance",
-      "meaning": "距離",
+      "word": "way",
+      "meaning": "道・方法",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"distance\".",
-        "ja": "「distance」は「距離」という意味です。"
+        "en": "I know the way.",
+        "ja": "道を知っています。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / ways(複)",
+        "advice": "-,on my way to ～ で「～へ行く途中で」も頻出。"
       }
     },
     {
       "_no": 115,
-      "word": "district",
-      "meaning": "地区",
+      "word": "word",
+      "meaning": "言葉",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"district\".",
-        "ja": "「district」は「地区」という意味です。"
+        "en": "I don't know the word.",
+        "ja": "その単語を知りません。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / words(複)",
+        "advice": "-,in other words で「言い換えれば」。"
       }
     },
     {
       "_no": 116,
-      "word": "duty",
-      "meaning": "義務",
+      "word": "youth",
+      "meaning": "若さ・若者",
       "category": "よく出る",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"duty\".",
-        "ja": "「duty」は「義務」という意味です。"
+        "en": "In my youth.",
+        "ja": "私の若い頃に。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / youths(複)",
+        "advice": "-,young の名詞形。"
       }
     },
     {
       "_no": 117,
-      "word": "education",
-      "meaning": "教育",
+      "word": "be good at",
+      "meaning": "～が得意だ",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"education\".",
-        "ja": "「education」は「教育」という意味です。"
+        "en": "I am good at math.",
+        "ja": "私は数学が得意です。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,be bad at (～が苦手だ) もセットで覚えよう。"
       }
     },
     {
       "_no": 118,
-      "word": "effect",
-      "meaning": "効果",
+      "word": "look for",
+      "meaning": "～を探す",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"effect\".",
-        "ja": "「effect」は「効果」という意味です。"
+        "en": "What are you looking for?",
+        "ja": "何を探しているの？"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "search,今見えていないものを探すときに使うよ。"
       }
     },
     {
       "_no": 119,
-      "word": "effort",
-      "meaning": "努力",
+      "word": "take care of",
+      "meaning": "～の世話をする",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"effort\".",
-        "ja": "「effort」は「努力」という意味です。"
+        "en": "Take care of your dog.",
+        "ja": "犬の世話をしなさい。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "look after,look after と同じ意味。4級の長文でよく出る！"
       }
     },
     {
       "_no": 120,
-      "word": "energy",
-      "meaning": "エネルギー",
+      "word": "wait for",
+      "meaning": "～を待つ",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"energy\".",
-        "ja": "「energy」は「エネルギー」という意味です。"
+        "en": "Wait for me!",
+        "ja": "私を待って！"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,必ず for をセットにするのがポイント。"
       }
     },
     {
       "_no": 121,
-      "word": "environment",
-      "meaning": "環境",
+      "word": "get up",
+      "meaning": "起きる",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"environment\".",
-        "ja": "「environment」は「環境」という意味です。"
+        "en": "I get up at six.",
+        "ja": "私は6時に起きます。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "wake up,布団から出るイメージ。目は覚めているけど出ないのは wake up。"
       }
     },
     {
       "_no": 122,
-      "word": "event",
-      "meaning": "出来事",
+      "word": "sit down",
+      "meaning": "座る",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"event\".",
-        "ja": "「event」は「出来事」という意味です。"
+        "en": "Please sit down.",
+        "ja": "座ってください。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "stand up,-"
       }
     },
     {
       "_no": 123,
-      "word": "example",
-      "meaning": "例",
+      "word": "stand up",
+      "meaning": "立ち上がる",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"example\".",
-        "ja": "「example」は「例」という意味です。"
+        "en": "Stand up",
+        "ja": "please."
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "立ってください。",
+        "syn_ant": "-",
+        "advice": "-,sit down,-"
       }
     },
     {
       "_no": 124,
-      "word": "experience",
-      "meaning": "経験",
+      "word": "all over",
+      "meaning": "～の至る所で",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"experience\".",
-        "ja": "「experience」は「経験」という意味です。"
+        "en": "All over the world.",
+        "ja": "世界中で。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,場所を表す言葉の前につくよ。"
       }
     },
     {
       "_no": 125,
-      "word": "fact",
-      "meaning": "事実",
+      "word": "a lot of",
+      "meaning": "たくさんの",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"fact\".",
-        "ja": "「fact」は「事実」という意味です。"
+        "en": "A lot of books.",
+        "ja": "たくさんの本。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "many / much,many(数えられる)とmuch(数えられない)の両方に使える無敵の言葉。"
       }
     },
     {
       "_no": 126,
-      "word": "fashion",
-      "meaning": "流行",
+      "word": "kind of",
+      "meaning": "～の一種",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"fashion\".",
-        "ja": "「fashion」は「流行」という意味です。"
+        "en": "A kind of fruit.",
+        "ja": "果物の一種。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,what kind of ～ ? (どんな種類の～？) という疑問文も重要。"
       }
     },
     {
       "_no": 127,
-      "word": "festival",
-      "meaning": "祭り",
+      "word": "next to",
+      "meaning": "～の隣に",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"festival\".",
-        "ja": "「festival」は「祭り」という意味です。"
+        "en": "Sit next to me.",
+        "ja": "私の隣に座って。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "beside,「最も近い隣」というニュアンス。"
       }
     },
     {
       "_no": 128,
-      "word": "field",
-      "meaning": "分野・野原",
+      "word": "front of",
+      "meaning": "～の前に",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"field\".",
-        "ja": "「field」は「分野・野原」という意味です。"
+        "en": "In front of the station.",
+        "ja": "駅の前で。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "behind,通常 in front of の形で使うよ。反対は behind。"
       }
     },
     {
       "_no": 129,
-      "word": "forest",
-      "meaning": "森",
+      "word": "be afraid of",
+      "meaning": "～を恐れる",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"forest\".",
-        "ja": "「forest」は「森」という意味です。"
+        "en": "Don't be afraid of mistakes.",
+        "ja": "間違いを恐れないで。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,「～が怖い」という時に使う。"
       }
     },
     {
       "_no": 130,
-      "word": "form",
-      "meaning": "形",
+      "word": "be interested in",
+      "meaning": "～に興味がある",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"form\".",
-        "ja": "「form」は「形」という意味です。"
+        "en": "I'm interested in music.",
+        "ja": "音楽に興味があります。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,in を使うのを忘れずに！受動態の形だね。"
       }
     },
     {
       "_no": 131,
-      "word": "freedom",
-      "meaning": "自由",
+      "word": "by the way",
+      "meaning": "ところで",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"freedom\".",
-        "ja": "「freedom」は「自由」という意味です。"
+        "en": "By the way",
+        "ja": "how are you?"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "ところで、元気？",
+        "syn_ant": "-",
+        "advice": "-,-,話を変える時に使う便利な言葉。"
       }
     },
     {
       "_no": 132,
-      "word": "fuel",
-      "meaning": "燃料",
+      "word": "for a long time",
+      "meaning": "長い間",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"fuel\".",
-        "ja": "「fuel」は「燃料」という意味です。"
+        "en": "I lived here for a long time.",
+        "ja": "長い間ここに住んでいます。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,時間の長さを表す定番フレーズ。"
       }
     },
     {
       "_no": 133,
-      "word": "future",
-      "meaning": "未来",
+      "word": "get to",
+      "meaning": "～に到着する",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"future\".",
-        "ja": "「future」は「未来」という意味です。"
+        "en": "How can I get to the park?",
+        "ja": "公園にはどう行けばいいですか？"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "arrive at,目的地への「到達」を表す。道案内でよく使う。"
       }
     },
     {
       "_no": 134,
-      "word": "gift",
-      "meaning": "贈り物",
+      "word": "go on a picnic",
+      "meaning": "ピクニックに行く",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"gift\".",
-        "ja": "「gift」は「贈り物」という意味です。"
+        "en": "Let's go on a picnic.",
+        "ja": "ピクニックに行こう。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,go on a trip (旅行に行く) なども同じ形。"
       }
     },
     {
       "_no": 135,
-      "word": "government",
-      "meaning": "政府",
+      "word": "have a good time",
+      "meaning": "楽しむ",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"government\".",
-        "ja": "「government」は「政府」という意味です。"
+        "en": "Did you have a good time?",
+        "ja": "楽しかった？"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "enjoy,enjoy と同じ意味で、会話で非常によく使われるよ。"
       }
     },
     {
       "_no": 136,
-      "word": "graduate",
-      "meaning": "卒業生",
+      "word": "look forward to",
+      "meaning": "～を楽しみに待つ",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"graduate\".",
-        "ja": "「graduate」は「卒業生」という意味です。"
+        "en": "I look forward to seeing you.",
+        "ja": "会えるのを楽しみにしています。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,toの後の動詞は ～ing 形になるのが超重要ポイント！"
       }
     },
     {
       "_no": 137,
-      "word": "ground",
-      "meaning": "地面",
+      "word": "of course",
+      "meaning": "もちろん",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"ground\".",
-        "ja": "「ground」は「地面」という意味です。"
+        "en": "Of course I can.",
+        "ja": "もちろんです。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "sure,-"
       }
     },
     {
       "_no": 138,
-      "word": "group",
-      "meaning": "集団",
+      "word": "out of",
+      "meaning": "～の中から外へ",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"group\".",
-        "ja": "「group」は「集団」という意味です。"
+        "en": "Get out of the car.",
+        "ja": "車から降りて。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "into,into (～の中へ) の反対の動き。"
       }
     },
     {
       "_no": 139,
-      "word": "guide",
-      "meaning": "案内",
+      "word": "shake hands",
+      "meaning": "握手する",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"guide\".",
-        "ja": "「guide」は「案内」という意味です。"
+        "en": "They shook hands.",
+        "ja": "彼らは握手した。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,手は2本必要なので必ず s (hands) がつくよ。"
       }
     },
     {
       "_no": 140,
-      "word": "habit",
-      "meaning": "習慣",
+      "word": "some day",
+      "meaning": "いつか",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"habit\".",
-        "ja": "「habit」は「習慣」という意味です。"
+        "en": "I want to go to Italy some day.",
+        "ja": "いつかイタリアに行きたい。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,未来のいつかを指す。"
       }
     },
     {
       "_no": 141,
-      "word": "health",
-      "meaning": "健康",
+      "word": "stay with",
+      "meaning": "～のところに滞在する",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"health\".",
-        "ja": "「health」は「健康」という意味です。"
+        "en": "I stay with my aunt.",
+        "ja": "叔母の家に泊まります。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,「人の家に泊まる」という時に with を使うよ。"
       }
     },
     {
       "_no": 142,
-      "word": "history",
-      "meaning": "歴史",
+      "word": "work for",
+      "meaning": "～に勤めている",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"history\".",
-        "ja": "「history」は「歴史」という意味です。"
+        "en": "My father works for a bank.",
+        "ja": "父は銀行で働いています。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,会社や組織で働いている時に使う。"
       }
     },
     {
       "_no": 143,
-      "word": "holiday",
-      "meaning": "休日",
+      "word": "be full of",
+      "meaning": "～でいっぱいだ",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"holiday\".",
-        "ja": "「holiday」は「休日」という意味です。"
+        "en": "The bus was full of people.",
+        "ja": "バスは人でいっぱいだった。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "filled with,-"
       }
     },
     {
       "_no": 144,
-      "word": "hope",
-      "meaning": "希望",
+      "word": "be surprised at",
+      "meaning": "～に驚く",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"hope\".",
-        "ja": "「hope」は「希望」という意味です。"
+        "en": "I was surprised at the news.",
+        "ja": "そのニュースに驚きました。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,at を使う。感情の理由は at で表すことが多い。"
       }
     },
     {
       "_no": 145,
-      "word": "idea",
-      "meaning": "考え",
+      "word": "laugh at",
+      "meaning": "～を見て笑う",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"idea\".",
-        "ja": "「idea」は「考え」という意味です。"
+        "en": "Don't laugh at me.",
+        "ja": "私を笑わないで。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,声を上げて笑う対象を at で指す。"
       }
     },
     {
       "_no": 146,
-      "word": "information",
-      "meaning": "情報",
+      "word": "be proud of",
+      "meaning": "～を誇りに思う",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"information\".",
-        "ja": "「information」は「情報」という意味です。"
+        "en": "I'm proud of you.",
+        "ja": "君を誇りに思うよ。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,「自慢に思う」という前向きな意味。"
       }
     },
     {
       "_no": 147,
-      "word": "interest",
-      "meaning": "興味",
+      "word": "because of",
+      "meaning": "～の理由で",
       "category": "よく出る",
+      "pos": "熟語",
       "example": {
-        "en": "The word \"interest\".",
-        "ja": "「interest」は「興味」という意味です。"
+        "en": "Because of the rain.",
+        "ja": "雨のせいで。"
       },
       "info": {
         "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 148,
-      "word": "international",
-      "meaning": "国際的な",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"international\".",
-        "ja": "「international」は「国際的な」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 149,
-      "word": "interview",
-      "meaning": "面接",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"interview\".",
-        "ja": "「interview」は「面接」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 150,
-      "word": "invention",
-      "meaning": "発明",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"invention\".",
-        "ja": "「invention」は「発明」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 151,
-      "word": "journey",
-      "meaning": "旅行",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"journey\".",
-        "ja": "「journey」は「旅行」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 152,
-      "word": "joy",
-      "meaning": "喜び",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"joy\".",
-        "ja": "「joy」は「喜び」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 153,
-      "word": "judge",
-      "meaning": "裁判官",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"judge\".",
-        "ja": "「judge」は「裁判官」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 154,
-      "word": "key",
-      "meaning": "鍵",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"key\".",
-        "ja": "「key」は「鍵」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 155,
-      "word": "knowledge",
-      "meaning": "知識",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"knowledge\".",
-        "ja": "「knowledge」は「知識」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 156,
-      "word": "labor",
-      "meaning": "労働",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"labor\".",
-        "ja": "「labor」は「労働」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 157,
-      "word": "language",
-      "meaning": "言語",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"language\".",
-        "ja": "「language」は「言語」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 158,
-      "word": "law",
-      "meaning": "法律",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"law\".",
-        "ja": "「law」は「法律」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 159,
-      "word": "leader",
-      "meaning": "指導者",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"leader\".",
-        "ja": "「leader」は「指導者」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 160,
-      "word": "lesson",
-      "meaning": "レッスン",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"lesson\".",
-        "ja": "「lesson」は「レッスン」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 161,
-      "word": "level",
-      "meaning": "水準",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"level\".",
-        "ja": "「level」は「水準」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 162,
-      "word": "list",
-      "meaning": "名簿",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"list\".",
-        "ja": "「list」は「名簿」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 163,
-      "word": "literature",
-      "meaning": "文学",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"literature\".",
-        "ja": "「literature」は「文学」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 164,
-      "word": "luck",
-      "meaning": "運",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"luck\".",
-        "ja": "「luck」は「運」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 165,
-      "word": "machine",
-      "meaning": "機械",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"machine\".",
-        "ja": "「machine」は「機械」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 166,
-      "word": "magazine",
-      "meaning": "雑誌",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"magazine\".",
-        "ja": "「magazine」は「雑誌」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 167,
-      "word": "manner",
-      "meaning": "行儀",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"manner\".",
-        "ja": "「manner」は「行儀」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 168,
-      "word": "market",
-      "meaning": "市場",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"market\".",
-        "ja": "「market」は「市場」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 169,
-      "word": "meaning",
-      "meaning": "意味",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"meaning\".",
-        "ja": "「meaning」は「意味」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 170,
-      "word": "medicine",
-      "meaning": "薬",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"medicine\".",
-        "ja": "「medicine」は「薬」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 171,
-      "word": "member",
-      "meaning": "会員",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"member\".",
-        "ja": "「member」は「会員」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 172,
-      "word": "memory",
-      "meaning": "記憶",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"memory\".",
-        "ja": "「memory」は「記憶」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 173,
-      "word": "message",
-      "meaning": "伝言",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"message\".",
-        "ja": "「message」は「伝言」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 174,
-      "word": "method",
-      "meaning": "方法",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"method\".",
-        "ja": "「method」は「方法」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 175,
-      "word": "middle",
-      "meaning": "真ん中",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"middle\".",
-        "ja": "「middle」は「真ん中」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 176,
-      "word": "million",
-      "meaning": "百万",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"million\".",
-        "ja": "「million」は「百万」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 177,
-      "word": "mind",
-      "meaning": "心",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"mind\".",
-        "ja": "「mind」は「心」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 178,
-      "word": "mistake",
-      "meaning": "間違い",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"mistake\".",
-        "ja": "「mistake」は「間違い」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 179,
-      "word": "model",
-      "meaning": "模型",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"model\".",
-        "ja": "「model」は「模型」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 180,
-      "word": "moment",
-      "meaning": "瞬間",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"moment\".",
-        "ja": "「moment」は「瞬間」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 181,
-      "word": "money",
-      "meaning": "金",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"money\".",
-        "ja": "「money」は「金」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 182,
-      "word": "movie",
-      "meaning": "映画",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"movie\".",
-        "ja": "「movie」は「映画」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 183,
-      "word": "neighborhood",
-      "meaning": "近所",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"neighborhood\".",
-        "ja": "「neighborhood」は「近所」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 184,
-      "word": "news",
-      "meaning": "ニュース",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"news\".",
-        "ja": "「news」は「ニュース」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 185,
-      "word": "noise",
-      "meaning": "騒音",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"noise\".",
-        "ja": "「noise」は「騒音」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 186,
-      "word": "note",
-      "meaning": "メモ",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"note\".",
-        "ja": "「note」は「メモ」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 187,
-      "word": "object",
-      "meaning": "物体",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"object\".",
-        "ja": "「object」は「物体」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 188,
-      "word": "office",
-      "meaning": "事務所",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"office\".",
-        "ja": "「office」は「事務所」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 189,
-      "word": "opinion",
-      "meaning": "意見",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"opinion\".",
-        "ja": "「opinion」は「意見」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 190,
-      "word": "opportunity",
-      "meaning": "機会",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"opportunity\".",
-        "ja": "「opportunity」は「機会」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 191,
-      "word": "owner",
-      "meaning": "持ち主",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"owner\".",
-        "ja": "「owner」は「持ち主」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 192,
-      "word": "page",
-      "meaning": "ページ",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"page\".",
-        "ja": "「page」は「ページ」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 193,
-      "word": "parent",
-      "meaning": "親",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"parent\".",
-        "ja": "「parent」は「親」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 194,
-      "word": "part",
-      "meaning": "部分",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"part\".",
-        "ja": "「part」は「部分」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 195,
-      "word": "passenger",
-      "meaning": "乗客",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"passenger\".",
-        "ja": "「passenger」は「乗客」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 196,
-      "word": "past",
-      "meaning": "過去",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"past\".",
-        "ja": "「past」は「過去」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 197,
-      "word": "peace",
-      "meaning": "平和",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"peace\".",
-        "ja": "「peace」は「平和」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 198,
-      "word": "period",
-      "meaning": "期間",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"period\".",
-        "ja": "「period」は「期間」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 199,
-      "word": "person",
-      "meaning": "人",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"person\".",
-        "ja": "「person」は「人」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 200,
-      "word": "pet",
-      "meaning": "ペット",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"pet\".",
-        "ja": "「pet」は「ペット」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 201,
-      "word": "picture",
-      "meaning": "写真・絵",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"picture\".",
-        "ja": "「picture」は「写真・絵」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 202,
-      "word": "piece",
-      "meaning": "断片",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"piece\".",
-        "ja": "「piece」は「断片」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 203,
-      "word": "plan",
-      "meaning": "計画",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"plan\".",
-        "ja": "「plan」は「計画」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 204,
-      "word": "plant",
-      "meaning": "植物・工場",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"plant\".",
-        "ja": "「plant」は「植物・工場」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 205,
-      "word": "pleasure",
-      "meaning": "喜び",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"pleasure\".",
-        "ja": "「pleasure」は「喜び」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 206,
-      "word": "point",
-      "meaning": "点",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"point\".",
-        "ja": "「point」は「点」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 207,
-      "word": "policy",
-      "meaning": "政策",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"policy\".",
-        "ja": "「policy」は「政策」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 208,
-      "word": "pollution",
-      "meaning": "汚染",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"pollution\".",
-        "ja": "「pollution」は「汚染」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 209,
-      "word": "population",
-      "meaning": "人口",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"population\".",
-        "ja": "「population」は「人口」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 210,
-      "word": "position",
-      "meaning": "位置",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"position\".",
-        "ja": "「position」は「位置」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 211,
-      "word": "power",
-      "meaning": "力",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"power\".",
-        "ja": "「power」は「力」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 212,
-      "word": "practice",
-      "meaning": "練習",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"practice\".",
-        "ja": "「practice」は「練習」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 213,
-      "word": "president",
-      "meaning": "大統領",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"president\".",
-        "ja": "「president」は「大統領」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 214,
-      "word": "price",
-      "meaning": "価格",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"price\".",
-        "ja": "「price」は「価格」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 215,
-      "word": "problem",
-      "meaning": "問題",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"problem\".",
-        "ja": "「problem」は「問題」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 216,
-      "word": "program",
-      "meaning": "番組・計画",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"program\".",
-        "ja": "「program」は「番組・計画」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 217,
-      "word": "project",
-      "meaning": "事業",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"project\".",
-        "ja": "「project」は「事業」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 218,
-      "word": "purpose",
-      "meaning": "目的",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"purpose\".",
-        "ja": "「purpose」は「目的」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 219,
-      "word": "quality",
-      "meaning": "質",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"quality\".",
-        "ja": "「quality」は「質」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 220,
-      "word": "question",
-      "meaning": "質問",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"question\".",
-        "ja": "「question」は「質問」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 221,
-      "word": "race",
-      "meaning": "競争・人種",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"race\".",
-        "ja": "「race」は「競争・人種」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 222,
-      "word": "reason",
-      "meaning": "理由",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"reason\".",
-        "ja": "「reason」は「理由」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 223,
-      "word": "record",
-      "meaning": "記録",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"record\".",
-        "ja": "「record」は「記録」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 224,
-      "word": "relationship",
-      "meaning": "関係",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"relationship\".",
-        "ja": "「relationship」は「関係」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 225,
-      "word": "result",
-      "meaning": "結果",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"result\".",
-        "ja": "「result」は「結果」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 226,
-      "word": "road",
-      "meaning": "道路",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"road\".",
-        "ja": "「road」は「道路」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 227,
-      "word": "role",
-      "meaning": "役割",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"role\".",
-        "ja": "「role」は「役割」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 228,
-      "word": "rule",
-      "meaning": "規則",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"rule\".",
-        "ja": "「rule」は「規則」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 229,
-      "word": "science",
-      "meaning": "科学",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"science\".",
-        "ja": "「science」は「科学」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 230,
-      "word": "season",
-      "meaning": "季節",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"season\".",
-        "ja": "「season」は「季節」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 231,
-      "word": "secret",
-      "meaning": "秘密",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"secret\".",
-        "ja": "「secret」は「秘密」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 232,
-      "word": "service",
-      "meaning": "奉仕",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"service\".",
-        "ja": "「service」は「奉仕」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 233,
-      "word": "shape",
-      "meaning": "形",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"shape\".",
-        "ja": "「shape」は「形」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 234,
-      "word": "sight",
-      "meaning": "視力・光景",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"sight\".",
-        "ja": "「sight」は「視力・光景」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 235,
-      "word": "sign",
-      "meaning": "記号・しるし",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"sign\".",
-        "ja": "「sign」は「記号・しるし」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 236,
-      "word": "skill",
-      "meaning": "技術",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"skill\".",
-        "ja": "「skill」は「技術」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 237,
-      "word": "society",
-      "meaning": "社会",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"society\".",
-        "ja": "「society」は「社会」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 238,
-      "word": "solution",
-      "meaning": "解決",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"solution\".",
-        "ja": "「solution」は「解決」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 239,
-      "word": "space",
-      "meaning": "空間・宇宙",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"space\".",
-        "ja": "「space」は「空間・宇宙」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 240,
-      "word": "speech",
-      "meaning": "演説",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"speech\".",
-        "ja": "「speech」は「演説」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 241,
-      "word": "stage",
-      "meaning": "段階・舞台",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"stage\".",
-        "ja": "「stage」は「段階・舞台」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 242,
-      "word": "step",
-      "meaning": "歩み",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"step\".",
-        "ja": "「step」は「歩み」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 243,
-      "word": "story",
-      "meaning": "物語",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"story\".",
-        "ja": "「story」は「物語」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 244,
-      "word": "style",
-      "meaning": "様式",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"style\".",
-        "ja": "「style」は「様式」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 245,
-      "word": "success",
-      "meaning": "成功",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"success\".",
-        "ja": "「success」は「成功」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 246,
-      "word": "system",
-      "meaning": "体系",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"system\".",
-        "ja": "「system」は「体系」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 247,
-      "word": "technology",
-      "meaning": "技術",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"technology\".",
-        "ja": "「technology」は「技術」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 248,
-      "word": "term",
-      "meaning": "期間・用語",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"term\".",
-        "ja": "「term」は「期間・用語」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 249,
-      "word": "topic",
-      "meaning": "話題",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"topic\".",
-        "ja": "「topic」は「話題」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 250,
-      "word": "tour",
-      "meaning": "見学",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"tour\".",
-        "ja": "「tour」は「見学」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 251,
-      "word": "traffic",
-      "meaning": "交通",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"traffic\".",
-        "ja": "「traffic」は「交通」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 252,
-      "word": "training",
-      "meaning": "訓練",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"training\".",
-        "ja": "「training」は「訓練」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 253,
-      "word": "treasure",
-      "meaning": "宝物",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"treasure\".",
-        "ja": "「treasure」は「宝物」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 254,
-      "word": "trip",
-      "meaning": "旅行",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"trip\".",
-        "ja": "「trip」は「旅行」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 255,
-      "word": "trouble",
-      "meaning": "心配",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"trouble\".",
-        "ja": "「trouble」は「心配」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 256,
-      "word": "truth",
-      "meaning": "真実",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"truth\".",
-        "ja": "「truth」は「真実」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 257,
-      "word": "type",
-      "meaning": "型",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"type\".",
-        "ja": "「type」は「型」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 258,
-      "word": "university",
-      "meaning": "大学",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"university\".",
-        "ja": "「university」は「大学」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 259,
-      "word": "vacation",
-      "meaning": "休暇",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"vacation\".",
-        "ja": "「vacation」は「休暇」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 260,
-      "word": "value",
-      "meaning": "価値",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"value\".",
-        "ja": "「value」は「価値」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 261,
-      "word": "variety",
-      "meaning": "変化",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"variety\".",
-        "ja": "「variety」は「変化」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 262,
-      "word": "view",
-      "meaning": "眺め",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"view\".",
-        "ja": "「view」は「眺め」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 263,
-      "word": "visitor",
-      "meaning": "訪問者",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"visitor\".",
-        "ja": "「visitor」は「訪問者」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 264,
-      "word": "voice",
-      "meaning": "声",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"voice\".",
-        "ja": "「voice」は「声」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 265,
-      "word": "war",
-      "meaning": "戦争",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"war\".",
-        "ja": "「war」は「戦争」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 266,
-      "word": "way",
-      "meaning": "道・方法",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"way\".",
-        "ja": "「way」は「道・方法」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 267,
-      "word": "wood",
-      "meaning": "木材",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"wood\".",
-        "ja": "「wood」は「木材」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 268,
-      "word": "word",
-      "meaning": "言葉",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"word\".",
-        "ja": "「word」は「言葉」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 269,
-      "word": "youth",
-      "meaning": "若さ",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"youth\".",
-        "ja": "「youth」は「若さ」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 270,
-      "word": "be good at",
-      "meaning": "～が得意だ",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"be good at\".",
-        "ja": "「be good at」は「～が得意だ」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 271,
-      "word": "look for",
-      "meaning": "～を探す",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"look for\".",
-        "ja": "「look for」は「～を探す」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 272,
-      "word": "take care of",
-      "meaning": "～の世話をする",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"take care of\".",
-        "ja": "「take care of」は「～の世話をする」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 273,
-      "word": "wait for",
-      "meaning": "～を待つ",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"wait for\".",
-        "ja": "「wait for」は「～を待つ」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 274,
-      "word": "get up",
-      "meaning": "起きる",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"get up\".",
-        "ja": "「get up」は「起きる」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 275,
-      "word": "sit down",
-      "meaning": "座る",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"sit down\".",
-        "ja": "「sit down」は「座る」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 276,
-      "word": "stand up",
-      "meaning": "立ち上がる",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"stand up\".",
-        "ja": "「stand up」は「立ち上がる」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 277,
-      "word": "all over",
-      "meaning": "～の至る所で",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"all over\".",
-        "ja": "「all over」は「～の至る所で」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 278,
-      "word": "a lot of",
-      "meaning": "たくさんの",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"a lot of\".",
-        "ja": "「a lot of」は「たくさんの」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 279,
-      "word": "kind of",
-      "meaning": "～の一種",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"kind of\".",
-        "ja": "「kind of」は「～の一種」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 280,
-      "word": "next to",
-      "meaning": "～の隣に",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"next to\".",
-        "ja": "「next to」は「～の隣に」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 281,
-      "word": "front of",
-      "meaning": "～の前に",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"front of\".",
-        "ja": "「front of」は「～の前に」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 282,
-      "word": "look forward to",
-      "meaning": "～を楽しみに待つ",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"look forward to\".",
-        "ja": "「look forward to」は「～を楽しみに待つ」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 283,
-      "word": "arrive at",
-      "meaning": "～に到着する",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"arrive at\".",
-        "ja": "「arrive at」は「～に到着する」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 284,
-      "word": "pick up",
-      "meaning": "～を拾う・車で迎えに行く",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"pick up\".",
-        "ja": "「pick up」は「～を拾う・車で迎えに行く」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 285,
-      "word": "turn on",
-      "meaning": "（電気を）つける",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"turn on\".",
-        "ja": "「turn on」は「（電気を）つける」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 286,
-      "word": "turn off",
-      "meaning": "（電気を）消す",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"turn off\".",
-        "ja": "「turn off」は「（電気を）消す」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 287,
-      "word": "put on",
-      "meaning": "～を身に着ける",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"put on\".",
-        "ja": "「put on」は「～を身に着ける」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 288,
-      "word": "take off",
-      "meaning": "～を脱ぐ・離陸する",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"take off\".",
-        "ja": "「take off」は「～を脱ぐ・離陸する」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 289,
-      "word": "by the way",
-      "meaning": "ところで",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"by the way\".",
-        "ja": "「by the way」は「ところで」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 290,
-      "word": "for example",
-      "meaning": "例えば",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"for example\".",
-        "ja": "「for example」は「例えば」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 291,
-      "word": "of course",
-      "meaning": "もちろん",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"of course\".",
-        "ja": "「of course」は「もちろん」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 292,
-      "word": "be afraid of",
-      "meaning": "～を恐れる",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"be afraid of\".",
-        "ja": "「be afraid of」は「～を恐れる」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 293,
-      "word": "be surprised at",
-      "meaning": "～に驚く",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"be surprised at\".",
-        "ja": "「be surprised at」は「～に驚く」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 294,
-      "word": "be interested in",
-      "meaning": "～に興味がある",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"be interested in\".",
-        "ja": "「be interested in」は「～に興味がある」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 295,
-      "word": "shake hands",
-      "meaning": "握手する",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"shake hands\".",
-        "ja": "「shake hands」は「握手する」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 296,
-      "word": "far from",
-      "meaning": "～から遠い",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"far from\".",
-        "ja": "「far from」は「～から遠い」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 297,
-      "word": "once more",
-      "meaning": "もう一度",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"once more\".",
-        "ja": "「once more」は「もう一度」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 298,
-      "word": "each other",
-      "meaning": "お互いに",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"each other\".",
-        "ja": "「each other」は「お互いに」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
-      }
-    },
-    {
-      "_no": 299,
-      "word": "all day long",
-      "meaning": "一日中",
-      "category": "よく出る",
-      "example": {
-        "en": "The word \"all day long\".",
-        "ja": "「all day long」は「一日中」という意味です。"
-      },
-      "info": {
-        "rank": "C",
-        "pos": ""
+        "pos": "熟語",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "due to,後ろに「名詞」が来る（because 単体なら後ろは文）。"
       }
     }
   ]

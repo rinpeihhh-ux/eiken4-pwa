@@ -5,13 +5,17 @@
       "word": "visit",
       "meaning": "訪れる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"visit\".",
-        "ja": "「visit」は「訪れる」という意味です。"
+        "en": "I want to visit Kyoto.",
+        "ja": "私は京都を訪れたいです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "visits / visited / visited",
+        "syn_ant": "-",
+        "advice": "「～を訪れる」は visit (場所)。toを入れないように注意！"
       }
     },
     {
@@ -19,13 +23,17 @@
       "word": "stay",
       "meaning": "滞在する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"stay\".",
-        "ja": "「stay」は「滞在する」という意味です。"
+        "en": "I stayed at the hotel.",
+        "ja": "私はそのホテルに泊まりました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "stays / stayed / stayed",
+        "syn_ant": "-",
+        "advice": "「～に滞在する」は stay at / stay in を使うよ。"
       }
     },
     {
@@ -33,13 +41,17 @@
       "word": "enjoy",
       "meaning": "楽しむ",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"enjoy\".",
-        "ja": "「enjoy」は「楽しむ」という意味です。"
+        "en": "We enjoyed the party.",
+        "ja": "私たちはパーティーを楽しみました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "enjoys / enjoyed / enjoyed",
+        "syn_ant": "-",
+        "advice": "うしろに動詞を置くときは必ず ～ing (動名詞) の形！"
       }
     },
     {
@@ -47,13 +59,17 @@
       "word": "learn",
       "meaning": "学ぶ",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"learn\".",
-        "ja": "「learn」は「学ぶ」という意味です。"
+        "en": "I learn English every day.",
+        "ja": "私は毎日英語を学んでいます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "learns / learned(learnt) / learned(learnt)",
+        "syn_ant": "study",
+        "advice": "studyは「机に向かう勉強」、learnは「身につける」イメージ。"
       }
     },
     {
@@ -61,13 +77,17 @@
       "word": "teach",
       "meaning": "教える",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"teach\".",
-        "ja": "「teach」は「教える」という意味です。"
+        "en": "She teaches us math.",
+        "ja": "彼女は私たちに数学を教えます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "teaches / taught / taught",
+        "syn_ant": "learn",
+        "advice": "teach (人) (物) の語順。過去形 taught の綴りに注意！"
       }
     },
     {
@@ -75,13 +95,17 @@
       "word": "remember",
       "meaning": "覚えている",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"remember\".",
-        "ja": "「remember」は「覚えている」という意味です。"
+        "en": "I remember your name.",
+        "ja": "あなたの名前を覚えています。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "remembers / remembered / remembered",
+        "syn_ant": "forget",
+        "advice": "反対語は forget (忘れる)。長い単語だけど4級の定番。"
       }
     },
     {
@@ -89,13 +113,17 @@
       "word": "forget",
       "meaning": "忘れる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"forget\".",
-        "ja": "「forget」は「忘れる」という意味です。"
+        "en": "Don't forget your umbrella.",
+        "ja": "傘を忘れないで。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "forgets / forgot / forgotten",
+        "syn_ant": "remember",
+        "advice": "過去形 forgot はよく使うよ。"
       }
     },
     {
@@ -103,13 +131,17 @@
       "word": "believe",
       "meaning": "信じる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"believe\".",
-        "ja": "「believe」は「信じる」という意味です。"
+        "en": "I believe you.",
+        "ja": "あなたを信じています。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "believes / believed / believed",
+        "syn_ant": "-",
+        "advice": "I believe that ～ (～だと信じている) の形も頻出。"
       }
     },
     {
@@ -117,13 +149,17 @@
       "word": "hope",
       "meaning": "望む",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"hope\".",
-        "ja": "「hope」は「望む」という意味です。"
+        "en": "I hope to see you again.",
+        "ja": "また会えることを願っています。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "hopes / hoped / hoped",
+        "syn_ant": "wish",
+        "advice": "実現の可能性が高い願いに使うよ。"
       }
     },
     {
@@ -131,13 +167,17 @@
       "word": "wish",
       "meaning": "願う",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"wish\".",
-        "ja": "「wish」は「願う」という意味です。"
+        "en": "I wish for peace.",
+        "ja": "平和を願います。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "wishes / wished / wished",
+        "syn_ant": "hope",
+        "advice": "不可能なことや強い願望に使うことが多い。"
       }
     },
     {
@@ -145,13 +185,17 @@
       "word": "try",
       "meaning": "試す・努力する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"try\".",
-        "ja": "「try」は「試す・努力する」という意味です。"
+        "en": "Try your best.",
+        "ja": "最善を尽くしなさい。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "tries / tried / tried",
+        "syn_ant": "-",
+        "advice": "子音字+yなので yをiに変えてes/edにするよ。"
       }
     },
     {
@@ -159,13 +203,17 @@
       "word": "bring",
       "meaning": "持ってくる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"bring\".",
-        "ja": "「bring」は「持ってくる」という意味です。"
+        "en": "Bring me some water.",
+        "ja": "水を持ってきて。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "brings / brought / brought",
+        "syn_ant": "take(持っていく)",
+        "advice": "不規則変化 brought（ブラウト）の綴りをしっかり練習して。"
       }
     },
     {
@@ -173,13 +221,17 @@
       "word": "carry",
       "meaning": "運ぶ",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"carry\".",
-        "ja": "「carry」は「運ぶ」という意味です。"
+        "en": "He carried a big bag.",
+        "ja": "彼は大きなバッグを運びました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "carries / carried / carried",
+        "syn_ant": "-",
+        "advice": "これも子音字+yの変化（iに変えてed）の代表例。"
       }
     },
     {
@@ -187,27 +239,35 @@
       "word": "keep",
       "meaning": "保つ・飼う",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"keep\".",
-        "ja": "「keep」は「保つ・飼う」という意味です。"
+        "en": "Keep your room clean.",
+        "ja": "部屋をきれいにしておきなさい。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "keeps / kept / kept",
+        "syn_ant": "-",
+        "advice": "不規則変化 kept。犬などを「飼う」という意味も重要。"
       }
     },
     {
       "_no": 15,
       "word": "leave",
-      "meaning": "去る・出発する・残す",
+      "meaning": "去る・出発する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"leave\".",
-        "ja": "「leave」は「去る・出発する・残す」という意味です。"
+        "en": "The train leaves at ten.",
+        "ja": "列車は10時に出発します。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "leaves / left / left",
+        "syn_ant": "arrive(到着)",
+        "advice": "「～を置き忘れる」という意味もあるよ(left my umbrella)。"
       }
     },
     {
@@ -215,13 +275,17 @@
       "word": "become",
       "meaning": "～になる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"become\".",
-        "ja": "「become」は「～になる」という意味です。"
+        "en": "I want to become a singer.",
+        "ja": "歌手になりたいです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "becomes / became / become",
+        "syn_ant": "-",
+        "advice": "become - became - become。活用が come と同じ。"
       }
     },
     {
@@ -229,13 +293,17 @@
       "word": "happen",
       "meaning": "起こる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"happen\".",
-        "ja": "「happen」は「起こる」という意味です。"
+        "en": "What happened?",
+        "ja": "何が起きたのですか？"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "happens / happened / happened",
+        "syn_ant": "-",
+        "advice": "予期せぬ出来事が起きる時に使う。"
       }
     },
     {
@@ -243,13 +311,17 @@
       "word": "feel",
       "meaning": "感じる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"feel\".",
-        "ja": "「feel」は「感じる」という意味です。"
+        "en": "I feel happy.",
+        "ja": "私は幸せに感じます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "feels / felt / felt",
+        "syn_ant": "-",
+        "advice": "feel sick (気分が悪い) など、体の状態にも使う。"
       }
     },
     {
@@ -257,13 +329,17 @@
       "word": "decide",
       "meaning": "決める",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"decide\".",
-        "ja": "「decide」は「決める」という意味です。"
+        "en": "I decided to go.",
+        "ja": "行くことに決めました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "decides / decided / decided",
+        "syn_ant": "-",
+        "advice": "decide to ～ (～することに決める) の不定詞セットが頻出。"
       }
     },
     {
@@ -271,13 +347,17 @@
       "word": "worry",
       "meaning": "心配する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"worry\".",
-        "ja": "「worry」は「心配する」という意味です。"
+        "en": "Don't worry about it.",
+        "ja": "それについて心配しないで。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "worries / worried / worried",
+        "syn_ant": "-",
+        "advice": "worry about ～ (～について心配する) をセットで。"
       }
     },
     {
@@ -285,13 +365,17 @@
       "word": "invite",
       "meaning": "招待する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"invite\".",
-        "ja": "「invite」は「招待する」という意味です。"
+        "en": "I invited Ken to my house.",
+        "ja": "ケンを家に招待しました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "invites / invited / invited",
+        "syn_ant": "-",
+        "advice": "invite (人) to (場所) の形。"
       }
     },
     {
@@ -299,13 +383,17 @@
       "word": "answer",
       "meaning": "答える",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"answer\".",
-        "ja": "「answer」は「答える」という意味です。"
+        "en": "Please answer my question.",
+        "ja": "質問に答えてください。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "answers / answered / answered",
+        "syn_ant": "ask(問う)",
+        "advice": "wは発音しないよ。「アンサー」。"
       }
     },
     {
@@ -313,13 +401,17 @@
       "word": "borrow",
       "meaning": "借りる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"borrow\".",
-        "ja": "「borrow」は「借りる」という意味です。"
+        "en": "Can I borrow your pen?",
+        "ja": "ペンを借りてもいいですか？"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "borrows / borrowed / borrowed",
+        "syn_ant": "lend(貸す)",
+        "advice": "無料で借りる時に使う（お金を払うのは rent）。"
       }
     },
     {
@@ -327,13 +419,17 @@
       "word": "lend",
       "meaning": "貸す",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"lend\".",
-        "ja": "「lend」は「貸す」という意味です。"
+        "en": "I lent him my book.",
+        "ja": "彼に本を貸しました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "lends / lent / lent",
+        "syn_ant": "borrow",
+        "advice": "不規則変化 lent。dがtに変わるよ。"
       }
     },
     {
@@ -341,13 +437,17 @@
       "word": "mean",
       "meaning": "意味する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"mean\".",
-        "ja": "「mean」は「意味する」という意味です。"
+        "en": "What does this word mean?",
+        "ja": "この単語はどういう意味？"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "means / meant / meant",
+        "syn_ant": "-",
+        "advice": "過去形 meant は「メニィ」ではなく「メット」と読むよ。"
       }
     },
     {
@@ -355,13 +455,17 @@
       "word": "understand",
       "meaning": "理解する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"understand\".",
-        "ja": "「understand」は「理解する」という意味です。"
+        "en": "I don't understand French.",
+        "ja": "フランス語はわかりません。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "understands / understood / understood",
+        "syn_ant": "-",
+        "advice": "活用は stand - stood と同じ。"
       }
     },
     {
@@ -369,13 +473,17 @@
       "word": "laugh",
       "meaning": "笑う",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"laugh\".",
-        "ja": "「laugh」は「笑う」という意味です。"
+        "en": "They laughed at the joke.",
+        "ja": "彼らは冗談を聞いて笑いました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "laughs / laughed / laughed",
+        "syn_ant": "smile",
+        "advice": "声を上げて笑うこと。laugh at ～ (～を笑う)。"
       }
     },
     {
@@ -383,13 +491,17 @@
       "word": "smile",
       "meaning": "微笑む",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"smile\".",
-        "ja": "「smile」は「微笑む」という意味です。"
+        "en": "She smiled at me.",
+        "ja": "彼女は私に微笑みました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "smiles / smiled / smiled",
+        "syn_ant": "laugh",
+        "advice": "声を上げずにニコニコすること。"
       }
     },
     {
@@ -397,13 +509,17 @@
       "word": "cry",
       "meaning": "泣く",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"cry\".",
-        "ja": "「cry」は「泣く」という意味です。"
+        "en": "The baby is crying.",
+        "ja": "赤ちゃんが泣いています。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "cries / cried / cried",
+        "syn_ant": "-",
+        "advice": "子音字+yの変化（iに変えてes/ed）。"
       }
     },
     {
@@ -411,13 +527,17 @@
       "word": "swim",
       "meaning": "泳ぐ",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"swim\".",
-        "ja": "「swim」は「泳ぐ」という意味です。"
+        "en": "I swim in the sea.",
+        "ja": "海で泳ぎます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "swims / swam / swum",
+        "syn_ant": "-",
+        "advice": "活用 swim - swam - swum。mを重ねて swimming。"
       }
     },
     {
@@ -425,13 +545,17 @@
       "word": "climb",
       "meaning": "登る",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"climb\".",
-        "ja": "「climb」は「登る」という意味です。"
+        "en": "Let's climb the mountain.",
+        "ja": "山に登ろう。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "climbs / climbed / climbed",
+        "syn_ant": "-",
+        "advice": "最後のbは発音しないよ。「クライム」。"
       }
     },
     {
@@ -439,13 +563,17 @@
       "word": "sing",
       "meaning": "歌う",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"sing\".",
-        "ja": "「sing」は「歌う」という意味です。"
+        "en": "She sings well.",
+        "ja": "彼女は上手に歌います。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "sings / sang / sung",
+        "syn_ant": "-",
+        "advice": "活用 sing - sang - sung。i → a → u の変化。"
       }
     },
     {
@@ -453,13 +581,17 @@
       "word": "dance",
       "meaning": "踊る",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"dance\".",
-        "ja": "「dance」は「踊る」という意味です。"
+        "en": "We danced together.",
+        "ja": "私たちは一緒に踊りました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "dances / danced / danced",
+        "syn_ant": "-",
+        "advice": "eで終わるので d だけつける。"
       }
     },
     {
@@ -467,13 +599,17 @@
       "word": "cook",
       "meaning": "料理する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"cook\".",
-        "ja": "「cook」は「料理する」という意味です。"
+        "en": "I cook every day.",
+        "ja": "私は毎日料理をします。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "cooks / cooked / cooked",
+        "syn_ant": "-",
+        "advice": "名詞で「料理人」という意味もある（cookerは道具の事）。"
       }
     },
     {
@@ -481,13 +617,17 @@
       "word": "clean",
       "meaning": "掃除する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"clean\".",
-        "ja": "「clean」は「掃除する」という意味です。"
+        "en": "Clean your room.",
+        "ja": "部屋を掃除しなさい。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "cleans / cleaned / cleaned",
+        "syn_ant": "-",
+        "advice": "形容詞で「きれいな」という意味もあるよ。"
       }
     },
     {
@@ -495,13 +635,17 @@
       "word": "wash",
       "meaning": "洗う",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"wash\".",
-        "ja": "「wash」は「洗う」という意味です。"
+        "en": "Wash your hands.",
+        "ja": "手を洗いなさい。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "washes / washed / washed",
+        "syn_ant": "-",
+        "advice": "三単現は es をつける(washes)。"
       }
     },
     {
@@ -509,13 +653,17 @@
       "word": "paint",
       "meaning": "塗る・描く",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"paint\".",
-        "ja": "「paint」は「塗る・描く」という意味です。"
+        "en": "I paint a picture.",
+        "ja": "絵を描きます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "paints / painted / painted",
+        "syn_ant": "draw",
+        "advice": "ペンキなどで「塗る」、絵の具で描くこと。"
       }
     },
     {
@@ -523,13 +671,17 @@
       "word": "draw",
       "meaning": "描く",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"draw\".",
-        "ja": "「draw」は「描く」という意味です。"
+        "en": "He draws a map.",
+        "ja": "彼は地図を描きます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "draws / drew / drawn",
+        "syn_ant": "paint",
+        "advice": "鉛筆やペンで線を描くこと。活用 drew に注意。"
       }
     },
     {
@@ -537,13 +689,17 @@
       "word": "build",
       "meaning": "建てる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"build\".",
-        "ja": "「build」は「建てる」という意味です。"
+        "en": "They build a new house.",
+        "ja": "彼らは新しい家を建てます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "builds / built / built",
+        "syn_ant": "-",
+        "advice": "過去形 built。dがtに変わる不規則変化。"
       }
     },
     {
@@ -551,13 +707,17 @@
       "word": "sell",
       "meaning": "売る",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"sell\".",
-        "ja": "「sell」は「売る」という意味です。"
+        "en": "The store sells flowers.",
+        "ja": "その店は花を売っています。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "sells / sold / sold",
+        "syn_ant": "buy(買う)",
+        "advice": "過去形 sold。buy の反対語。"
       }
     },
     {
@@ -565,13 +725,17 @@
       "word": "send",
       "meaning": "送る",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"send\".",
-        "ja": "「send」は「送る」という意味です。"
+        "en": "I send an email.",
+        "ja": "メールを送ります。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "sends / sent / sent",
+        "syn_ant": "receive(受)",
+        "advice": "過去形 sent。dがtに変わる活用。"
       }
     },
     {
@@ -579,13 +743,17 @@
       "word": "show",
       "meaning": "見せる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"show\".",
-        "ja": "「show」は「見せる」という意味です。"
+        "en": "Show me your picture.",
+        "ja": "写真を見せて。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "shows / showed / shown",
+        "syn_ant": "-",
+        "advice": "show (人) (物) の語順。過去分詞 shown をたまに見かけるよ。"
       }
     },
     {
@@ -593,13 +761,17 @@
       "word": "catch",
       "meaning": "捕まえる",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"catch\".",
-        "ja": "「catch」は「捕まえる」という意味です。"
+        "en": "Catch the ball.",
+        "ja": "ボールを捕まえて。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "catches / caught / caught",
+        "syn_ant": "-",
+        "advice": "過去形 caught（コート）は buy の過去形 bought と似てるね！"
       }
     },
     {
@@ -607,13 +779,17 @@
       "word": "hold",
       "meaning": "持つ・開催する",
       "category": "頻出",
+      "pos": "動詞",
       "example": {
-        "en": "The word \"hold\".",
-        "ja": "「hold」は「持つ・開催する」という意味です。"
+        "en": "Hold my hand.",
+        "ja": "手を握って。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "動詞",
+        "inflections": "holds / held / held",
+        "syn_ant": "-",
+        "advice": "「イベントを開く」という意味でもよく出るよ。"
       }
     },
     {
@@ -621,13 +797,17 @@
       "word": "library",
       "meaning": "図書館",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"library\".",
-        "ja": "「library」は「図書館」という意味です。"
+        "en": "I study in the library.",
+        "ja": "図書館で勉強します。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / libraries(複)",
+        "advice": "-,yをiに変えてesにする複数形。"
       }
     },
     {
@@ -635,13 +815,17 @@
       "word": "park",
       "meaning": "公園",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"park\".",
-        "ja": "「park」は「公園」という意味です。"
+        "en": "Let's go to the park.",
+        "ja": "公園に行こう。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / parks(複)",
+        "advice": "-,「駐車する」という動詞の意味もあるよ。"
       }
     },
     {
@@ -649,13 +833,17 @@
       "word": "hospital",
       "meaning": "病院",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"hospital\".",
-        "ja": "「hospital」は「病院」という意味です。"
+        "en": "He is in the hospital.",
+        "ja": "彼は入院しています。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / hospitals(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -663,13 +851,17 @@
       "word": "station",
       "meaning": "駅",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"station\".",
-        "ja": "「station」は「駅」という意味です。"
+        "en": "The station is near.",
+        "ja": "駅は近いです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / stations(複)",
+        "advice": "-,train station (鉄道の駅)。"
       }
     },
     {
@@ -677,13 +869,17 @@
       "word": "airport",
       "meaning": "空港",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"airport\".",
-        "ja": "「airport」は「空港」という意味です。"
+        "en": "At the airport.",
+        "ja": "空港で。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / airports(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -691,13 +887,17 @@
       "word": "store",
       "meaning": "店",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"store\".",
-        "ja": "「store」は「店」という意味です。"
+        "en": "This store is big.",
+        "ja": "この店は大きいです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / stores(複)",
+        "advice": "shop,department store (デパート)。"
       }
     },
     {
@@ -705,13 +905,17 @@
       "word": "shop",
       "meaning": "店・買い物をする",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"shop\".",
-        "ja": "「shop」は「店・買い物をする」という意味です。"
+        "en": "Go shopping.",
+        "ja": "買い物に行く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / shops(複)",
+        "advice": "store,動詞でも名詞でも使われる。pを重ねて shopping。"
       }
     },
     {
@@ -719,27 +923,35 @@
       "word": "restaurant",
       "meaning": "レストラン",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"restaurant\".",
-        "ja": "「restaurant」は「レストラン」という意味です。"
+        "en": "We eat at a restaurant.",
+        "ja": "レストランで食べる。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / restaurants(複)",
+        "advice": "-,綴りが長いので分割して覚えよう(rest-au-rant)。"
       }
     },
     {
       "_no": 53,
       "word": "museum",
-      "meaning": "博物館・美術館",
+      "meaning": "博物館",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"museum\".",
-        "ja": "「museum」は「博物館・美術館」という意味です。"
+        "en": "The museum is old.",
+        "ja": "その博物館は古いです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / museums(複)",
+        "advice": "-,art museum (美術館)。"
       }
     },
     {
@@ -747,13 +959,17 @@
       "word": "zoo",
       "meaning": "動物園",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"zoo\".",
-        "ja": "「zoo」は「動物園」という意味です。"
+        "en": "I see lions at the zoo.",
+        "ja": "動物園でライオンを見ます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / zoos(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -761,13 +977,17 @@
       "word": "bank",
       "meaning": "銀行",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"bank\".",
-        "ja": "「bank」は「銀行」という意味です。"
+        "en": "Go to the bank.",
+        "ja": "銀行に行く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / banks(複)",
+        "advice": "-,「川の土手」という意味もあるよ。"
       }
     },
     {
@@ -775,13 +995,17 @@
       "word": "post office",
       "meaning": "郵便局",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"post office\".",
-        "ja": "「post office」は「郵便局」という意味です。"
+        "en": "Where is the post office?",
+        "ja": "郵便局はどこ？"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / post offices(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -789,13 +1013,17 @@
       "word": "city",
       "meaning": "都市",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"city\".",
-        "ja": "「city」は「都市」という意味です。"
+        "en": "Tokyo is a big city.",
+        "ja": "東京は大きな都市です。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / cities(複)",
+        "advice": "town,yをiに変えてes(cities)。"
       }
     },
     {
@@ -803,13 +1031,17 @@
       "word": "town",
       "meaning": "町",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"town\".",
-        "ja": "「town」は「町」という意味です。"
+        "en": "My town is small.",
+        "ja": "私の町は小さいです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / towns(複)",
+        "advice": "city,cityよりは小さい規模。"
       }
     },
     {
@@ -817,13 +1049,17 @@
       "word": "village",
       "meaning": "村",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"village\".",
-        "ja": "「village」は「村」という意味です。"
+        "en": "He lives in a village.",
+        "ja": "彼は村に住んでいます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / villages(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -831,13 +1067,17 @@
       "word": "country",
       "meaning": "国・田舎",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"country\".",
-        "ja": "「country」は「国・田舎」という意味です。"
+        "en": "I visit Japan.",
+        "ja": "日本という国を訪れる。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / countries(複)",
+        "advice": "-,yをiに変えてes。"
       }
     },
     {
@@ -845,13 +1085,17 @@
       "word": "world",
       "meaning": "世界",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"world\".",
-        "ja": "「world」は「世界」という意味です。"
+        "en": "All over the world.",
+        "ja": "世界中で。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / worlds(複)",
+        "advice": "-,around the world (世界一周)。"
       }
     },
     {
@@ -859,13 +1103,17 @@
       "word": "island",
       "meaning": "島",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"island\".",
-        "ja": "「island」は「島」という意味です。"
+        "en": "I live on an island.",
+        "ja": "島に住んでいます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / islands(複)",
+        "advice": "-,sは発音しないよ。「アイランド」。"
       }
     },
     {
@@ -873,13 +1121,17 @@
       "word": "mountain",
       "meaning": "山",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"mountain\".",
-        "ja": "「mountain」は「山」という意味です。"
+        "en": "Climb a mountain.",
+        "ja": "山に登る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / mountains(複)",
+        "advice": "-,Mt. Fuji (富士山)。"
       }
     },
     {
@@ -887,13 +1139,17 @@
       "word": "river",
       "meaning": "川",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"river\".",
-        "ja": "「river」は「川」という意味です。"
+        "en": "Swim in the river.",
+        "ja": "川で泳ぐ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / rivers(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -901,13 +1157,17 @@
       "word": "lake",
       "meaning": "湖",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"lake\".",
-        "ja": "「lake」は「湖」という意味です。"
+        "en": "Biwa is a lake.",
+        "ja": "琵琶湖は湖です。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / lakes(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -915,13 +1175,17 @@
       "word": "sea",
       "meaning": "海",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"sea\".",
-        "ja": "「sea」は「海」という意味です。"
+        "en": "I swim in the sea.",
+        "ja": "海で泳ぎます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / seas(複)",
+        "advice": "ocean,ocean(大洋)より身近な海。"
       }
     },
     {
@@ -929,13 +1193,17 @@
       "word": "beach",
       "meaning": "浜辺",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"beach\".",
-        "ja": "「beach」は「浜辺」という意味です。"
+        "en": "Go to the beach.",
+        "ja": "浜辺に行く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / beaches(複)",
+        "advice": "-,複数形は es をつける。"
       }
     },
     {
@@ -943,13 +1211,17 @@
       "word": "nature",
       "meaning": "自然",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"nature\".",
-        "ja": "「nature」は「自然」という意味です。"
+        "en": "I like nature.",
+        "ja": "自然が好きです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,発音は「ネイチャー」。"
       }
     },
     {
@@ -957,13 +1229,17 @@
       "word": "earth",
       "meaning": "地球",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"earth\".",
-        "ja": "「earth」は「地球」という意味です。"
+        "en": "The earth is blue.",
+        "ja": "地球は青い。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "単数扱い",
+        "advice": "-,普通 the をつける。"
       }
     },
     {
@@ -971,13 +1247,17 @@
       "word": "sky",
       "meaning": "空",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"sky\".",
-        "ja": "「sky」は「空」という意味です。"
+        "en": "The sky is blue.",
+        "ja": "空は青い。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / skies(複)",
+        "advice": "-,yをiに変えてes。"
       }
     },
     {
@@ -985,13 +1265,17 @@
       "word": "sun",
       "meaning": "太陽",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"sun\".",
-        "ja": "「sun」は「太陽」という意味です。"
+        "en": "The sun is hot.",
+        "ja": "太陽は熱い。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "単数扱い",
+        "advice": "-,the sun で使う。"
       }
     },
     {
@@ -999,13 +1283,17 @@
       "word": "moon",
       "meaning": "月",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"moon\".",
-        "ja": "「moon」は「月」という意味です。"
+        "en": "The moon is beautiful.",
+        "ja": "月がきれいだ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "単数扱い",
+        "advice": "-,the moon で使う。"
       }
     },
     {
@@ -1013,13 +1301,17 @@
       "word": "star",
       "meaning": "星",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"star\".",
-        "ja": "「star」は「星」という意味です。"
+        "en": "See the stars.",
+        "ja": "星を見る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / stars(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1027,13 +1319,17 @@
       "word": "weather",
       "meaning": "天気",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"weather\".",
-        "ja": "「weather」は「天気」という意味です。"
+        "en": "How is the weather?",
+        "ja": "天気はどうですか？"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,数えられない名詞なので a はつけない。"
       }
     },
     {
@@ -1041,13 +1337,17 @@
       "word": "rain",
       "meaning": "雨",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"rain\".",
-        "ja": "「rain」は「雨」という意味です。"
+        "en": "It's going to rain.",
+        "ja": "雨が降りそうだ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / -",
+        "advice": "-,動詞(雨が降る)としても名詞としても使う。"
       }
     },
     {
@@ -1055,13 +1355,17 @@
       "word": "snow",
       "meaning": "雪",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"snow\".",
-        "ja": "「snow」は「雪」という意味です。"
+        "en": "A lot of snow.",
+        "ja": "たくさんの雪。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / -",
+        "advice": "-,動詞(雪が降る)としても名詞としても使う。"
       }
     },
     {
@@ -1069,13 +1373,17 @@
       "word": "wind",
       "meaning": "風",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"wind\".",
-        "ja": "「wind」は「風」という意味です。"
+        "en": "The wind is strong.",
+        "ja": "風が強い。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / winds(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1083,13 +1391,17 @@
       "word": "cloud",
       "meaning": "雲",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"cloud\".",
-        "ja": "「cloud」は「雲」という意味です。"
+        "en": "White clouds.",
+        "ja": "白い雲。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / clouds(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1097,13 +1409,17 @@
       "word": "sunny",
       "meaning": "晴れた",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"sunny\".",
-        "ja": "「sunny」は「晴れた」という意味です。"
+        "en": "A sunny day.",
+        "ja": "晴れた日。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(sunnier/sunniest)",
+        "syn_ant": "-",
+        "advice": "nを重ねて y をつける形。"
       }
     },
     {
@@ -1111,13 +1427,17 @@
       "word": "rainy",
       "meaning": "雨の",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"rainy\".",
-        "ja": "「rainy」は「雨の」という意味です。"
+        "en": "The rainy season.",
+        "ja": "梅雨（雨の季節）。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(rainier/rainiest)",
+        "syn_ant": "-",
+        "advice": "rain + y。"
       }
     },
     {
@@ -1125,13 +1445,17 @@
       "word": "cloudy",
       "meaning": "曇った",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"cloudy\".",
-        "ja": "「cloudy」は「曇った」という意味です。"
+        "en": "It's cloudy.",
+        "ja": "曇っています。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(cloudier/cloudiest)",
+        "syn_ant": "-",
+        "advice": "cloud + y。"
       }
     },
     {
@@ -1139,13 +1463,17 @@
       "word": "snowy",
       "meaning": "雪の",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"snowy\".",
-        "ja": "「snowy」は「雪の」という意味です。"
+        "en": "A snowy night.",
+        "ja": "雪の夜。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(snowier/snowiest)",
+        "syn_ant": "-",
+        "advice": "snow + y。"
       }
     },
     {
@@ -1153,13 +1481,17 @@
       "word": "food",
       "meaning": "食べ物",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"food\".",
-        "ja": "「food」は「食べ物」という意味です。"
+        "en": "Healthy food.",
+        "ja": "健康に良い食べ物。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / foods(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1167,13 +1499,17 @@
       "word": "breakfast",
       "meaning": "朝食",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"breakfast\".",
-        "ja": "「breakfast」は「朝食」という意味です。"
+        "en": "Eat breakfast.",
+        "ja": "朝食を食べる。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / breakfasts(複)",
+        "advice": "-,「断食(fast)を破る(break)」が語源。"
       }
     },
     {
@@ -1181,13 +1517,17 @@
       "word": "lunch",
       "meaning": "昼食",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"lunch\".",
-        "ja": "「lunch」は「昼食」という意味です。"
+        "en": "Let's have lunch.",
+        "ja": "昼食を食べよう。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / lunches(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1195,13 +1535,17 @@
       "word": "dinner",
       "meaning": "夕食",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"dinner\".",
-        "ja": "「dinner」は「夕食」という意味です。"
+        "en": "After dinner.",
+        "ja": "夕食の後に。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / dinners(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1209,13 +1553,17 @@
       "word": "vegetable",
       "meaning": "野菜",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"vegetable\".",
-        "ja": "「vegetable」は「野菜」という意味です。"
+        "en": "I like vegetables.",
+        "ja": "私は野菜が好きです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / vegetables(複)",
+        "advice": "-,ベジタブル。"
       }
     },
     {
@@ -1223,13 +1571,17 @@
       "word": "fruit",
       "meaning": "果物",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"fruit\".",
-        "ja": "「fruit」は「果物」という意味です。"
+        "en": "Fresh fruit.",
+        "ja": "新鮮な果物。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / fruits(複)",
+        "advice": "-,通常sをつけずに集合的に使うことも多い。"
       }
     },
     {
@@ -1237,13 +1589,17 @@
       "word": "rice",
       "meaning": "米・ごはん",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"rice\".",
-        "ja": "「rice」は「米・ごはん」という意味です。"
+        "en": "Eat rice.",
+        "ja": "ごはんを食べる。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,数えられない名詞。"
       }
     },
     {
@@ -1251,13 +1607,17 @@
       "word": "bread",
       "meaning": "パン",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"bread\".",
-        "ja": "「bread」は「パン」という意味です。"
+        "en": "I eat bread.",
+        "ja": "パンを食べます。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,これも数えられない名詞。a slice of bread と数える。"
       }
     },
     {
@@ -1265,13 +1625,17 @@
       "word": "milk",
       "meaning": "牛乳",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"milk\".",
-        "ja": "「milk」は「牛乳」という意味です。"
+        "en": "Drink milk.",
+        "ja": "牛乳を飲む。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,-"
       }
     },
     {
@@ -1279,13 +1643,17 @@
       "word": "water",
       "meaning": "水",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"water\".",
-        "ja": "「water」は「水」という意味です。"
+        "en": "Cold water.",
+        "ja": "冷たい水。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,-"
       }
     },
     {
@@ -1293,13 +1661,17 @@
       "word": "tea",
       "meaning": "茶",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"tea\".",
-        "ja": "「tea」は「茶」という意味です。"
+        "en": "Green tea.",
+        "ja": "緑茶。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / teas(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1307,13 +1679,17 @@
       "word": "coffee",
       "meaning": "コーヒー",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"coffee\".",
-        "ja": "「coffee」は「コーヒー」という意味です。"
+        "en": "Black coffee.",
+        "ja": "ブラックコーヒー。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / coffees(複)",
+        "advice": "-,eが2つ。"
       }
     },
     {
@@ -1321,13 +1697,17 @@
       "word": "cake",
       "meaning": "ケーキ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"cake\".",
-        "ja": "「cake」は「ケーキ」という意味です。"
+        "en": "A piece of cake.",
+        "ja": "ケーキ1切れ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / cakes(複)",
+        "advice": "-,「朝飯前」という熟語（a piece of cake）も超有名！"
       }
     },
     {
@@ -1335,13 +1715,17 @@
       "word": "egg",
       "meaning": "卵",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"egg\".",
-        "ja": "「egg」は「卵」という意味です。"
+        "en": "Boiled egg.",
+        "ja": "ゆで卵。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / eggs(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1349,13 +1733,17 @@
       "word": "meat",
       "meaning": "肉",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"meat\".",
-        "ja": "「meat」は「肉」という意味です。"
+        "en": "Beef is meat.",
+        "ja": "牛肉は肉です。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,meet (会う) と発音が同じ。"
       }
     },
     {
@@ -1363,13 +1751,17 @@
       "word": "fish",
       "meaning": "魚",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"fish\".",
-        "ja": "「fish」は「魚」という意味です。"
+        "en": "Catch a fish.",
+        "ja": "魚を捕まえる。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / fish(複)",
+        "advice": "-,単数も複数も fish。sをつけないのが普通！"
       }
     },
     {
@@ -1377,13 +1769,17 @@
       "word": "apple",
       "meaning": "リンゴ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"apple\".",
-        "ja": "「apple」は「リンゴ」という意味です。"
+        "en": "Red apple.",
+        "ja": "赤いリンゴ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / apples(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1391,13 +1787,17 @@
       "word": "orange",
       "meaning": "オレンジ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"orange\".",
-        "ja": "「orange」は「オレンジ」という意味です。"
+        "en": "Drink orange juice.",
+        "ja": "オレンジジュース。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / oranges(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1405,13 +1805,17 @@
       "word": "hobby",
       "meaning": "趣味",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"hobby\".",
-        "ja": "「hobby」は「趣味」という意味です。"
+        "en": "My hobby is music.",
+        "ja": "私の趣味は音楽です。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / hobbies(複)",
+        "advice": "-,yをiに変えてes。"
       }
     },
     {
@@ -1419,13 +1823,17 @@
       "word": "music",
       "meaning": "音楽",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"music\".",
-        "ja": "「music」は「音楽」という意味です。"
+        "en": "Listen to music.",
+        "ja": "音楽を聴く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,-"
       }
     },
     {
@@ -1433,13 +1841,17 @@
       "word": "song",
       "meaning": "歌",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"song\".",
-        "ja": "「song」は「歌」という意味です。"
+        "en": "Sing a song.",
+        "ja": "歌を歌う。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / songs(複)",
+        "advice": "-,sing(動詞)とsong(名詞)の区別に注意。"
       }
     },
     {
@@ -1447,13 +1859,17 @@
       "word": "sport",
       "meaning": "スポーツ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"sport\".",
-        "ja": "「sport」は「スポーツ」という意味です。"
+        "en": "Do you like sports?",
+        "ja": "スポーツは好きですか？"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / sports(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1461,13 +1877,17 @@
       "word": "game",
       "meaning": "試合・ゲーム",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"game\".",
-        "ja": "「game」は「試合・ゲーム」という意味です。"
+        "en": "Soccer game.",
+        "ja": "サッカーの試合。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / games(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1475,13 +1895,17 @@
       "word": "soccer",
       "meaning": "サッカー",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"soccer\".",
-        "ja": "「soccer」は「サッカー」という意味です。"
+        "en": "Play soccer.",
+        "ja": "サッカーをする。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,-"
       }
     },
     {
@@ -1489,13 +1913,17 @@
       "word": "baseball",
       "meaning": "野球",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"baseball\".",
-        "ja": "「baseball」は「野球」という意味です。"
+        "en": "Play baseball.",
+        "ja": "野球をする。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,-"
       }
     },
     {
@@ -1503,13 +1931,17 @@
       "word": "tennis",
       "meaning": "テニス",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"tennis\".",
-        "ja": "「tennis」は「テニス」という意味です。"
+        "en": "Play tennis.",
+        "ja": "テニスをする。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,-"
       }
     },
     {
@@ -1517,13 +1949,17 @@
       "word": "basketball",
       "meaning": "バスケットボール",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"basketball\".",
-        "ja": "「basketball」は「バスケットボール」という意味です。"
+        "en": "Join the basketball club.",
+        "ja": "バスケ部に入る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,-"
       }
     },
     {
@@ -1531,13 +1967,17 @@
       "word": "piano",
       "meaning": "ピアノ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"piano\".",
-        "ja": "「piano」は「ピアノ」という意味です。"
+        "en": "Play the piano.",
+        "ja": "ピアノを弾く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / pianos(複)",
+        "advice": "-,楽器の前には the を忘れないで！"
       }
     },
     {
@@ -1545,13 +1985,17 @@
       "word": "guitar",
       "meaning": "ギター",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"guitar\".",
-        "ja": "「guitar」は「ギター」という意味です。"
+        "en": "Play the guitar.",
+        "ja": "ギターを弾く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / guitars(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1559,13 +2003,17 @@
       "word": "violin",
       "meaning": "バイオリン",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"violin\".",
-        "ja": "「violin」は「バイオリン」という意味です。"
+        "en": "Play the violin.",
+        "ja": "バイオリンを弾く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / violins(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1573,13 +2021,17 @@
       "word": "animal",
       "meaning": "動物",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"animal\".",
-        "ja": "「animal」は「動物」という意味です。"
+        "en": "I like animals.",
+        "ja": "動物が好きです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / animals(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1587,13 +2039,17 @@
       "word": "dog",
       "meaning": "犬",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"dog\".",
-        "ja": "「dog」は「犬」という意味です。"
+        "en": "Keep a dog.",
+        "ja": "犬を飼う。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / dogs(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1601,13 +2057,17 @@
       "word": "cat",
       "meaning": "猫",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"cat\".",
-        "ja": "「cat」は「猫」という意味です。"
+        "en": "My cat is sleeping.",
+        "ja": "私の猫は眠っている。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / cats(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1615,13 +2075,17 @@
       "word": "bird",
       "meaning": "鳥",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"bird\".",
-        "ja": "「bird」は「鳥」という意味です。"
+        "en": "A blue bird.",
+        "ja": "青い鳥。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / birds(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1629,13 +2093,17 @@
       "word": "rabbit",
       "meaning": "ウサギ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"rabbit\".",
-        "ja": "「rabbit」は「ウサギ」という意味です。"
+        "en": "White rabbit.",
+        "ja": "白いウサギ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / rabbits(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1643,13 +2111,17 @@
       "word": "horse",
       "meaning": "馬",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"horse\".",
-        "ja": "「horse」は「馬」という意味です。"
+        "en": "Ride a horse.",
+        "ja": "馬に乗る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / horses(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1657,13 +2129,17 @@
       "word": "bear",
       "meaning": "クマ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"bear\".",
-        "ja": "「bear」は「クマ」という意味です。"
+        "en": "A big bear.",
+        "ja": "大きなクマ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / bears(複)",
+        "advice": "-,動詞だと「耐える」や「産む」という意味も。"
       }
     },
     {
@@ -1671,13 +2147,17 @@
       "word": "lion",
       "meaning": "ライオン",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"lion\".",
-        "ja": "「lion」は「ライオン」という意味です。"
+        "en": "The king of animals.",
+        "ja": "百獣の王。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / lions(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1685,13 +2165,17 @@
       "word": "elephant",
       "meaning": "ゾウ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"elephant\".",
-        "ja": "「elephant」は「ゾウ」という意味です。"
+        "en": "An elephant is big.",
+        "ja": "ゾウは大きい。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / elephants(複)",
+        "advice": "-,an elephant になる。"
       }
     },
     {
@@ -1699,13 +2183,17 @@
       "word": "monkey",
       "meaning": "サル",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"monkey\".",
-        "ja": "「monkey」は「サル」という意味です。"
+        "en": "See a monkey.",
+        "ja": "サルを見る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / monkeys(複)",
+        "advice": "-,yの前が母音(e)なので、そのままs。"
       }
     },
     {
@@ -1713,13 +2201,17 @@
       "word": "body",
       "meaning": "体",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"body\".",
-        "ja": "「body」は「体」という意味です。"
+        "en": "Healthy body.",
+        "ja": "健康な体。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / bodies(複)",
+        "advice": "-,yをiに変えてes。"
       }
     },
     {
@@ -1727,13 +2219,17 @@
       "word": "head",
       "meaning": "頭",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"head\".",
-        "ja": "「head」は「頭」という意味です。"
+        "en": "Shake my head.",
+        "ja": "首（頭）を振る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / heads(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1741,13 +2237,17 @@
       "word": "face",
       "meaning": "顔",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"face\".",
-        "ja": "「face」は「顔」という意味です。"
+        "en": "Wash my face.",
+        "ja": "顔を洗う。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / faces(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1755,13 +2255,17 @@
       "word": "eye",
       "meaning": "目",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"eye\".",
-        "ja": "「eye」は「目」という意味です。"
+        "en": "Blue eyes.",
+        "ja": "青い目。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / eyes(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1769,13 +2273,17 @@
       "word": "ear",
       "meaning": "耳",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"ear\".",
-        "ja": "「ear」は「耳」という意味です。"
+        "en": "Listen with ears.",
+        "ja": "耳で聴く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / ears(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1783,13 +2291,17 @@
       "word": "nose",
       "meaning": "鼻",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"nose\".",
-        "ja": "「nose」は「鼻」という意味です。"
+        "en": "Long nose.",
+        "ja": "長い鼻。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / noses(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1797,13 +2309,17 @@
       "word": "mouth",
       "meaning": "口",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"mouth\".",
-        "ja": "「mouth」は「口」という意味です。"
+        "en": "Open your mouth.",
+        "ja": "口を開けて。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / mouths(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1811,13 +2327,17 @@
       "word": "hand",
       "meaning": "手",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"hand\".",
-        "ja": "「hand」は「手」という意味です。"
+        "en": "Wash my hands.",
+        "ja": "手を洗う。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / hands(複)",
+        "advice": "-,手首から先の部分。"
       }
     },
     {
@@ -1825,13 +2345,17 @@
       "word": "arm",
       "meaning": "腕",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"arm\".",
-        "ja": "「arm」は「腕」という意味です。"
+        "en": "Long arms.",
+        "ja": "長い腕。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / arms(複)",
+        "advice": "-,肩から手首までの部分。"
       }
     },
     {
@@ -1839,13 +2363,17 @@
       "word": "leg",
       "meaning": "脚",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"leg\".",
-        "ja": "「leg」は「脚」という意味です。"
+        "en": "Strong legs.",
+        "ja": "強い脚。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / legs(複)",
+        "advice": "-,股から足首までの部分。"
       }
     },
     {
@@ -1853,13 +2381,17 @@
       "word": "foot",
       "meaning": "足",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"foot\".",
-        "ja": "「foot」は「足」という意味です。"
+        "en": "He goes on foot.",
+        "ja": "彼は徒歩で行く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / feet(複)",
+        "advice": "-,複数形は feet。足首から下の部分。"
       }
     },
     {
@@ -1867,13 +2399,17 @@
       "word": "hair",
       "meaning": "髪",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"hair\".",
-        "ja": "「hair」は「髪」という意味です。"
+        "en": "Long hair.",
+        "ja": "長い髪。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "不可算名詞",
+        "advice": "-,基本的に数えない名詞。"
       }
     },
     {
@@ -1881,13 +2417,17 @@
       "word": "finger",
       "meaning": "指",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"finger\".",
-        "ja": "「finger」は「指」という意味です。"
+        "en": "Ten fingers.",
+        "ja": "10本の指。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / fingers(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1895,13 +2435,17 @@
       "word": "heart",
       "meaning": "心・心臓",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"heart\".",
-        "ja": "「heart」は「心・心臓」という意味です。"
+        "en": "Heart disease.",
+        "ja": "心臓病。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / hearts(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1909,13 +2453,17 @@
       "word": "clothes",
       "meaning": "服",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"clothes\".",
-        "ja": "「clothes」は「服」という意味です。"
+        "en": "Put on clothes.",
+        "ja": "服を着る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "複数扱い",
+        "advice": "-,常に複数形で使うよ。"
       }
     },
     {
@@ -1923,13 +2471,17 @@
       "word": "shirt",
       "meaning": "シャツ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"shirt\".",
-        "ja": "「shirt」は「シャツ」という意味です。"
+        "en": "White shirt.",
+        "ja": "白いシャツ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / shirts(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1937,13 +2489,17 @@
       "word": "pants",
       "meaning": "ズボン",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"pants\".",
-        "ja": "「pants」は「ズボン」という意味です。"
+        "en": "New pants.",
+        "ja": "新しいズボン。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "複数扱い",
+        "advice": "-,脚が2本なので常にsがつく（複数扱い）。"
       }
     },
     {
@@ -1951,13 +2507,17 @@
       "word": "dress",
       "meaning": "ドレス",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"dress\".",
-        "ja": "「dress」は「ドレス」という意味です。"
+        "en": "Nice dress.",
+        "ja": "素敵なドレス。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / dresses(複)",
+        "advice": "-,複数形は es。"
       }
     },
     {
@@ -1965,13 +2525,17 @@
       "word": "coat",
       "meaning": "コート",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"coat\".",
-        "ja": "「coat」は「コート」という意味です。"
+        "en": "Wear a coat.",
+        "ja": "コートを着る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / coats(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -1979,13 +2543,17 @@
       "word": "hat",
       "meaning": "帽子",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"hat\".",
-        "ja": "「hat」は「帽子」という意味です。"
+        "en": "Red hat.",
+        "ja": "赤い帽子。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / hats(複)",
+        "advice": "-,ふちのある帽子。キャップは cap。"
       }
     },
     {
@@ -1993,13 +2561,17 @@
       "word": "shoe",
       "meaning": "靴",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"shoe\".",
-        "ja": "「shoe」は「靴」という意味です。"
+        "en": "A pair of shoes.",
+        "ja": "靴1足。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / shoes(複)",
+        "advice": "-,普通は2つ1組で shoes。"
       }
     },
     {
@@ -2007,13 +2579,17 @@
       "word": "bag",
       "meaning": "かばん",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"bag\".",
-        "ja": "「bag」は「かばん」という意味です。"
+        "en": "Carry a bag.",
+        "ja": "かばんを運ぶ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / bags(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2021,13 +2597,17 @@
       "word": "watch",
       "meaning": "時計・見る",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"watch\".",
-        "ja": "「watch」は「時計・見る」という意味です。"
+        "en": "Watch TV.",
+        "ja": "テレビを見る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "watches / watched / watched",
+        "advice": "-,腕時計の意味もある。動詞なら「注意深く見る」。"
       }
     },
     {
@@ -2035,13 +2615,17 @@
       "word": "glasses",
       "meaning": "眼鏡",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"glasses\".",
-        "ja": "「glasses」は「眼鏡」という意味です。"
+        "en": "Wear glasses.",
+        "ja": "眼鏡をかける。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "複数扱い",
+        "advice": "-,レンズが2つなので常に複数形。"
       }
     },
     {
@@ -2049,13 +2633,17 @@
       "word": "car",
       "meaning": "車",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"car\".",
-        "ja": "「car」は「車」という意味です。"
+        "en": "Drive a car.",
+        "ja": "車を運転する。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / cars(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2063,13 +2651,17 @@
       "word": "bus",
       "meaning": "バス",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"bus\".",
-        "ja": "「bus」は「バス」という意味です。"
+        "en": "By bus.",
+        "ja": "バスで。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / buses(複)",
+        "advice": "-,複数形は es。"
       }
     },
     {
@@ -2077,13 +2669,17 @@
       "word": "train",
       "meaning": "列車",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"train\".",
-        "ja": "「train」は「列車」という意味です。"
+        "en": "By train.",
+        "ja": "電車で。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / trains(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2091,13 +2687,17 @@
       "word": "bike",
       "meaning": "自転車",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"bike\".",
-        "ja": "「bike」は「自転車」という意味です。"
+        "en": "Ride a bike.",
+        "ja": "自転車に乗る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / bikes(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2105,13 +2705,17 @@
       "word": "plane",
       "meaning": "飛行機",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"plane\".",
-        "ja": "「plane」は「飛行機」という意味です。"
+        "en": "By plane.",
+        "ja": "飛行機で。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / planes(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2119,13 +2723,17 @@
       "word": "boat",
       "meaning": "ボート",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"boat\".",
-        "ja": "「boat」は「ボート」という意味です。"
+        "en": "A small boat.",
+        "ja": "小さなボート。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / boats(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2133,13 +2741,17 @@
       "word": "ship",
       "meaning": "船",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"ship\".",
-        "ja": "「ship」は「船」という意味です。"
+        "en": "A big ship.",
+        "ja": "大きな船。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / ships(複)",
+        "advice": "-,ボートより大きな船。"
       }
     },
     {
@@ -2147,13 +2759,17 @@
       "word": "taxi",
       "meaning": "タクシー",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"taxi\".",
-        "ja": "「taxi」は「タクシー」という意味です。"
+        "en": "Take a taxi.",
+        "ja": "タクシーに乗る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / taxis(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2161,13 +2777,17 @@
       "word": "computer",
       "meaning": "コンピューター",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"computer\".",
-        "ja": "「computer」は「コンピューター」という意味です。"
+        "en": "Use a computer.",
+        "ja": "パソコンを使う。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / computers(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2175,13 +2795,17 @@
       "word": "phone",
       "meaning": "電話",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"phone\".",
-        "ja": "「phone」は「電話」という意味です。"
+        "en": "Telephone number.",
+        "ja": "電話番号。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / phones(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2189,13 +2813,17 @@
       "word": "camera",
       "meaning": "カメラ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"camera\".",
-        "ja": "「camera」は「カメラ」という意味です。"
+        "en": "A digital camera.",
+        "ja": "デジカメ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / cameras(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2203,13 +2831,17 @@
       "word": "radio",
       "meaning": "ラジオ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"radio\".",
-        "ja": "「radio」は「ラジオ」という意味です。"
+        "en": "Listen to the radio.",
+        "ja": "ラジオを聴く。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / radios(複)",
+        "advice": "-,-"
       }
     },
     {
@@ -2217,13 +2849,17 @@
       "word": "television",
       "meaning": "テレビ",
       "category": "頻出",
+      "pos": "名詞",
       "example": {
-        "en": "The word \"television\".",
-        "ja": "「television」は「テレビ」という意味です。"
+        "en": "Watch television.",
+        "ja": "テレビを見る。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "名詞",
+        "inflections": "-",
+        "syn_ant": "- / televisions(複)",
+        "advice": "-,略して TV。"
       }
     },
     {
@@ -2231,13 +2867,17 @@
       "word": "beautiful",
       "meaning": "美しい",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"beautiful\".",
-        "ja": "「beautiful」は「美しい」という意味です。"
+        "en": "A beautiful flower.",
+        "ja": "美しい花。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more beautiful / most)",
+        "syn_ant": "-",
+        "advice": "長い形容詞なので more / most を使うよ。"
       }
     },
     {
@@ -2245,13 +2885,17 @@
       "word": "famous",
       "meaning": "有名な",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"famous\".",
-        "ja": "「famous」は「有名な」という意味です。"
+        "en": "A famous singer.",
+        "ja": "有名な歌手。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more famous / most)",
+        "syn_ant": "-",
+        "advice": "これも more / most で比較級を作る。"
       }
     },
     {
@@ -2259,13 +2903,17 @@
       "word": "popular",
       "meaning": "人気のある",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"popular\".",
-        "ja": "「popular」は「人気のある」という意味です。"
+        "en": "A popular game.",
+        "ja": "人気のゲーム。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more popular / most)",
+        "syn_ant": "-",
+        "advice": "more / most を使う。"
       }
     },
     {
@@ -2273,13 +2921,17 @@
       "word": "favorite",
       "meaning": "お気に入りの",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"favorite\".",
-        "ja": "「favorite」は「お気に入りの」という意味です。"
+        "en": "My favorite food.",
+        "ja": "大好きな食べ物。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-,「一番好きな」という意味が含まれる。"
       }
     },
     {
@@ -2287,13 +2939,17 @@
       "word": "easy",
       "meaning": "簡単な",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"easy\".",
-        "ja": "「easy」は「簡単な」という意味です。"
+        "en": "Easy question.",
+        "ja": "簡単な質問。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(easier/easiest)",
+        "syn_ant": "difficult",
+        "advice": "yをiに変えてer/est。"
       }
     },
     {
@@ -2301,13 +2957,17 @@
       "word": "difficult",
       "meaning": "難しい",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"difficult\".",
-        "ja": "「difficult」は「難しい」という意味です。"
+        "en": "Difficult homework.",
+        "ja": "難しい宿題。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more difficult / most)",
+        "syn_ant": "easy",
+        "advice": "more / most を使う。"
       }
     },
     {
@@ -2315,13 +2975,17 @@
       "word": "kind",
       "meaning": "親切な・種類",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"kind\".",
-        "ja": "「kind」は「親切な・種類」という意味です。"
+        "en": "He is kind.",
+        "ja": "彼は親切です。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(kinder/kindest)",
+        "syn_ant": "-",
+        "advice": "a kind of ～ で「～の一種」という熟語。"
       }
     },
     {
@@ -2329,13 +2993,17 @@
       "word": "strong",
       "meaning": "強い",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"strong\".",
-        "ja": "「strong」は「強い」という意味です。"
+        "en": "Strong wind.",
+        "ja": "強い風。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(stronger/strongest)",
+        "syn_ant": "weak",
+        "advice": "力が強い、味が濃い。"
       }
     },
     {
@@ -2343,13 +3011,17 @@
       "word": "weak",
       "meaning": "弱い",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"weak\".",
-        "ja": "「weak」は「弱い」という意味です。"
+        "en": "Weak light.",
+        "ja": "弱い光。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(weaker/weakest)",
+        "syn_ant": "strong",
+        "advice": "力が弱い、薄い。"
       }
     },
     {
@@ -2357,13 +3029,17 @@
       "word": "fast",
       "meaning": "速い",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"fast\".",
-        "ja": "「fast」は「速い」という意味です。"
+        "en": "A fast runner.",
+        "ja": "速いランナー。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(faster/fastest)",
+        "syn_ant": "slow",
+        "advice": "スピードが速いこと。"
       }
     },
     {
@@ -2371,13 +3047,17 @@
       "word": "slow",
       "meaning": "遅い",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"slow\".",
-        "ja": "「slow」は「遅い」という意味です。"
+        "en": "A slow train.",
+        "ja": "各駅停車の（遅い）列車。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(slower/slowest)",
+        "syn_ant": "fast",
+        "advice": "スピードが遅いこと。"
       }
     },
     {
@@ -2385,13 +3065,17 @@
       "word": "loud",
       "meaning": "うるさい",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"loud\".",
-        "ja": "「loud」は「うるさい」という意味です。"
+        "en": "A loud voice.",
+        "ja": "大きな声。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(louder/loudest)",
+        "syn_ant": "quiet",
+        "advice": "音が大きいこと。"
       }
     },
     {
@@ -2399,13 +3083,17 @@
       "word": "quiet",
       "meaning": "静かな",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"quiet\".",
-        "ja": "「quiet」は「静かな」という意味です。"
+        "en": "Be quiet.",
+        "ja": "静かにしなさい。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(quieter/quietest)",
+        "syn_ant": "loud",
+        "advice": "-"
       }
     },
     {
@@ -2413,13 +3101,17 @@
       "word": "rich",
       "meaning": "豊かな・金持ちの",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"rich\".",
-        "ja": "「rich」は「豊かな・金持ちの」という意味です。"
+        "en": "A rich man.",
+        "ja": "金持ちの男。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(richer/richest)",
+        "syn_ant": "poor",
+        "advice": "-"
       }
     },
     {
@@ -2427,13 +3119,17 @@
       "word": "poor",
       "meaning": "貧しい・下手な",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"poor\".",
-        "ja": "「poor」は「貧しい・下手な」という意味です。"
+        "en": "Poor people.",
+        "ja": "貧しい人々。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(poorer/poorest)",
+        "syn_ant": "rich",
+        "advice": "「かわいそうな」という意味もあるよ。"
       }
     },
     {
@@ -2441,13 +3137,17 @@
       "word": "healthy",
       "meaning": "健康な",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"healthy\".",
-        "ja": "「healthy」は「健康な」という意味です。"
+        "en": "Healthy life.",
+        "ja": "健康な生活。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(healthier/healthiest)",
+        "syn_ant": "sick",
+        "advice": "health(名詞) + y。yをiに変えてer。"
       }
     },
     {
@@ -2455,13 +3155,17 @@
       "word": "sick",
       "meaning": "病気の",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"sick\".",
-        "ja": "「sick」は「病気の」という意味です。"
+        "en": "I feel sick.",
+        "ja": "気分が悪い。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(sicker/sickest)",
+        "syn_ant": "healthy",
+        "advice": "be sick in bed (病気で寝ている)。"
       }
     },
     {
@@ -2469,13 +3173,17 @@
       "word": "hungry",
       "meaning": "空腹の",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"hungry\".",
-        "ja": "「hungry」は「空腹の」という意味です。"
+        "en": "I'm hungry.",
+        "ja": "お腹が空いた。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(hungrier/hungriest)",
+        "syn_ant": "full",
+        "advice": "yをiに変えてer/est。"
       }
     },
     {
@@ -2483,13 +3191,17 @@
       "word": "thirsty",
       "meaning": "のどが渇いた",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"thirsty\".",
-        "ja": "「thirsty」は「のどが渇いた」という意味です。"
+        "en": "I'm thirsty.",
+        "ja": "のどが渇いた。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(thirstier/thirstiest)",
+        "syn_ant": "-",
+        "advice": "yをiに変えてer/est。"
       }
     },
     {
@@ -2497,13 +3209,17 @@
       "word": "heavy",
       "meaning": "重い",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"heavy\".",
-        "ja": "「heavy」は「重い」という意味です。"
+        "en": "A heavy box.",
+        "ja": "重い箱。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(heavier/heaviest)",
+        "syn_ant": "light",
+        "advice": "yをiに変えてer/est。"
       }
     },
     {
@@ -2511,13 +3227,17 @@
       "word": "light",
       "meaning": "軽い・光",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"light\".",
-        "ja": "「light」は「軽い・光」という意味です。"
+        "en": "A light bag.",
+        "ja": "軽いバッグ。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(lighter/lightest)",
+        "syn_ant": "heavy",
+        "advice": "「光・明かり」という名詞もある。"
       }
     },
     {
@@ -2525,13 +3245,17 @@
       "word": "full",
       "meaning": "いっぱいの",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"full\".",
-        "ja": "「full」は「いっぱいの」という意味です。"
+        "en": "I am full.",
+        "ja": "お腹いっぱい。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(fuller/fullest)",
+        "syn_ant": "empty",
+        "advice": "be full of ～ (～でいっぱいだ)。"
       }
     },
     {
@@ -2539,13 +3263,17 @@
       "word": "empty",
       "meaning": "空の",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"empty\".",
-        "ja": "「empty」は「空の」という意味です。"
+        "en": "An empty box.",
+        "ja": "空の箱。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(emptier/emptiest)",
+        "syn_ant": "full",
+        "advice": "中身がないこと。yをiに変えてer。"
       }
     },
     {
@@ -2553,13 +3281,17 @@
       "word": "clean",
       "meaning": "きれいな",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"clean\".",
-        "ja": "「clean」は「きれいな」という意味です。"
+        "en": "Clean water.",
+        "ja": "きれいな水。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(cleaner/cleanest)",
+        "syn_ant": "dirty",
+        "advice": "掃除された、汚れがない状態。"
       }
     },
     {
@@ -2567,13 +3299,17 @@
       "word": "dirty",
       "meaning": "汚い",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"dirty\".",
-        "ja": "「dirty」は「汚い」という意味です。"
+        "en": "Dirty clothes.",
+        "ja": "汚れた服。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(dirtier/dirtiest)",
+        "syn_ant": "clean",
+        "advice": "yをiに変えてer/est。"
       }
     },
     {
@@ -2581,13 +3317,17 @@
       "word": "safe",
       "meaning": "安全な",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"safe\".",
-        "ja": "「safe」は「安全な」という意味です。"
+        "en": "A safe place.",
+        "ja": "安全な場所。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(safer/safest)",
+        "syn_ant": "dangerous",
+        "advice": "-"
       }
     },
     {
@@ -2595,13 +3335,17 @@
       "word": "dangerous",
       "meaning": "危険な",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"dangerous\".",
-        "ja": "「dangerous」は「危険な」という意味です。"
+        "en": "A dangerous dog.",
+        "ja": "危険な犬。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more dangerous / most)",
+        "syn_ant": "safe",
+        "advice": "more / most を使う。"
       }
     },
     {
@@ -2609,13 +3353,17 @@
       "word": "important",
       "meaning": "大切な",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"important\".",
-        "ja": "「important」は「大切な」という意味です。"
+        "en": "Important news.",
+        "ja": "大切なニュース。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more important / most)",
+        "syn_ant": "-",
+        "advice": "more / most を使う。"
       }
     },
     {
@@ -2623,13 +3371,17 @@
       "word": "useful",
       "meaning": "役に立つ",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"useful\".",
-        "ja": "「useful」は「役に立つ」という意味です。"
+        "en": "A useful book.",
+        "ja": "役立つ本。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more useful / most)",
+        "syn_ant": "-",
+        "advice": "more / most を使う。"
       }
     },
     {
@@ -2637,13 +3389,17 @@
       "word": "special",
       "meaning": "特別な",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"special\".",
-        "ja": "「special」は「特別な」という意味です。"
+        "en": "A special gift.",
+        "ja": "特別な贈り物。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more special / most)",
+        "syn_ant": "common",
+        "advice": "-"
       }
     },
     {
@@ -2651,13 +3407,17 @@
       "word": "natural",
       "meaning": "自然の",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"natural\".",
-        "ja": "「natural」は「自然の」という意味です。"
+        "en": "Natural food.",
+        "ja": "自然食品。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more natural / most)",
+        "syn_ant": "-",
+        "advice": "nature(名詞)の形容詞形。"
       }
     },
     {
@@ -2665,13 +3425,17 @@
       "word": "real",
       "meaning": "本当の",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"real\".",
-        "ja": "「real」は「本当の」という意味です。"
+        "en": "A real story.",
+        "ja": "実話。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(realer/realest)",
+        "syn_ant": "-",
+        "advice": "偽物ではないということ。"
       }
     },
     {
@@ -2679,13 +3443,17 @@
       "word": "true",
       "meaning": "真実の",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"true\".",
-        "ja": "「true」は「真実の」という意味です。"
+        "en": "True friend.",
+        "ja": "本当の友達。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(truer/truest)",
+        "syn_ant": "false",
+        "advice": "-"
       }
     },
     {
@@ -2693,13 +3461,17 @@
       "word": "false",
       "meaning": "誤った",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"false\".",
-        "ja": "「false」は「誤った」という意味です。"
+        "en": "True or False?",
+        "ja": "〇か×か？"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(falser/falsest)",
+        "syn_ant": "true",
+        "advice": "-"
       }
     },
     {
@@ -2707,13 +3479,17 @@
       "word": "interesting",
       "meaning": "興味深い",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"interesting\".",
-        "ja": "「interesting」は「興味深い」という意味です。"
+        "en": "An interesting book.",
+        "ja": "面白い本。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more interesting / most)",
+        "syn_ant": "boring",
+        "advice": "ワクワクさせる面白さ。more/mostを使う。"
       }
     },
     {
@@ -2721,13 +3497,17 @@
       "word": "excited",
       "meaning": "興奮した",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"excited\".",
-        "ja": "「excited」は「興奮した」という意味です。"
+        "en": "I am excited.",
+        "ja": "ワクワクしている。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more excited / most)",
+        "syn_ant": "-",
+        "advice": "-edで終わる形容詞は、人の感情を表すよ。"
       }
     },
     {
@@ -2735,13 +3515,17 @@
       "word": "surprised",
       "meaning": "驚いた",
       "category": "頻出",
+      "pos": "形容詞",
       "example": {
-        "en": "The word \"surprised\".",
-        "ja": "「surprised」は「驚いた」という意味です。"
+        "en": "I was surprised.",
+        "ja": "私は驚いた。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "形容詞",
+        "inflections": "(more surprised / most)",
+        "syn_ant": "-",
+        "advice": "be surprised at ～ (～に驚く)。"
       }
     },
     {
@@ -2749,13 +3533,17 @@
       "word": "already",
       "meaning": "すでに",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"already\".",
-        "ja": "「already」は「すでに」という意味です。"
+        "en": "I have already finished.",
+        "ja": "もう終わりました。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "肯定文で使う。「もう～した」。"
       }
     },
     {
@@ -2763,27 +3551,35 @@
       "word": "still",
       "meaning": "まだ",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"still\".",
-        "ja": "「still」は「まだ」という意味です。"
+        "en": "He is still sleeping.",
+        "ja": "彼はまだ寝ている。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "状態が続いている「まだ」。"
       }
     },
     {
       "_no": 199,
       "word": "yet",
-      "meaning": "（疑問で）もう・（否定で）まだ",
+      "meaning": "もう・まだ",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"yet\".",
-        "ja": "「yet」は「（疑問で）もう・（否定で）まだ」という意味です。"
+        "en": "Not yet.",
+        "ja": "まだです。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "疑問文では「もう」、否定文では「まだ」。"
       }
     },
     {
@@ -2791,13 +3587,17 @@
       "word": "only",
       "meaning": "～だけ",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"only\".",
-        "ja": "「only」は「～だけ」という意味です。"
+        "en": "Only two days.",
+        "ja": "たった2日間。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "-"
       }
     },
     {
@@ -2805,13 +3605,17 @@
       "word": "just",
       "meaning": "ちょうど",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"just\".",
-        "ja": "「just」は「ちょうど」という意味です。"
+        "en": "Just ten o'clock.",
+        "ja": "ちょうど10時。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "just now (たった今) も重要。"
       }
     },
     {
@@ -2819,13 +3623,17 @@
       "word": "even",
       "meaning": "～でさえ",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"even\".",
-        "ja": "「even」は「～でさえ」という意味です。"
+        "en": "Even a child can do it.",
+        "ja": "子供でさえできる。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "強調するときに使う。"
       }
     },
     {
@@ -2833,13 +3641,17 @@
       "word": "away",
       "meaning": "離れて",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"away\".",
-        "ja": "「away」は「離れて」という意味です。"
+        "en": "Go away.",
+        "ja": "あっちへ行け。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "far away (遠く離れて)。"
       }
     },
     {
@@ -2847,13 +3659,17 @@
       "word": "back",
       "meaning": "後ろへ・背中",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"back\".",
-        "ja": "「back」は「後ろへ・背中」という意味です。"
+        "en": "Come back.",
+        "ja": "戻ってきて。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "- / backs(複)",
+        "advice": "-,名詞なら「背中」。"
       }
     },
     {
@@ -2861,13 +3677,17 @@
       "word": "maybe",
       "meaning": "たぶん",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"maybe\".",
-        "ja": "「maybe」は「たぶん」という意味です。"
+        "en": "Maybe he is right.",
+        "ja": "たぶん彼は正しい。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "50%くらいの確率。"
       }
     },
     {
@@ -2875,13 +3695,17 @@
       "word": "perhaps",
       "meaning": "ひょっとすると",
       "category": "頻出",
+      "pos": "副詞",
       "example": {
-        "en": "The word \"perhaps\".",
-        "ja": "「perhaps」は「ひょっとすると」という意味です。"
+        "en": "Perhaps it will rain.",
+        "ja": "ひょっとすると雨かも。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "副詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "maybeより少し丁寧。"
       }
     },
     {
@@ -2889,13 +3713,17 @@
       "word": "if",
       "meaning": "もし～なら",
       "category": "頻出",
+      "pos": "接続詞",
       "example": {
-        "en": "The word \"if\".",
-        "ja": "「if」は「もし～なら」という意味です。"
+        "en": "If it is sunny.",
+        "ja": "もし晴れたら。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "接続詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "条件を表す。"
       }
     },
     {
@@ -2903,13 +3731,17 @@
       "word": "while",
       "meaning": "～する間に",
       "category": "頻出",
+      "pos": "接続詞",
       "example": {
-        "en": "The word \"while\".",
-        "ja": "「while」は「～する間に」という意味です。"
+        "en": "While I was sleeping.",
+        "ja": "私が寝ている間に。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "接続詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "期間を表す。"
       }
     },
     {
@@ -2917,13 +3749,17 @@
       "word": "than",
       "meaning": "～よりも",
       "category": "頻出",
+      "pos": "接続詞",
       "example": {
-        "en": "The word \"than\".",
-        "ja": "「than」は「～よりも」という意味です。"
+        "en": "Better than this.",
+        "ja": "これより良い。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "接続詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "比較級と一緒に使う。"
       }
     },
     {
@@ -2931,13 +3767,17 @@
       "word": "since",
       "meaning": "～以来",
       "category": "頻出",
+      "pos": "接続詞",
       "example": {
-        "en": "The word \"since\".",
-        "ja": "「since」は「～以来」という意味です。"
+        "en": "Since last week.",
+        "ja": "先週からずっと。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "接続詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "過去の起点から現在まで続くとき。"
       }
     },
     {
@@ -2945,13 +3785,17 @@
       "word": "until",
       "meaning": "～までずっと",
       "category": "頻出",
+      "pos": "接続詞",
       "example": {
-        "en": "The word \"until\".",
-        "ja": "「until」は「～までずっと」という意味です。"
+        "en": "Until tomorrow.",
+        "ja": "明日までずっと。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "接続詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "動作が続く期限。"
       }
     },
     {
@@ -2959,13 +3803,17 @@
       "word": "without",
       "meaning": "～なしで",
       "category": "頻出",
+      "pos": "前置詞",
       "example": {
-        "en": "The word \"without\".",
-        "ja": "「without」は「～なしで」という意味です。"
+        "en": "Without water.",
+        "ja": "水なしで。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "前置詞",
+        "inflections": "-",
+        "syn_ant": "with",
+        "advice": "-"
       }
     },
     {
@@ -2973,13 +3821,17 @@
       "word": "during",
       "meaning": "～の間中",
       "category": "頻出",
+      "pos": "前置詞",
       "example": {
-        "en": "The word \"during\".",
-        "ja": "「during」は「～の間中」という意味です。"
+        "en": "During the vacation.",
+        "ja": "休暇の間中。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "前置詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "特定の期間を表す。"
       }
     },
     {
@@ -2987,13 +3839,53 @@
       "word": "through",
       "meaning": "～を通して",
       "category": "頻出",
+      "pos": "前置詞",
       "example": {
-        "en": "The word \"through\".",
-        "ja": "「through」は「～を通して」という意味です。"
+        "en": "Through the window.",
+        "ja": "窓を通して。"
       },
       "info": {
         "rank": "B",
-        "pos": ""
+        "pos": "前置詞",
+        "inflections": "-",
+        "syn_ant": "-",
+        "advice": "通り抜けるイメージ。"
+      }
+    },
+    {
+      "_no": 215,
+      "word": "forget",
+      "meaning": "忘れる",
+      "category": "頻出",
+      "pos": "動詞",
+      "example": {
+        "en": "I forgot my notebook.",
+        "ja": "ノートを忘れました。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": "動詞",
+        "inflections": "forgets / forgot / forgotten",
+        "syn_ant": "remember",
+        "advice": "過去形 forgot は会話でも作文でも超重要！"
+      }
+    },
+    {
+      "_no": 216,
+      "word": "strong",
+      "meaning": "強い",
+      "category": "頻出",
+      "pos": "形容詞",
+      "example": {
+        "en": "He has strong arms.",
+        "ja": "彼は腕力が強い。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": "形容詞",
+        "inflections": "(stronger/strongest)",
+        "syn_ant": "weak",
+        "advice": "力だけでなく、風や雨が「強い」時もこれを使う。"
       }
     }
   ]
