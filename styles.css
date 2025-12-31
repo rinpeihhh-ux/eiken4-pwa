@@ -163,7 +163,7 @@ body {
     background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
     color: white;
     /* Fill the iOS safe-area so the header sits flush at the very top */
-    padding-top: calc(var(--spacing-md) + env(safe-area-inset-top));
+    padding-top: env(safe-area-inset-top);
     padding-right: var(--spacing-md);
     padding-bottom: var(--spacing-md);
     padding-left: var(--spacing-md);
@@ -181,7 +181,7 @@ body {
 .screen-header {
     background: var(--surface);
     /* Fill the iOS safe-area so there is no blank strip above the header */
-    padding-top: calc(var(--spacing-sm) + env(safe-area-inset-top));
+    padding-top: env(safe-area-inset-top);
     padding-right: var(--spacing-md);
     padding-bottom: var(--spacing-sm);
     padding-left: var(--spacing-md);
@@ -785,6 +785,8 @@ body {
 }
 
 .action-btn {
+    width: 100%;
+    min-width: 0;
     background: var(--surface);
     border: none;
     border-radius: var(--radius-lg);
@@ -905,7 +907,7 @@ body {
 }
 
 .prep-section {
-    margin: var(--spacing-lg) 0;
+    margin: 0 var(--spacing-md) var(--spacing-lg);
 }
 
 .prep-section h2 {
@@ -920,12 +922,18 @@ body {
     gap: var(--spacing-sm);
 }
 
-/* Place the three buttons in two rows:
+.prep-actions .action-btn {
+    width: 100%;
+}
+
+/* Layout:
    Row 1: Pre-study (full width)
-   Row 2: Frequent words (left) / Frequent phrases (right) */
+   Row 2: Rank A (left) / Rank B (right)
+   Row 3: Rank C (left) / Phrases (right) */
 #prestudy-btn {
     grid-column: 1 / -1;
 }
+
 
 .prep-status {
     margin-top: var(--spacing-sm);
@@ -1106,6 +1114,25 @@ body {
     padding: 0.2rem 0.55rem;
     border-radius: 999px;
     white-space: nowrap;
+}
+
+.validate-banner {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    background: rgba(56, 189, 248, 0.08);
+    border: 1px solid rgba(56, 189, 248, 0.22);
+    padding: 0.35rem 0.6rem;
+    border-radius: var(--radius-md);
+}
+
+.validate-banner .ok {
+    color: #0f766e;
+    font-weight: 800;
+}
+
+.validate-banner .warn {
+    color: #b45309;
+    font-weight: 800;
 }
 
 .search-input, .select-input {

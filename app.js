@@ -117,9 +117,23 @@ const app = {
             PreStudyModule.init();
         });
 
-        document.getElementById('freq-words-btn').addEventListener('click', () => {
+        // Word reference buttons (Rank A/B/C)
+        const rankAButton = document.getElementById('rankA-words-btn');
+        if (rankAButton) rankAButton.addEventListener('click', () => {
             this.showScreen('freq-words-screen');
-            ReferenceModule.init('words');
+            ReferenceModule.init('rankA');
+        });
+
+        const rankBButton = document.getElementById('rankB-words-btn');
+        if (rankBButton) rankBButton.addEventListener('click', () => {
+            this.showScreen('freq-words-screen');
+            ReferenceModule.init('rankB');
+        });
+
+        const rankCButton = document.getElementById('rankC-words-btn');
+        if (rankCButton) rankCButton.addEventListener('click', () => {
+            this.showScreen('freq-words-screen');
+            ReferenceModule.init('rankC');
         });
 
         document.getElementById('freq-phrases-btn').addEventListener('click', () => {

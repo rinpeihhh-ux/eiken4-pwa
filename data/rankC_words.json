@@ -1,0 +1,4190 @@
+{
+  "items": [
+    {
+      "_no": 1,
+      "word": "arrive",
+      "meaning": "到着する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"arrive\".",
+        "ja": "「arrive」は「到着する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 2,
+      "word": "borrow",
+      "meaning": "借りる",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"borrow\".",
+        "ja": "「borrow」は「借りる」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 3,
+      "word": "choose",
+      "meaning": "選ぶ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"choose\".",
+        "ja": "「choose」は「選ぶ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 4,
+      "word": "collect",
+      "meaning": "集める",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"collect\".",
+        "ja": "「collect」は「集める」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 5,
+      "word": "compare",
+      "meaning": "比べる",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"compare\".",
+        "ja": "「compare」は「比べる」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 6,
+      "word": "continue",
+      "meaning": "続ける",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"continue\".",
+        "ja": "「continue」は「続ける」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 7,
+      "word": "cover",
+      "meaning": "覆う",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"cover\".",
+        "ja": "「cover」は「覆う」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 8,
+      "word": "design",
+      "meaning": "設計する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"design\".",
+        "ja": "「design」は「設計する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 9,
+      "word": "discover",
+      "meaning": "発見する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"discover\".",
+        "ja": "「discover」は「発見する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 10,
+      "word": "drop",
+      "meaning": "落とす",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"drop\".",
+        "ja": "「drop」は「落とす」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 11,
+      "word": "earn",
+      "meaning": "稼ぐ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"earn\".",
+        "ja": "「earn」は「稼ぐ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 12,
+      "word": "explain",
+      "meaning": "説明する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"explain\".",
+        "ja": "「explain」は「説明する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 13,
+      "word": "follow",
+      "meaning": "従う",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"follow\".",
+        "ja": "「follow」は「従う」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 14,
+      "word": "grow",
+      "meaning": "育つ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"grow\".",
+        "ja": "「grow」は「育つ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 15,
+      "word": "guide",
+      "meaning": "案内する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"guide\".",
+        "ja": "「guide」は「案内する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 16,
+      "word": "imagine",
+      "meaning": "想像する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"imagine\".",
+        "ja": "「imagine」は「想像する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 17,
+      "word": "improve",
+      "meaning": "上達させる",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"improve\".",
+        "ja": "「improve」は「上達させる」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 18,
+      "word": "increase",
+      "meaning": "増える",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"increase\".",
+        "ja": "「increase」は「増える」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 19,
+      "word": "introduce",
+      "meaning": "紹介する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"introduce\".",
+        "ja": "「introduce」は「紹介する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 20,
+      "word": "invent",
+      "meaning": "発明する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"invent\".",
+        "ja": "「invent」は「発明する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 21,
+      "word": "join",
+      "meaning": "参加する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"join\".",
+        "ja": "「join」は「参加する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 22,
+      "word": "kill",
+      "meaning": "殺す",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"kill\".",
+        "ja": "「kill」は「殺す」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 23,
+      "word": "knock",
+      "meaning": "ノックする",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"knock\".",
+        "ja": "「knock」は「ノックする」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 24,
+      "word": "lift",
+      "meaning": "持ち上げる",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"lift\".",
+        "ja": "「lift」は「持ち上げる」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 25,
+      "word": "lose",
+      "meaning": "失う",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"lose\".",
+        "ja": "「lose」は「失う」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 26,
+      "word": "manage",
+      "meaning": "管理する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"manage\".",
+        "ja": "「manage」は「管理する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 27,
+      "word": "marry",
+      "meaning": "結婚する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"marry\".",
+        "ja": "「marry」は「結婚する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 28,
+      "word": "match",
+      "meaning": "一致する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"match\".",
+        "ja": "「match」は「一致する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 29,
+      "word": "measure",
+      "meaning": "測る",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"measure\".",
+        "ja": "「measure」は「測る」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 30,
+      "word": "miss",
+      "meaning": "逃す・寂しく思う",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"miss\".",
+        "ja": "「miss」は「逃す・寂しく思う」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 31,
+      "word": "move",
+      "meaning": "動く・引っ越す",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"move\".",
+        "ja": "「move」は「動く・引っ越す」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 32,
+      "word": "notice",
+      "meaning": "気づく",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"notice\".",
+        "ja": "「notice」は「気づく」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 33,
+      "word": "offer",
+      "meaning": "提供する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"offer\".",
+        "ja": "「offer」は「提供する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 34,
+      "word": "order",
+      "meaning": "注文する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"order\".",
+        "ja": "「order」は「注文する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 35,
+      "word": "pass",
+      "meaning": "通る・渡す",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"pass\".",
+        "ja": "「pass」は「通る・渡す」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 36,
+      "word": "perform",
+      "meaning": "演奏する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"perform\".",
+        "ja": "「perform」は「演奏する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 37,
+      "word": "prepare",
+      "meaning": "準備する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"prepare\".",
+        "ja": "「prepare」は「準備する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 38,
+      "word": "prevent",
+      "meaning": "防ぐ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"prevent\".",
+        "ja": "「prevent」は「防ぐ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 39,
+      "word": "produce",
+      "meaning": "生産する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"produce\".",
+        "ja": "「produce」は「生産する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 40,
+      "word": "promise",
+      "meaning": "約束する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"promise\".",
+        "ja": "「promise」は「約束する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 41,
+      "word": "protect",
+      "meaning": "守る",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"protect\".",
+        "ja": "「protect」は「守る」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 42,
+      "word": "provide",
+      "meaning": "提供する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"provide\".",
+        "ja": "「provide」は「提供する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 43,
+      "word": "pull",
+      "meaning": "引く",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"pull\".",
+        "ja": "「pull」は「引く」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 44,
+      "word": "push",
+      "meaning": "押す",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"push\".",
+        "ja": "「push」は「押す」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 45,
+      "word": "receive",
+      "meaning": "受け取る",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"receive\".",
+        "ja": "「receive」は「受け取る」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 46,
+      "word": "reduce",
+      "meaning": "減らす",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"reduce\".",
+        "ja": "「reduce」は「減らす」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 47,
+      "word": "refuse",
+      "meaning": "断る",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"refuse\".",
+        "ja": "「refuse」は「断る」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 48,
+      "word": "relax",
+      "meaning": "くつろぐ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"relax\".",
+        "ja": "「relax」は「くつろぐ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 49,
+      "word": "repeat",
+      "meaning": "繰り返す",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"repeat\".",
+        "ja": "「repeat」は「繰り返す」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 50,
+      "word": "report",
+      "meaning": "報告する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"report\".",
+        "ja": "「report」は「報告する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 51,
+      "word": "rescue",
+      "meaning": "救助する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"rescue\".",
+        "ja": "「rescue」は「救助する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 52,
+      "word": "respect",
+      "meaning": "尊敬する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"respect\".",
+        "ja": "「respect」は「尊敬する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 53,
+      "word": "return",
+      "meaning": "戻る",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"return\".",
+        "ja": "「return」は「戻る」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 54,
+      "word": "ride",
+      "meaning": "乗る",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"ride\".",
+        "ja": "「ride」は「乗る」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 55,
+      "word": "rise",
+      "meaning": "上がる",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"rise\".",
+        "ja": "「rise」は「上がる」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 56,
+      "word": "save",
+      "meaning": "救う・蓄える",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"save\".",
+        "ja": "「save」は「救う・蓄える」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 57,
+      "word": "search",
+      "meaning": "探す",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"search\".",
+        "ja": "「search」は「探す」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 58,
+      "word": "serve",
+      "meaning": "役立つ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"serve\".",
+        "ja": "「serve」は「役立つ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 59,
+      "word": "shake",
+      "meaning": "振る",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"shake\".",
+        "ja": "「shake」は「振る」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 60,
+      "word": "shout",
+      "meaning": "叫ぶ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"shout\".",
+        "ja": "「shout」は「叫ぶ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 61,
+      "word": "solve",
+      "meaning": "解決する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"solve\".",
+        "ja": "「solve」は「解決する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 62,
+      "word": "sound",
+      "meaning": "～に聞こえる・音",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"sound\".",
+        "ja": "「sound」は「～に聞こえる・音」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 63,
+      "word": "spend",
+      "meaning": "費やす",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"spend\".",
+        "ja": "「spend」は「費やす」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 64,
+      "word": "spread",
+      "meaning": "広がる",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"spread\".",
+        "ja": "「spread」は「広がる」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 65,
+      "word": "suggest",
+      "meaning": "提案する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"suggest\".",
+        "ja": "「suggest」は「提案する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 66,
+      "word": "support",
+      "meaning": "支持する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"support\".",
+        "ja": "「support」は「支持する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 67,
+      "word": "taste",
+      "meaning": "味がする・味",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"taste\".",
+        "ja": "「taste」は「味がする・味」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 68,
+      "word": "travel",
+      "meaning": "旅行する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"travel\".",
+        "ja": "「travel」は「旅行する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 69,
+      "word": "treat",
+      "meaning": "扱う",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"treat\".",
+        "ja": "「treat」は「扱う」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 70,
+      "word": "trust",
+      "meaning": "信頼する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"trust\".",
+        "ja": "「trust」は「信頼する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 71,
+      "word": "waste",
+      "meaning": "無駄にする",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"waste\".",
+        "ja": "「waste」は「無駄にする」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 72,
+      "word": "wonder",
+      "meaning": "～かなと思う",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"wonder\".",
+        "ja": "「wonder」は「～かなと思う」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 73,
+      "word": "activity",
+      "meaning": "活動",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"activity\".",
+        "ja": "「activity」は「活動」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 74,
+      "word": "address",
+      "meaning": "住所",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"address\".",
+        "ja": "「address」は「住所」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 75,
+      "word": "advice",
+      "meaning": "忠告",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"advice\".",
+        "ja": "「advice」は「忠告」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 76,
+      "word": "amount",
+      "meaning": "量",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"amount\".",
+        "ja": "「amount」は「量」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 77,
+      "word": "area",
+      "meaning": "地域",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"area\".",
+        "ja": "「area」は「地域」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 78,
+      "word": "art",
+      "meaning": "芸術",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"art\".",
+        "ja": "「art」は「芸術」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 79,
+      "word": "article",
+      "meaning": "記事",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"article\".",
+        "ja": "「article」は「記事」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 80,
+      "word": "attention",
+      "meaning": "注意",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"attention\".",
+        "ja": "「attention」は「注意」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 81,
+      "word": "audience",
+      "meaning": "聴衆",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"audience\".",
+        "ja": "「audience」は「聴衆」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 82,
+      "word": "author",
+      "meaning": "著者",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"author\".",
+        "ja": "「author」は「著者」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 83,
+      "word": "bill",
+      "meaning": "請求書",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"bill\".",
+        "ja": "「bill」は「請求書」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 84,
+      "word": "bridge",
+      "meaning": "橋",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"bridge\".",
+        "ja": "「bridge」は「橋」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 85,
+      "word": "business",
+      "meaning": "ビジネス",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"business\".",
+        "ja": "「business」は「ビジネス」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 86,
+      "word": "capital",
+      "meaning": "首都",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"capital\".",
+        "ja": "「capital」は「首都」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 87,
+      "word": "care",
+      "meaning": "世話",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"care\".",
+        "ja": "「care」は「世話」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 88,
+      "word": "case",
+      "meaning": "場合",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"case\".",
+        "ja": "「case」は「場合」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 89,
+      "word": "center",
+      "meaning": "中心",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"center\".",
+        "ja": "「center」は「中心」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 90,
+      "word": "century",
+      "meaning": "世紀",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"century\".",
+        "ja": "「century」は「世紀」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 91,
+      "word": "chance",
+      "meaning": "機会",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"chance\".",
+        "ja": "「chance」は「機会」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 92,
+      "word": "character",
+      "meaning": "性格・文字",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"character\".",
+        "ja": "「character」は「性格・文字」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 93,
+      "word": "choice",
+      "meaning": "選択",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"choice\".",
+        "ja": "「choice」は「選択」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 94,
+      "word": "church",
+      "meaning": "教会",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"church\".",
+        "ja": "「church」は「教会」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 95,
+      "word": "climate",
+      "meaning": "気候",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"climate\".",
+        "ja": "「climate」は「気候」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 96,
+      "word": "collection",
+      "meaning": "収集",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"collection\".",
+        "ja": "「collection」は「収集」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 97,
+      "word": "college",
+      "meaning": "大学",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"college\".",
+        "ja": "「college」は「大学」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 98,
+      "word": "common",
+      "meaning": "共通の",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"common\".",
+        "ja": "「common」は「共通の」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 99,
+      "word": "communication",
+      "meaning": "通信",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"communication\".",
+        "ja": "「communication」は「通信」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 100,
+      "word": "community",
+      "meaning": "共同体",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"community\".",
+        "ja": "「community」は「共同体」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 101,
+      "word": "company",
+      "meaning": "会社",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"company\".",
+        "ja": "「company」は「会社」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 102,
+      "word": "condition",
+      "meaning": "状態",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"condition\".",
+        "ja": "「condition」は「状態」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 103,
+      "word": "contest",
+      "meaning": "コンテスト",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"contest\".",
+        "ja": "「contest」は「コンテスト」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 104,
+      "word": "corner",
+      "meaning": "角",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"corner\".",
+        "ja": "「corner」は「角」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 105,
+      "word": "cost",
+      "meaning": "費用",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"cost\".",
+        "ja": "「cost」は「費用」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 106,
+      "word": "culture",
+      "meaning": "文化",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"culture\".",
+        "ja": "「culture」は「文化」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 107,
+      "word": "custom",
+      "meaning": "習慣",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"custom\".",
+        "ja": "「custom」は「習慣」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 108,
+      "word": "danger",
+      "meaning": "危険",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"danger\".",
+        "ja": "「danger」は「危険」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 109,
+      "word": "death",
+      "meaning": "死",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"death\".",
+        "ja": "「death」は「死」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 110,
+      "word": "degree",
+      "meaning": "度",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"degree\".",
+        "ja": "「degree」は「度」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 111,
+      "word": "department",
+      "meaning": "部門",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"department\".",
+        "ja": "「department」は「部門」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 112,
+      "word": "difference",
+      "meaning": "違い",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"difference\".",
+        "ja": "「difference」は「違い」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 113,
+      "word": "direction",
+      "meaning": "方向",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"direction\".",
+        "ja": "「direction」は「方向」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 114,
+      "word": "distance",
+      "meaning": "距離",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"distance\".",
+        "ja": "「distance」は「距離」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 115,
+      "word": "district",
+      "meaning": "地区",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"district\".",
+        "ja": "「district」は「地区」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 116,
+      "word": "duty",
+      "meaning": "義務",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"duty\".",
+        "ja": "「duty」は「義務」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 117,
+      "word": "education",
+      "meaning": "教育",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"education\".",
+        "ja": "「education」は「教育」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 118,
+      "word": "effect",
+      "meaning": "効果",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"effect\".",
+        "ja": "「effect」は「効果」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 119,
+      "word": "effort",
+      "meaning": "努力",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"effort\".",
+        "ja": "「effort」は「努力」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 120,
+      "word": "energy",
+      "meaning": "エネルギー",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"energy\".",
+        "ja": "「energy」は「エネルギー」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 121,
+      "word": "environment",
+      "meaning": "環境",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"environment\".",
+        "ja": "「environment」は「環境」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 122,
+      "word": "event",
+      "meaning": "出来事",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"event\".",
+        "ja": "「event」は「出来事」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 123,
+      "word": "example",
+      "meaning": "例",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"example\".",
+        "ja": "「example」は「例」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 124,
+      "word": "experience",
+      "meaning": "経験",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"experience\".",
+        "ja": "「experience」は「経験」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 125,
+      "word": "fact",
+      "meaning": "事実",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"fact\".",
+        "ja": "「fact」は「事実」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 126,
+      "word": "fashion",
+      "meaning": "流行",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"fashion\".",
+        "ja": "「fashion」は「流行」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 127,
+      "word": "festival",
+      "meaning": "祭り",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"festival\".",
+        "ja": "「festival」は「祭り」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 128,
+      "word": "field",
+      "meaning": "分野・野原",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"field\".",
+        "ja": "「field」は「分野・野原」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 129,
+      "word": "forest",
+      "meaning": "森",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"forest\".",
+        "ja": "「forest」は「森」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 130,
+      "word": "form",
+      "meaning": "形",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"form\".",
+        "ja": "「form」は「形」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 131,
+      "word": "freedom",
+      "meaning": "自由",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"freedom\".",
+        "ja": "「freedom」は「自由」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 132,
+      "word": "fuel",
+      "meaning": "燃料",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"fuel\".",
+        "ja": "「fuel」は「燃料」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 133,
+      "word": "future",
+      "meaning": "未来",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"future\".",
+        "ja": "「future」は「未来」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 134,
+      "word": "gift",
+      "meaning": "贈り物",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"gift\".",
+        "ja": "「gift」は「贈り物」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 135,
+      "word": "government",
+      "meaning": "政府",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"government\".",
+        "ja": "「government」は「政府」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 136,
+      "word": "graduate",
+      "meaning": "卒業生",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"graduate\".",
+        "ja": "「graduate」は「卒業生」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 137,
+      "word": "ground",
+      "meaning": "地面",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"ground\".",
+        "ja": "「ground」は「地面」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 138,
+      "word": "group",
+      "meaning": "集団",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"group\".",
+        "ja": "「group」は「集団」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 139,
+      "word": "guide",
+      "meaning": "案内",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"guide\".",
+        "ja": "「guide」は「案内」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 140,
+      "word": "habit",
+      "meaning": "習慣",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"habit\".",
+        "ja": "「habit」は「習慣」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 141,
+      "word": "health",
+      "meaning": "健康",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"health\".",
+        "ja": "「health」は「健康」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 142,
+      "word": "history",
+      "meaning": "歴史",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"history\".",
+        "ja": "「history」は「歴史」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 143,
+      "word": "holiday",
+      "meaning": "休日",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"holiday\".",
+        "ja": "「holiday」は「休日」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 144,
+      "word": "hope",
+      "meaning": "希望",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"hope\".",
+        "ja": "「hope」は「希望」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 145,
+      "word": "idea",
+      "meaning": "考え",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"idea\".",
+        "ja": "「idea」は「考え」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 146,
+      "word": "information",
+      "meaning": "情報",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"information\".",
+        "ja": "「information」は「情報」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 147,
+      "word": "interest",
+      "meaning": "興味",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"interest\".",
+        "ja": "「interest」は「興味」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 148,
+      "word": "international",
+      "meaning": "国際的な",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"international\".",
+        "ja": "「international」は「国際的な」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 149,
+      "word": "interview",
+      "meaning": "面接",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"interview\".",
+        "ja": "「interview」は「面接」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 150,
+      "word": "invention",
+      "meaning": "発明",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"invention\".",
+        "ja": "「invention」は「発明」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 151,
+      "word": "journey",
+      "meaning": "旅行",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"journey\".",
+        "ja": "「journey」は「旅行」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 152,
+      "word": "joy",
+      "meaning": "喜び",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"joy\".",
+        "ja": "「joy」は「喜び」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 153,
+      "word": "judge",
+      "meaning": "裁判官",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"judge\".",
+        "ja": "「judge」は「裁判官」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 154,
+      "word": "key",
+      "meaning": "鍵",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"key\".",
+        "ja": "「key」は「鍵」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 155,
+      "word": "knowledge",
+      "meaning": "知識",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"knowledge\".",
+        "ja": "「knowledge」は「知識」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 156,
+      "word": "labor",
+      "meaning": "労働",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"labor\".",
+        "ja": "「labor」は「労働」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 157,
+      "word": "language",
+      "meaning": "言語",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"language\".",
+        "ja": "「language」は「言語」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 158,
+      "word": "law",
+      "meaning": "法律",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"law\".",
+        "ja": "「law」は「法律」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 159,
+      "word": "leader",
+      "meaning": "指導者",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"leader\".",
+        "ja": "「leader」は「指導者」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 160,
+      "word": "lesson",
+      "meaning": "レッスン",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"lesson\".",
+        "ja": "「lesson」は「レッスン」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 161,
+      "word": "level",
+      "meaning": "水準",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"level\".",
+        "ja": "「level」は「水準」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 162,
+      "word": "list",
+      "meaning": "名簿",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"list\".",
+        "ja": "「list」は「名簿」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 163,
+      "word": "literature",
+      "meaning": "文学",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"literature\".",
+        "ja": "「literature」は「文学」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 164,
+      "word": "luck",
+      "meaning": "運",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"luck\".",
+        "ja": "「luck」は「運」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 165,
+      "word": "machine",
+      "meaning": "機械",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"machine\".",
+        "ja": "「machine」は「機械」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 166,
+      "word": "magazine",
+      "meaning": "雑誌",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"magazine\".",
+        "ja": "「magazine」は「雑誌」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 167,
+      "word": "manner",
+      "meaning": "行儀",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"manner\".",
+        "ja": "「manner」は「行儀」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 168,
+      "word": "market",
+      "meaning": "市場",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"market\".",
+        "ja": "「market」は「市場」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 169,
+      "word": "meaning",
+      "meaning": "意味",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"meaning\".",
+        "ja": "「meaning」は「意味」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 170,
+      "word": "medicine",
+      "meaning": "薬",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"medicine\".",
+        "ja": "「medicine」は「薬」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 171,
+      "word": "member",
+      "meaning": "会員",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"member\".",
+        "ja": "「member」は「会員」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 172,
+      "word": "memory",
+      "meaning": "記憶",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"memory\".",
+        "ja": "「memory」は「記憶」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 173,
+      "word": "message",
+      "meaning": "伝言",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"message\".",
+        "ja": "「message」は「伝言」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 174,
+      "word": "method",
+      "meaning": "方法",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"method\".",
+        "ja": "「method」は「方法」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 175,
+      "word": "middle",
+      "meaning": "真ん中",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"middle\".",
+        "ja": "「middle」は「真ん中」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 176,
+      "word": "million",
+      "meaning": "百万",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"million\".",
+        "ja": "「million」は「百万」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 177,
+      "word": "mind",
+      "meaning": "心",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"mind\".",
+        "ja": "「mind」は「心」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 178,
+      "word": "mistake",
+      "meaning": "間違い",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"mistake\".",
+        "ja": "「mistake」は「間違い」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 179,
+      "word": "model",
+      "meaning": "模型",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"model\".",
+        "ja": "「model」は「模型」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 180,
+      "word": "moment",
+      "meaning": "瞬間",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"moment\".",
+        "ja": "「moment」は「瞬間」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 181,
+      "word": "money",
+      "meaning": "金",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"money\".",
+        "ja": "「money」は「金」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 182,
+      "word": "movie",
+      "meaning": "映画",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"movie\".",
+        "ja": "「movie」は「映画」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 183,
+      "word": "neighborhood",
+      "meaning": "近所",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"neighborhood\".",
+        "ja": "「neighborhood」は「近所」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 184,
+      "word": "news",
+      "meaning": "ニュース",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"news\".",
+        "ja": "「news」は「ニュース」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 185,
+      "word": "noise",
+      "meaning": "騒音",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"noise\".",
+        "ja": "「noise」は「騒音」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 186,
+      "word": "note",
+      "meaning": "メモ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"note\".",
+        "ja": "「note」は「メモ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 187,
+      "word": "object",
+      "meaning": "物体",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"object\".",
+        "ja": "「object」は「物体」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 188,
+      "word": "office",
+      "meaning": "事務所",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"office\".",
+        "ja": "「office」は「事務所」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 189,
+      "word": "opinion",
+      "meaning": "意見",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"opinion\".",
+        "ja": "「opinion」は「意見」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 190,
+      "word": "opportunity",
+      "meaning": "機会",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"opportunity\".",
+        "ja": "「opportunity」は「機会」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 191,
+      "word": "owner",
+      "meaning": "持ち主",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"owner\".",
+        "ja": "「owner」は「持ち主」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 192,
+      "word": "page",
+      "meaning": "ページ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"page\".",
+        "ja": "「page」は「ページ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 193,
+      "word": "parent",
+      "meaning": "親",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"parent\".",
+        "ja": "「parent」は「親」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 194,
+      "word": "part",
+      "meaning": "部分",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"part\".",
+        "ja": "「part」は「部分」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 195,
+      "word": "passenger",
+      "meaning": "乗客",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"passenger\".",
+        "ja": "「passenger」は「乗客」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 196,
+      "word": "past",
+      "meaning": "過去",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"past\".",
+        "ja": "「past」は「過去」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 197,
+      "word": "peace",
+      "meaning": "平和",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"peace\".",
+        "ja": "「peace」は「平和」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 198,
+      "word": "period",
+      "meaning": "期間",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"period\".",
+        "ja": "「period」は「期間」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 199,
+      "word": "person",
+      "meaning": "人",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"person\".",
+        "ja": "「person」は「人」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 200,
+      "word": "pet",
+      "meaning": "ペット",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"pet\".",
+        "ja": "「pet」は「ペット」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 201,
+      "word": "picture",
+      "meaning": "写真・絵",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"picture\".",
+        "ja": "「picture」は「写真・絵」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 202,
+      "word": "piece",
+      "meaning": "断片",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"piece\".",
+        "ja": "「piece」は「断片」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 203,
+      "word": "plan",
+      "meaning": "計画",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"plan\".",
+        "ja": "「plan」は「計画」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 204,
+      "word": "plant",
+      "meaning": "植物・工場",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"plant\".",
+        "ja": "「plant」は「植物・工場」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 205,
+      "word": "pleasure",
+      "meaning": "喜び",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"pleasure\".",
+        "ja": "「pleasure」は「喜び」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 206,
+      "word": "point",
+      "meaning": "点",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"point\".",
+        "ja": "「point」は「点」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 207,
+      "word": "policy",
+      "meaning": "政策",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"policy\".",
+        "ja": "「policy」は「政策」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 208,
+      "word": "pollution",
+      "meaning": "汚染",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"pollution\".",
+        "ja": "「pollution」は「汚染」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 209,
+      "word": "population",
+      "meaning": "人口",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"population\".",
+        "ja": "「population」は「人口」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 210,
+      "word": "position",
+      "meaning": "位置",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"position\".",
+        "ja": "「position」は「位置」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 211,
+      "word": "power",
+      "meaning": "力",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"power\".",
+        "ja": "「power」は「力」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 212,
+      "word": "practice",
+      "meaning": "練習",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"practice\".",
+        "ja": "「practice」は「練習」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 213,
+      "word": "president",
+      "meaning": "大統領",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"president\".",
+        "ja": "「president」は「大統領」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 214,
+      "word": "price",
+      "meaning": "価格",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"price\".",
+        "ja": "「price」は「価格」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 215,
+      "word": "problem",
+      "meaning": "問題",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"problem\".",
+        "ja": "「problem」は「問題」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 216,
+      "word": "program",
+      "meaning": "番組・計画",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"program\".",
+        "ja": "「program」は「番組・計画」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 217,
+      "word": "project",
+      "meaning": "事業",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"project\".",
+        "ja": "「project」は「事業」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 218,
+      "word": "purpose",
+      "meaning": "目的",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"purpose\".",
+        "ja": "「purpose」は「目的」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 219,
+      "word": "quality",
+      "meaning": "質",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"quality\".",
+        "ja": "「quality」は「質」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 220,
+      "word": "question",
+      "meaning": "質問",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"question\".",
+        "ja": "「question」は「質問」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 221,
+      "word": "race",
+      "meaning": "競争・人種",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"race\".",
+        "ja": "「race」は「競争・人種」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 222,
+      "word": "reason",
+      "meaning": "理由",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"reason\".",
+        "ja": "「reason」は「理由」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 223,
+      "word": "record",
+      "meaning": "記録",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"record\".",
+        "ja": "「record」は「記録」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 224,
+      "word": "relationship",
+      "meaning": "関係",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"relationship\".",
+        "ja": "「relationship」は「関係」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 225,
+      "word": "result",
+      "meaning": "結果",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"result\".",
+        "ja": "「result」は「結果」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 226,
+      "word": "road",
+      "meaning": "道路",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"road\".",
+        "ja": "「road」は「道路」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 227,
+      "word": "role",
+      "meaning": "役割",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"role\".",
+        "ja": "「role」は「役割」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 228,
+      "word": "rule",
+      "meaning": "規則",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"rule\".",
+        "ja": "「rule」は「規則」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 229,
+      "word": "science",
+      "meaning": "科学",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"science\".",
+        "ja": "「science」は「科学」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 230,
+      "word": "season",
+      "meaning": "季節",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"season\".",
+        "ja": "「season」は「季節」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 231,
+      "word": "secret",
+      "meaning": "秘密",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"secret\".",
+        "ja": "「secret」は「秘密」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 232,
+      "word": "service",
+      "meaning": "奉仕",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"service\".",
+        "ja": "「service」は「奉仕」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 233,
+      "word": "shape",
+      "meaning": "形",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"shape\".",
+        "ja": "「shape」は「形」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 234,
+      "word": "sight",
+      "meaning": "視力・光景",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"sight\".",
+        "ja": "「sight」は「視力・光景」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 235,
+      "word": "sign",
+      "meaning": "記号・しるし",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"sign\".",
+        "ja": "「sign」は「記号・しるし」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 236,
+      "word": "skill",
+      "meaning": "技術",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"skill\".",
+        "ja": "「skill」は「技術」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 237,
+      "word": "society",
+      "meaning": "社会",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"society\".",
+        "ja": "「society」は「社会」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 238,
+      "word": "solution",
+      "meaning": "解決",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"solution\".",
+        "ja": "「solution」は「解決」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 239,
+      "word": "space",
+      "meaning": "空間・宇宙",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"space\".",
+        "ja": "「space」は「空間・宇宙」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 240,
+      "word": "speech",
+      "meaning": "演説",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"speech\".",
+        "ja": "「speech」は「演説」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 241,
+      "word": "stage",
+      "meaning": "段階・舞台",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"stage\".",
+        "ja": "「stage」は「段階・舞台」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 242,
+      "word": "step",
+      "meaning": "歩み",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"step\".",
+        "ja": "「step」は「歩み」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 243,
+      "word": "story",
+      "meaning": "物語",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"story\".",
+        "ja": "「story」は「物語」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 244,
+      "word": "style",
+      "meaning": "様式",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"style\".",
+        "ja": "「style」は「様式」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 245,
+      "word": "success",
+      "meaning": "成功",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"success\".",
+        "ja": "「success」は「成功」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 246,
+      "word": "system",
+      "meaning": "体系",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"system\".",
+        "ja": "「system」は「体系」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 247,
+      "word": "technology",
+      "meaning": "技術",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"technology\".",
+        "ja": "「technology」は「技術」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 248,
+      "word": "term",
+      "meaning": "期間・用語",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"term\".",
+        "ja": "「term」は「期間・用語」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 249,
+      "word": "topic",
+      "meaning": "話題",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"topic\".",
+        "ja": "「topic」は「話題」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 250,
+      "word": "tour",
+      "meaning": "見学",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"tour\".",
+        "ja": "「tour」は「見学」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 251,
+      "word": "traffic",
+      "meaning": "交通",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"traffic\".",
+        "ja": "「traffic」は「交通」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 252,
+      "word": "training",
+      "meaning": "訓練",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"training\".",
+        "ja": "「training」は「訓練」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 253,
+      "word": "treasure",
+      "meaning": "宝物",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"treasure\".",
+        "ja": "「treasure」は「宝物」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 254,
+      "word": "trip",
+      "meaning": "旅行",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"trip\".",
+        "ja": "「trip」は「旅行」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 255,
+      "word": "trouble",
+      "meaning": "心配",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"trouble\".",
+        "ja": "「trouble」は「心配」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 256,
+      "word": "truth",
+      "meaning": "真実",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"truth\".",
+        "ja": "「truth」は「真実」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 257,
+      "word": "type",
+      "meaning": "型",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"type\".",
+        "ja": "「type」は「型」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 258,
+      "word": "university",
+      "meaning": "大学",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"university\".",
+        "ja": "「university」は「大学」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 259,
+      "word": "vacation",
+      "meaning": "休暇",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"vacation\".",
+        "ja": "「vacation」は「休暇」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 260,
+      "word": "value",
+      "meaning": "価値",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"value\".",
+        "ja": "「value」は「価値」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 261,
+      "word": "variety",
+      "meaning": "変化",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"variety\".",
+        "ja": "「variety」は「変化」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 262,
+      "word": "view",
+      "meaning": "眺め",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"view\".",
+        "ja": "「view」は「眺め」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 263,
+      "word": "visitor",
+      "meaning": "訪問者",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"visitor\".",
+        "ja": "「visitor」は「訪問者」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 264,
+      "word": "voice",
+      "meaning": "声",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"voice\".",
+        "ja": "「voice」は「声」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 265,
+      "word": "war",
+      "meaning": "戦争",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"war\".",
+        "ja": "「war」は「戦争」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 266,
+      "word": "way",
+      "meaning": "道・方法",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"way\".",
+        "ja": "「way」は「道・方法」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 267,
+      "word": "wood",
+      "meaning": "木材",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"wood\".",
+        "ja": "「wood」は「木材」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 268,
+      "word": "word",
+      "meaning": "言葉",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"word\".",
+        "ja": "「word」は「言葉」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 269,
+      "word": "youth",
+      "meaning": "若さ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"youth\".",
+        "ja": "「youth」は「若さ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 270,
+      "word": "be good at",
+      "meaning": "～が得意だ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"be good at\".",
+        "ja": "「be good at」は「～が得意だ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 271,
+      "word": "look for",
+      "meaning": "～を探す",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"look for\".",
+        "ja": "「look for」は「～を探す」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 272,
+      "word": "take care of",
+      "meaning": "～の世話をする",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"take care of\".",
+        "ja": "「take care of」は「～の世話をする」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 273,
+      "word": "wait for",
+      "meaning": "～を待つ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"wait for\".",
+        "ja": "「wait for」は「～を待つ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 274,
+      "word": "get up",
+      "meaning": "起きる",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"get up\".",
+        "ja": "「get up」は「起きる」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 275,
+      "word": "sit down",
+      "meaning": "座る",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"sit down\".",
+        "ja": "「sit down」は「座る」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 276,
+      "word": "stand up",
+      "meaning": "立ち上がる",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"stand up\".",
+        "ja": "「stand up」は「立ち上がる」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 277,
+      "word": "all over",
+      "meaning": "～の至る所で",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"all over\".",
+        "ja": "「all over」は「～の至る所で」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 278,
+      "word": "a lot of",
+      "meaning": "たくさんの",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"a lot of\".",
+        "ja": "「a lot of」は「たくさんの」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 279,
+      "word": "kind of",
+      "meaning": "～の一種",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"kind of\".",
+        "ja": "「kind of」は「～の一種」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 280,
+      "word": "next to",
+      "meaning": "～の隣に",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"next to\".",
+        "ja": "「next to」は「～の隣に」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 281,
+      "word": "front of",
+      "meaning": "～の前に",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"front of\".",
+        "ja": "「front of」は「～の前に」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 282,
+      "word": "look forward to",
+      "meaning": "～を楽しみに待つ",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"look forward to\".",
+        "ja": "「look forward to」は「～を楽しみに待つ」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 283,
+      "word": "arrive at",
+      "meaning": "～に到着する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"arrive at\".",
+        "ja": "「arrive at」は「～に到着する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 284,
+      "word": "pick up",
+      "meaning": "～を拾う・車で迎えに行く",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"pick up\".",
+        "ja": "「pick up」は「～を拾う・車で迎えに行く」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 285,
+      "word": "turn on",
+      "meaning": "（電気を）つける",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"turn on\".",
+        "ja": "「turn on」は「（電気を）つける」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 286,
+      "word": "turn off",
+      "meaning": "（電気を）消す",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"turn off\".",
+        "ja": "「turn off」は「（電気を）消す」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 287,
+      "word": "put on",
+      "meaning": "～を身に着ける",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"put on\".",
+        "ja": "「put on」は「～を身に着ける」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 288,
+      "word": "take off",
+      "meaning": "～を脱ぐ・離陸する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"take off\".",
+        "ja": "「take off」は「～を脱ぐ・離陸する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 289,
+      "word": "by the way",
+      "meaning": "ところで",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"by the way\".",
+        "ja": "「by the way」は「ところで」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 290,
+      "word": "for example",
+      "meaning": "例えば",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"for example\".",
+        "ja": "「for example」は「例えば」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 291,
+      "word": "of course",
+      "meaning": "もちろん",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"of course\".",
+        "ja": "「of course」は「もちろん」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 292,
+      "word": "be afraid of",
+      "meaning": "～を恐れる",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"be afraid of\".",
+        "ja": "「be afraid of」は「～を恐れる」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 293,
+      "word": "be surprised at",
+      "meaning": "～に驚く",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"be surprised at\".",
+        "ja": "「be surprised at」は「～に驚く」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 294,
+      "word": "be interested in",
+      "meaning": "～に興味がある",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"be interested in\".",
+        "ja": "「be interested in」は「～に興味がある」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 295,
+      "word": "shake hands",
+      "meaning": "握手する",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"shake hands\".",
+        "ja": "「shake hands」は「握手する」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 296,
+      "word": "far from",
+      "meaning": "～から遠い",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"far from\".",
+        "ja": "「far from」は「～から遠い」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 297,
+      "word": "once more",
+      "meaning": "もう一度",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"once more\".",
+        "ja": "「once more」は「もう一度」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 298,
+      "word": "each other",
+      "meaning": "お互いに",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"each other\".",
+        "ja": "「each other」は「お互いに」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 299,
+      "word": "all day long",
+      "meaning": "一日中",
+      "category": "よく出る",
+      "example": {
+        "en": "The word \"all day long\".",
+        "ja": "「all day long」は「一日中」という意味です。"
+      },
+      "info": {
+        "rank": "C",
+        "pos": ""
+      }
+    }
+  ]
+}

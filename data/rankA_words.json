@@ -1,0 +1,3042 @@
+{
+  "items": [
+    {
+      "_no": 1,
+      "word": "I",
+      "meaning": "私（は）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"I\".",
+        "ja": "「I」は「私（は）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（主格）"
+      }
+    },
+    {
+      "_no": 2,
+      "word": "you",
+      "meaning": "あなた（は）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"you\".",
+        "ja": "「you」は「あなた（は）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（主格/目的格）"
+      }
+    },
+    {
+      "_no": 3,
+      "word": "he",
+      "meaning": "彼（は）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"he\".",
+        "ja": "「he」は「彼（は）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（主格）"
+      }
+    },
+    {
+      "_no": 4,
+      "word": "she",
+      "meaning": "彼女（は）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"she\".",
+        "ja": "「she」は「彼女（は）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（主格）"
+      }
+    },
+    {
+      "_no": 5,
+      "word": "it",
+      "meaning": "それ（は）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"it\".",
+        "ja": "「it」は「それ（は）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（主格）"
+      }
+    },
+    {
+      "_no": 6,
+      "word": "we",
+      "meaning": "私たち（は）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"we\".",
+        "ja": "「we」は「私たち（は）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（主格）"
+      }
+    },
+    {
+      "_no": 7,
+      "word": "they",
+      "meaning": "彼ら・それら（は）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"they\".",
+        "ja": "「they」は「彼ら・それら（は）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（主格）"
+      }
+    },
+    {
+      "_no": 8,
+      "word": "my",
+      "meaning": "私の",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"my\".",
+        "ja": "「my」は「私の」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "所有格（形容詞的用法）"
+      }
+    },
+    {
+      "_no": 9,
+      "word": "your",
+      "meaning": "あなたの",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"your\".",
+        "ja": "「your」は「あなたの」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "所有格（形容詞的用法）"
+      }
+    },
+    {
+      "_no": 10,
+      "word": "his",
+      "meaning": "彼の",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"his\".",
+        "ja": "「his」は「彼の」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "所有格（形容詞的用法/代名詞的用法）"
+      }
+    },
+    {
+      "_no": 11,
+      "word": "her",
+      "meaning": "彼女の",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"her\".",
+        "ja": "「her」は「彼女の」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（目的格/所有格）"
+      }
+    },
+    {
+      "_no": 12,
+      "word": "our",
+      "meaning": "私たちの",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"our\".",
+        "ja": "「our」は「私たちの」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "所有格（形容詞的用法）"
+      }
+    },
+    {
+      "_no": 13,
+      "word": "their",
+      "meaning": "彼らの",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"their\".",
+        "ja": "「their」は「彼らの」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "所有格（形容詞的用法）"
+      }
+    },
+    {
+      "_no": 14,
+      "word": "me",
+      "meaning": "私を（に）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"me\".",
+        "ja": "「me」は「私を（に）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（目的格）"
+      }
+    },
+    {
+      "_no": 15,
+      "word": "us",
+      "meaning": "私たちを（に）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"us\".",
+        "ja": "「us」は「私たちを（に）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（目的格）"
+      }
+    },
+    {
+      "_no": 16,
+      "word": "him",
+      "meaning": "彼を（に）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"him\".",
+        "ja": "「him」は「彼を（に）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（目的格）"
+      }
+    },
+    {
+      "_no": 17,
+      "word": "them",
+      "meaning": "彼ら・それらを（に）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"them\".",
+        "ja": "「them」は「彼ら・それらを（に）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "代名詞（目的格）"
+      }
+    },
+    {
+      "_no": 18,
+      "word": "this",
+      "meaning": "これ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"this\".",
+        "ja": "「this」は「これ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "指示語（this）"
+      }
+    },
+    {
+      "_no": 19,
+      "word": "that",
+      "meaning": "あれ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"that\".",
+        "ja": "「that」は「あれ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "指示語（that）"
+      }
+    },
+    {
+      "_no": 20,
+      "word": "these",
+      "meaning": "これら",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"these\".",
+        "ja": "「these」は「これら」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "指示語（these）"
+      }
+    },
+    {
+      "_no": 21,
+      "word": "those",
+      "meaning": "あれら",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"those\".",
+        "ja": "「those」は「あれら」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "指示語（those）"
+      }
+    },
+    {
+      "_no": 22,
+      "word": "who",
+      "meaning": "だれ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"who\".",
+        "ja": "「who」は「だれ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "疑問詞（who）"
+      }
+    },
+    {
+      "_no": 23,
+      "word": "what",
+      "meaning": "なに",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"what\".",
+        "ja": "「what」は「なに」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "疑問詞（what）"
+      }
+    },
+    {
+      "_no": 24,
+      "word": "which",
+      "meaning": "どちら",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"which\".",
+        "ja": "「which」は「どちら」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "疑問詞（which）"
+      }
+    },
+    {
+      "_no": 25,
+      "word": "where",
+      "meaning": "どこ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"where\".",
+        "ja": "「where」は「どこ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "疑問詞（where）"
+      }
+    },
+    {
+      "_no": 26,
+      "word": "when",
+      "meaning": "いつ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"when\".",
+        "ja": "「when」は「いつ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "疑問詞（when）"
+      }
+    },
+    {
+      "_no": 27,
+      "word": "why",
+      "meaning": "なぜ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"why\".",
+        "ja": "「why」は「なぜ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "疑問詞（why）"
+      }
+    },
+    {
+      "_no": 28,
+      "word": "how",
+      "meaning": "どのように・どれくらい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"how\".",
+        "ja": "「how」は「どのように・どれくらい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "疑問詞（how）"
+      }
+    },
+    {
+      "_no": 29,
+      "word": "be",
+      "meaning": "～である・いる",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"be\".",
+        "ja": "「be」は「～である・いる」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 30,
+      "word": "do",
+      "meaning": "～する",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"do\".",
+        "ja": "「do」は「～する」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 31,
+      "word": "have",
+      "meaning": "持っている・食べる",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"have\".",
+        "ja": "「have」は「持っている・食べる」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 32,
+      "word": "go",
+      "meaning": "行く",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"go\".",
+        "ja": "「go」は「行く」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 33,
+      "word": "come",
+      "meaning": "来る",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"come\".",
+        "ja": "「come」は「来る」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 34,
+      "word": "get",
+      "meaning": "手に入れる・着く",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"get\".",
+        "ja": "「get」は「手に入れる・着く」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 35,
+      "word": "make",
+      "meaning": "作る",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"make\".",
+        "ja": "「make」は「作る」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 36,
+      "word": "take",
+      "meaning": "連れていく・（時間を）かける・乗る",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"take\".",
+        "ja": "「take」は「連れていく・（時間を）かける・乗る」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 37,
+      "word": "see",
+      "meaning": "会う・見える",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"see\".",
+        "ja": "「see」は「会う・見える」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 38,
+      "word": "know",
+      "meaning": "知っている",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"know\".",
+        "ja": "「know」は「知っている」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 39,
+      "word": "think",
+      "meaning": "思う・考える",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"think\".",
+        "ja": "「think」は「思う・考える」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 40,
+      "word": "say",
+      "meaning": "言う",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"say\".",
+        "ja": "「say」は「言う」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 41,
+      "word": "tell",
+      "meaning": "話す・教える",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"tell\".",
+        "ja": "「tell」は「話す・教える」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 42,
+      "word": "look",
+      "meaning": "見る・～に見える",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"look\".",
+        "ja": "「look」は「見る・～に見える」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 43,
+      "word": "use",
+      "meaning": "使う",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"use\".",
+        "ja": "「use」は「使う」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 44,
+      "word": "want",
+      "meaning": "欲しい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"want\".",
+        "ja": "「want」は「欲しい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 45,
+      "word": "give",
+      "meaning": "あげる",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"give\".",
+        "ja": "「give」は「あげる」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 46,
+      "word": "help",
+      "meaning": "助ける",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"help\".",
+        "ja": "「help」は「助ける」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 47,
+      "word": "live",
+      "meaning": "住む",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"live\".",
+        "ja": "「live」は「住む」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 48,
+      "word": "study",
+      "meaning": "勉強する",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"study\".",
+        "ja": "「study」は「勉強する」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 49,
+      "word": "play",
+      "meaning": "遊ぶ・演奏する",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"play\".",
+        "ja": "「play」は「遊ぶ・演奏する」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 50,
+      "word": "work",
+      "meaning": "働く",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"work\".",
+        "ja": "「work」は「働く」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 51,
+      "word": "buy",
+      "meaning": "買う",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"buy\".",
+        "ja": "「buy」は「買う」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 52,
+      "word": "read",
+      "meaning": "読む",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"read\".",
+        "ja": "「read」は「読む」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 53,
+      "word": "write",
+      "meaning": "書く",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"write\".",
+        "ja": "「write」は「書く」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 54,
+      "word": "eat",
+      "meaning": "食べる",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"eat\".",
+        "ja": "「eat」は「食べる」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 55,
+      "word": "drink",
+      "meaning": "飲む",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"drink\".",
+        "ja": "「drink」は「飲む」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 56,
+      "word": "sleep",
+      "meaning": "眠る",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"sleep\".",
+        "ja": "「sleep」は「眠る」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 57,
+      "word": "speak",
+      "meaning": "話す",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"speak\".",
+        "ja": "「speak」は「話す」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 58,
+      "word": "listen",
+      "meaning": "聞く",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"listen\".",
+        "ja": "「listen」は「聞く」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 59,
+      "word": "run",
+      "meaning": "走る",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"run\".",
+        "ja": "「run」は「走る」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 60,
+      "word": "walk",
+      "meaning": "歩く",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"walk\".",
+        "ja": "「walk」は「歩く」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 61,
+      "word": "stop",
+      "meaning": "止まる",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"stop\".",
+        "ja": "「stop」は「止まる」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 62,
+      "word": "open",
+      "meaning": "開ける",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"open\".",
+        "ja": "「open」は「開ける」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 63,
+      "word": "close",
+      "meaning": "閉める",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"close\".",
+        "ja": "「close」は「閉める」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 64,
+      "word": "start",
+      "meaning": "始まる",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"start\".",
+        "ja": "「start」は「始まる」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 65,
+      "word": "finish",
+      "meaning": "終わる",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"finish\".",
+        "ja": "「finish」は「終わる」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 66,
+      "word": "school",
+      "meaning": "学校",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"school\".",
+        "ja": "「school」は「学校」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 67,
+      "word": "class",
+      "meaning": "授業・クラス",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"class\".",
+        "ja": "「class」は「授業・クラス」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 68,
+      "word": "teacher",
+      "meaning": "先生",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"teacher\".",
+        "ja": "「teacher」は「先生」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 69,
+      "word": "student",
+      "meaning": "生徒",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"student\".",
+        "ja": "「student」は「生徒」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 70,
+      "word": "friend",
+      "meaning": "友達",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"friend\".",
+        "ja": "「friend」は「友達」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 71,
+      "word": "homework",
+      "meaning": "宿題",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"homework\".",
+        "ja": "「homework」は「宿題」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 72,
+      "word": "book",
+      "meaning": "本",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"book\".",
+        "ja": "「book」は「本」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 73,
+      "word": "pen",
+      "meaning": "ペン",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"pen\".",
+        "ja": "「pen」は「ペン」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 74,
+      "word": "desk",
+      "meaning": "机",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"desk\".",
+        "ja": "「desk」は「机」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 75,
+      "word": "chair",
+      "meaning": "椅子",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"chair\".",
+        "ja": "「chair」は「椅子」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 76,
+      "word": "room",
+      "meaning": "部屋",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"room\".",
+        "ja": "「room」は「部屋」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 77,
+      "word": "door",
+      "meaning": "ドア",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"door\".",
+        "ja": "「door」は「ドア」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 78,
+      "word": "window",
+      "meaning": "窓",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"window\".",
+        "ja": "「window」は「窓」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 79,
+      "word": "house",
+      "meaning": "家",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"house\".",
+        "ja": "「house」は「家」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 80,
+      "word": "family",
+      "meaning": "家族",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"family\".",
+        "ja": "「family」は「家族」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 81,
+      "word": "father",
+      "meaning": "父",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"father\".",
+        "ja": "「father」は「父」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 82,
+      "word": "mother",
+      "meaning": "母",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"mother\".",
+        "ja": "「mother」は「母」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 83,
+      "word": "brother",
+      "meaning": "兄弟",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"brother\".",
+        "ja": "「brother」は「兄弟」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 84,
+      "word": "sister",
+      "meaning": "姉妹",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"sister\".",
+        "ja": "「sister」は「姉妹」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 85,
+      "word": "boy",
+      "meaning": "男の子",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"boy\".",
+        "ja": "「boy」は「男の子」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 86,
+      "word": "girl",
+      "meaning": "女の子",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"girl\".",
+        "ja": "「girl」は「女の子」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 87,
+      "word": "man",
+      "meaning": "男の人",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"man\".",
+        "ja": "「man」は「男の人」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 88,
+      "word": "woman",
+      "meaning": "女の人",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"woman\".",
+        "ja": "「woman」は「女の人」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 89,
+      "word": "child",
+      "meaning": "子供",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"child\".",
+        "ja": "「child」は「子供」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 90,
+      "word": "time",
+      "meaning": "時間",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"time\".",
+        "ja": "「time」は「時間」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 91,
+      "word": "day",
+      "meaning": "日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"day\".",
+        "ja": "「day」は「日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 92,
+      "word": "week",
+      "meaning": "週",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"week\".",
+        "ja": "「week」は「週」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 93,
+      "word": "month",
+      "meaning": "月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"month\".",
+        "ja": "「month」は「月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 94,
+      "word": "year",
+      "meaning": "年",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"year\".",
+        "ja": "「year」は「年」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 95,
+      "word": "today",
+      "meaning": "今日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"today\".",
+        "ja": "「today」は「今日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 96,
+      "word": "tomorrow",
+      "meaning": "明日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"tomorrow\".",
+        "ja": "「tomorrow」は「明日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 97,
+      "word": "yesterday",
+      "meaning": "昨日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"yesterday\".",
+        "ja": "「yesterday」は「昨日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 98,
+      "word": "morning",
+      "meaning": "朝",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"morning\".",
+        "ja": "「morning」は「朝」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 99,
+      "word": "afternoon",
+      "meaning": "午後",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"afternoon\".",
+        "ja": "「afternoon」は「午後」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 100,
+      "word": "evening",
+      "meaning": "晩",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"evening\".",
+        "ja": "「evening」は「晩」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 101,
+      "word": "night",
+      "meaning": "夜",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"night\".",
+        "ja": "「night」は「夜」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 102,
+      "word": "sunday",
+      "meaning": "日曜日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"sunday\".",
+        "ja": "「sunday」は「日曜日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 103,
+      "word": "monday",
+      "meaning": "月曜日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"monday\".",
+        "ja": "「monday」は「月曜日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 104,
+      "word": "tuesday",
+      "meaning": "火曜日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"tuesday\".",
+        "ja": "「tuesday」は「火曜日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 105,
+      "word": "wednesday",
+      "meaning": "水曜日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"wednesday\".",
+        "ja": "「wednesday」は「水曜日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 106,
+      "word": "thursday",
+      "meaning": "木曜日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"thursday\".",
+        "ja": "「thursday」は「木曜日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 107,
+      "word": "friday",
+      "meaning": "金曜日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"friday\".",
+        "ja": "「friday」は「金曜日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 108,
+      "word": "saturday",
+      "meaning": "土曜日",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"saturday\".",
+        "ja": "「saturday」は「土曜日」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 109,
+      "word": "january",
+      "meaning": "1月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"january\".",
+        "ja": "「january」は「1月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 110,
+      "word": "february",
+      "meaning": "2月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"february\".",
+        "ja": "「february」は「2月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 111,
+      "word": "march",
+      "meaning": "3月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"march\".",
+        "ja": "「march」は「3月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 112,
+      "word": "april",
+      "meaning": "4月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"april\".",
+        "ja": "「april」は「4月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 113,
+      "word": "may",
+      "meaning": "5月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"may\".",
+        "ja": "「may」は「5月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 114,
+      "word": "june",
+      "meaning": "6月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"june\".",
+        "ja": "「june」は「6月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 115,
+      "word": "july",
+      "meaning": "7月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"july\".",
+        "ja": "「july」は「7月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 116,
+      "word": "august",
+      "meaning": "8月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"august\".",
+        "ja": "「august」は「8月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 117,
+      "word": "september",
+      "meaning": "9月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"september\".",
+        "ja": "「september」は「9月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 118,
+      "word": "october",
+      "meaning": "10月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"october\".",
+        "ja": "「october」は「10月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 119,
+      "word": "november",
+      "meaning": "11月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"november\".",
+        "ja": "「november」は「11月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 120,
+      "word": "december",
+      "meaning": "12月",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"december\".",
+        "ja": "「december」は「12月」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 121,
+      "word": "spring",
+      "meaning": "春",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"spring\".",
+        "ja": "「spring」は「春」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 122,
+      "word": "summer",
+      "meaning": "夏",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"summer\".",
+        "ja": "「summer」は「夏」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 123,
+      "word": "fall",
+      "meaning": "秋",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"fall\".",
+        "ja": "「fall」は「秋」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 124,
+      "word": "winter",
+      "meaning": "冬",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"winter\".",
+        "ja": "「winter」は「冬」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 125,
+      "word": "one",
+      "meaning": "1",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"one\".",
+        "ja": "「one」は「1」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 126,
+      "word": "two",
+      "meaning": "2",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"two\".",
+        "ja": "「two」は「2」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 127,
+      "word": "three",
+      "meaning": "3",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"three\".",
+        "ja": "「three」は「3」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 128,
+      "word": "four",
+      "meaning": "4",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"four\".",
+        "ja": "「four」は「4」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 129,
+      "word": "five",
+      "meaning": "5",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"five\".",
+        "ja": "「five」は「5」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 130,
+      "word": "six",
+      "meaning": "6",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"six\".",
+        "ja": "「six」は「6」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 131,
+      "word": "seven",
+      "meaning": "7",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"seven\".",
+        "ja": "「seven」は「7」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 132,
+      "word": "eight",
+      "meaning": "8",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"eight\".",
+        "ja": "「eight」は「8」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 133,
+      "word": "nine",
+      "meaning": "9",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"nine\".",
+        "ja": "「nine」は「9」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 134,
+      "word": "ten",
+      "meaning": "10",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"ten\".",
+        "ja": "「ten」は「10」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 135,
+      "word": "eleven",
+      "meaning": "11",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"eleven\".",
+        "ja": "「eleven」は「11」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 136,
+      "word": "twelve",
+      "meaning": "12",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"twelve\".",
+        "ja": "「twelve」は「12」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 137,
+      "word": "thirteen",
+      "meaning": "13",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"thirteen\".",
+        "ja": "「thirteen」は「13」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 138,
+      "word": "fourteen",
+      "meaning": "14",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"fourteen\".",
+        "ja": "「fourteen」は「14」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 139,
+      "word": "fifteen",
+      "meaning": "15",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"fifteen\".",
+        "ja": "「fifteen」は「15」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 140,
+      "word": "sixteen",
+      "meaning": "16",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"sixteen\".",
+        "ja": "「sixteen」は「16」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 141,
+      "word": "seventeen",
+      "meaning": "17",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"seventeen\".",
+        "ja": "「seventeen」は「17」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 142,
+      "word": "eighteen",
+      "meaning": "18",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"eighteen\".",
+        "ja": "「eighteen」は「18」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 143,
+      "word": "nineteen",
+      "meaning": "19",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"nineteen\".",
+        "ja": "「nineteen」は「19」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 144,
+      "word": "twenty",
+      "meaning": "20",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"twenty\".",
+        "ja": "「twenty」は「20」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 145,
+      "word": "thirty",
+      "meaning": "30",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"thirty\".",
+        "ja": "「thirty」は「30」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 146,
+      "word": "forty",
+      "meaning": "40",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"forty\".",
+        "ja": "「forty」は「40」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 147,
+      "word": "fifty",
+      "meaning": "50",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"fifty\".",
+        "ja": "「fifty」は「50」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 148,
+      "word": "hundred",
+      "meaning": "100",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"hundred\".",
+        "ja": "「hundred」は「100」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 149,
+      "word": "first",
+      "meaning": "第1の",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"first\".",
+        "ja": "「first」は「第1の」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 150,
+      "word": "second",
+      "meaning": "第2の",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"second\".",
+        "ja": "「second」は「第2の」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 151,
+      "word": "third",
+      "meaning": "第3の",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"third\".",
+        "ja": "「third」は「第3の」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 152,
+      "word": "good",
+      "meaning": "良い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"good\".",
+        "ja": "「good」は「良い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 153,
+      "word": "bad",
+      "meaning": "悪い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"bad\".",
+        "ja": "「bad」は「悪い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 154,
+      "word": "big",
+      "meaning": "大きい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"big\".",
+        "ja": "「big」は「大きい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 155,
+      "word": "small",
+      "meaning": "小さい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"small\".",
+        "ja": "「small」は「小さい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 156,
+      "word": "new",
+      "meaning": "新しい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"new\".",
+        "ja": "「new」は「新しい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 157,
+      "word": "old",
+      "meaning": "古い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"old\".",
+        "ja": "「old」は「古い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 158,
+      "word": "long",
+      "meaning": "長い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"long\".",
+        "ja": "「long」は「長い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 159,
+      "word": "short",
+      "meaning": "短い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"short\".",
+        "ja": "「short」は「短い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 160,
+      "word": "high",
+      "meaning": "高い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"high\".",
+        "ja": "「high」は「高い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 161,
+      "word": "low",
+      "meaning": "低い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"low\".",
+        "ja": "「low」は「低い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 162,
+      "word": "hot",
+      "meaning": "暑い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"hot\".",
+        "ja": "「hot」は「暑い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 163,
+      "word": "cold",
+      "meaning": "寒い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"cold\".",
+        "ja": "「cold」は「寒い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 164,
+      "word": "happy",
+      "meaning": "幸せな",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"happy\".",
+        "ja": "「happy」は「幸せな」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 165,
+      "word": "sad",
+      "meaning": "悲しい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"sad\".",
+        "ja": "「sad」は「悲しい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 166,
+      "word": "busy",
+      "meaning": "忙しい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"busy\".",
+        "ja": "「busy」は「忙しい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 167,
+      "word": "free",
+      "meaning": "暇な・自由な",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"free\".",
+        "ja": "「free」は「暇な・自由な」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 168,
+      "word": "early",
+      "meaning": "早い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"early\".",
+        "ja": "「early」は「早い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 169,
+      "word": "late",
+      "meaning": "遅い",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"late\".",
+        "ja": "「late」は「遅い」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 170,
+      "word": "many",
+      "meaning": "たくさんの",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"many\".",
+        "ja": "「many」は「たくさんの」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 171,
+      "word": "much",
+      "meaning": "たくさんの（量）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"much\".",
+        "ja": "「much」は「たくさんの（量）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 172,
+      "word": "little",
+      "meaning": "少しの・小さい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"little\".",
+        "ja": "「little」は「少しの・小さい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 173,
+      "word": "some",
+      "meaning": "いくつかの",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"some\".",
+        "ja": "「some」は「いくつかの」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 174,
+      "word": "any",
+      "meaning": "いくつかの（疑問・否定）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"any\".",
+        "ja": "「any」は「いくつかの（疑問・否定）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 175,
+      "word": "all",
+      "meaning": "すべての",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"all\".",
+        "ja": "「all」は「すべての」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 176,
+      "word": "every",
+      "meaning": "毎～・すべての",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"every\".",
+        "ja": "「every」は「毎～・すべての」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 177,
+      "word": "very",
+      "meaning": "とても",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"very\".",
+        "ja": "「very」は「とても」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 178,
+      "word": "well",
+      "meaning": "上手に・健康で",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"well\".",
+        "ja": "「well」は「上手に・健康で」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 179,
+      "word": "fast",
+      "meaning": "速く",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"fast\".",
+        "ja": "「fast」は「速く」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 180,
+      "word": "slowly",
+      "meaning": "ゆっくりと",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"slowly\".",
+        "ja": "「slowly」は「ゆっくりと」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 181,
+      "word": "always",
+      "meaning": "いつも",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"always\".",
+        "ja": "「always」は「いつも」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 182,
+      "word": "usually",
+      "meaning": "たいてい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"usually\".",
+        "ja": "「usually」は「たいてい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 183,
+      "word": "often",
+      "meaning": "しばしば",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"often\".",
+        "ja": "「often」は「しばしば」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 184,
+      "word": "sometimes",
+      "meaning": "ときどき",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"sometimes\".",
+        "ja": "「sometimes」は「ときどき」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 185,
+      "word": "now",
+      "meaning": "今",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"now\".",
+        "ja": "「now」は「今」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 186,
+      "word": "then",
+      "meaning": "そのとき・それから",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"then\".",
+        "ja": "「then」は「そのとき・それから」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 187,
+      "word": "here",
+      "meaning": "ここ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"here\".",
+        "ja": "「here」は「ここ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 188,
+      "word": "there",
+      "meaning": "そこ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"there\".",
+        "ja": "「there」は「そこ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 189,
+      "word": "together",
+      "meaning": "一緒に",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"together\".",
+        "ja": "「together」は「一緒に」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 190,
+      "word": "again",
+      "meaning": "また",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"again\".",
+        "ja": "「again」は「また」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 191,
+      "word": "too",
+      "meaning": "～もまた・あまりに～すぎる",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"too\".",
+        "ja": "「too」は「～もまた・あまりに～すぎる」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 192,
+      "word": "and",
+      "meaning": "と",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"and\".",
+        "ja": "「and」は「と」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 193,
+      "word": "but",
+      "meaning": "しかし",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"but\".",
+        "ja": "「but」は「しかし」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 194,
+      "word": "or",
+      "meaning": "または",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"or\".",
+        "ja": "「or」は「または」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 195,
+      "word": "so",
+      "meaning": "だから・そんなに",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"so\".",
+        "ja": "「so」は「だから・そんなに」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 196,
+      "word": "because",
+      "meaning": "なぜなら",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"because\".",
+        "ja": "「because」は「なぜなら」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 197,
+      "word": "can",
+      "meaning": "～できる",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"can\".",
+        "ja": "「can」は「～できる」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 198,
+      "word": "will",
+      "meaning": "～でしょう・～するつもりだ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"will\".",
+        "ja": "「will」は「～でしょう・～するつもりだ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 199,
+      "word": "must",
+      "meaning": "～しなければならない",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"must\".",
+        "ja": "「must」は「～しなければならない」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 200,
+      "word": "may",
+      "meaning": "～してもよい",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"may\".",
+        "ja": "「may」は「～してもよい」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 201,
+      "word": "in",
+      "meaning": "～の中に",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"in\".",
+        "ja": "「in」は「～の中に」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 202,
+      "word": "on",
+      "meaning": "～の上に",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"on\".",
+        "ja": "「on」は「～の上に」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 203,
+      "word": "at",
+      "meaning": "～で（地点）",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"at\".",
+        "ja": "「at」は「～で（地点）」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 204,
+      "word": "to",
+      "meaning": "～へ",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"to\".",
+        "ja": "「to」は「～へ」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 205,
+      "word": "for",
+      "meaning": "～のために",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"for\".",
+        "ja": "「for」は「～のために」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 206,
+      "word": "with",
+      "meaning": "～と一緒に",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"with\".",
+        "ja": "「with」は「～と一緒に」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 207,
+      "word": "by",
+      "meaning": "～によって・～のそばに",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"by\".",
+        "ja": "「by」は「～によって・～のそばに」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 208,
+      "word": "from",
+      "meaning": "～から",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"from\".",
+        "ja": "「from」は「～から」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 209,
+      "word": "of",
+      "meaning": "～の",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"of\".",
+        "ja": "「of」は「～の」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 210,
+      "word": "about",
+      "meaning": "～について",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"about\".",
+        "ja": "「about」は「～について」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 211,
+      "word": "before",
+      "meaning": "～の前に",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"before\".",
+        "ja": "「before」は「～の前に」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 212,
+      "word": "after",
+      "meaning": "～の後に",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"after\".",
+        "ja": "「after」は「～の後に」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 213,
+      "word": "between",
+      "meaning": "（2つの）間に",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"between\".",
+        "ja": "「between」は「（2つの）間に」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 214,
+      "word": "under",
+      "meaning": "～の下に",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"under\".",
+        "ja": "「under」は「～の下に」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 215,
+      "word": "near",
+      "meaning": "～の近くに",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"near\".",
+        "ja": "「near」は「～の近くに」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 216,
+      "word": "a",
+      "meaning": "1つの",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"a\".",
+        "ja": "「a」は「1つの」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "冠詞（不定冠詞）"
+      }
+    },
+    {
+      "_no": 217,
+      "word": "the",
+      "meaning": "その",
+      "category": "最頻出",
+      "example": {
+        "en": "The word \"the\".",
+        "ja": "「the」は「その」という意味です。"
+      },
+      "info": {
+        "rank": "A",
+        "pos": "冠詞（定冠詞）"
+      }
+    }
+  ]
+}

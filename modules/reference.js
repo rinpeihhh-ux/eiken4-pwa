@@ -9,6 +9,8 @@ const ReferenceModule = {
     contentEl: null,
     hideMemEl: null,
     memCountEl: null,
+    validateEl: null,
+    validateState: null,
 
     async init(type) {
         this.type = type;
@@ -17,19 +19,55 @@ const ReferenceModule = {
 
         this.hideMemEl = null;
         this.memCountEl = null;
+        this.validateEl = null;
+        this.validateState = null;
 
-        if (type === 'words') {
+        if (type !== 'phrases') {
             this.searchEl = document.getElementById('freq-words-search');
             this.categoryEl = document.getElementById('freq-words-category');
             this.contentEl = document.getElementById('freq-words-content');
             this.hideMemEl = document.getElementById('freq-words-hide-memorized');
             this.memCountEl = document.getElementById('freq-words-mem-count');
+            this.validateEl = document.getElementById('freq-words-validate');
         } else {
             this.searchEl = document.getElementById('freq-phrases-search');
             this.categoryEl = document.getElementById('freq-phrases-category');
             this.contentEl = document.getElementById('freq-phrases-content');
             this.hideMemEl = document.getElementById('freq-phrases-hide-memorized');
             this.memCountEl = document.getElementById('freq-phrases-mem-count');
+            this.validateEl = document.getElementById('freq-phrases-validate');
+        }
+
+        // Update title & UI for word reference screen
+        if (type !== 'phrases') {
+            const titleEl = document.getElementById('freq-words-title');
+            if (titleEl) {
+                const titleMap = {
+                    words: '単語（参照用）',
+                    rankA: '最頻出単語（参照用）',
+                    rankB: '頻出単語（参照用）',
+                    rankC: 'よく出る単語（参照用）'
+                };
+                titleEl.textContent = titleMap[type] || '単語（参照用）';
+            }
+
+            // For rank lists, hide category dropdown (CSV-based words have no reliable POS categories)
+            if (this.categoryEl) {
+                if (type === 'rankA' || type === 'rankB' || type === 'rankC') {
+                    this.categoryEl.classList.add('hidden');
+                    this.categoryEl.value = 'all';
+                } else {
+                    this.categoryEl.classList.remove('hidden');
+                }
+            }
+
+            // Update search placeholder per list
+            if (this.searchEl) {
+                this.searchEl.placeholder = '検索（例：go / 行く）';
+                if (type === 'rankA') this.searchEl.placeholder = '検索（例：I / 私）';
+                if (type === 'rankB') this.searchEl.placeholder = '検索（例：play / 遊ぶ）';
+                if (type === 'rankC') this.searchEl.placeholder = '検索（例：mountain / 山）';
+            }
         }
 
         if (!this.contentEl) return;
@@ -37,18 +75,59 @@ const ReferenceModule = {
         this.contentEl.innerHTML = '<div class="loading">読み込み中...</div>';
 
         try {
-            const dataFile = type === 'words' ? 'data/frequent_words.json' : 'data/frequent_phrases.json';
+            let dataFile = 'data/frequent_words.json';
+            if (type === 'phrases') dataFile = 'data/frequent_phrases.json';
+            if (type === 'rankA') dataFile = 'data/rankA_words.json';
+            if (type === 'rankB') dataFile = 'data/rankB_words.json';
+            if (type === 'rankC') dataFile = 'data/rankC_words.json';
             const response = await fetch(dataFile);
             const data = await response.json();
-            this.allItems = data.items || [];
+            this.allItems = (data.items || []).map((it, idx) => ({ ...it, _no: (it._no ?? (idx + 1)) }));
             this.categories = Array.from(new Set(this.allItems.map(i => i.category).filter(Boolean))).sort((a,b)=>a.localeCompare(b,'ja'));
 
             this.populateCategories();
             this.bindEvents();
+
+            // 2重チェック（検証レポートの要約表示）: rankA/B/Cのみ
+            this.updateValidationBanner();
             this.render();
         } catch (e) {
             console.error(e);
             this.contentEl.innerHTML = '<div class="error">読み込みに失敗しました。オフラインの場合は一度オンラインで開いてください。</div>';
+        }
+    },
+
+    async updateValidationBanner() {
+        if (!this.validateEl) return;
+        // phrases screen: nothing to validate here
+        if (this.type === 'phrases') {
+            this.validateEl.innerHTML = '';
+            return;
+        }
+        // rank lists only
+        if (!(this.type === 'rankA' || this.type === 'rankB' || this.type === 'rankC')) {
+            this.validateEl.innerHTML = '';
+            return;
+        }
+
+        // Non-blocking UI
+        this.validateEl.textContent = '自動チェック: 読み込み中...';
+        try {
+            const sum = await ValidationManager.getSummaryFor(this.type);
+            if (!sum || !sum.counts) {
+                this.validateEl.textContent = '';
+                return;
+            }
+            const total = sum.counts.total ?? 0;
+            const issues = sum.counts.issues ?? 0;
+            if (issues === 0) {
+                this.validateEl.innerHTML = `<span class="ok">自動チェック: OK</span> <span class="muted">（${total}件）</span>`;
+            } else {
+                this.validateEl.innerHTML = `<span class="warn">自動チェック: 要確認 ${issues}件</span> <span class="muted">（${total}件中）</span>`;
+            }
+        } catch (e) {
+            console.warn(e);
+            this.validateEl.textContent = '';
         }
     },
 
@@ -106,7 +185,7 @@ const ReferenceModule = {
                 }
 
                 // Flip (words only)
-                if (this.type === 'words') {
+                if (this.type !== 'phrases') {
                     const card = t.closest?.('.flip-card');
                     if (card) {
                         // Ignore clicks on inputs
@@ -124,7 +203,10 @@ const ReferenceModule = {
         // Update memorized counts
         const memMap = StorageManager.getReferenceMemorizedMap(this.type);
         const totalCount = this.allItems.length;
-        const memCount = Object.keys(memMap).filter(k => memMap[k]).length;
+        const memCount = this.allItems.filter(it => {
+            const key = this.getItemKey(it);
+            return key ? StorageManager.isReferenceMemorized(this.type, key) : false;
+        }).length;
         if (this.memCountEl) {
             this.memCountEl.textContent = `記憶済み ${memCount}/${totalCount}`;
         }
@@ -143,7 +225,7 @@ const ReferenceModule = {
 
             if (!q) return true;
 
-            const hay = this.type === 'words'
+            const hay = this.type !== 'phrases'
                 ? `${item.word} ${item.meaning} ${item.example?.en || ''} ${item.example?.ja || ''}`
                 : `${item.phrase} ${item.meaning} ${item.example?.en || ''} ${item.example?.ja || ''}`;
 
@@ -156,12 +238,12 @@ const ReferenceModule = {
         }
 
         const html = filtered.map((item, idx) => {
-            const num = idx + 1;
+            const num = (item._no ?? (idx + 1));
             const key = this.getItemKey(item);
             const isMem = key ? StorageManager.isReferenceMemorized(this.type, key) : false;
             const catLabel = this.escape(item.category || '');
 
-            if (this.type === 'words') {
+            if (this.type !== 'phrases') {
                 const supp = this.getWordSupplement(item);
                 return `
                     <div class="ref-item card flip-card" data-item-key="${this.escape(key)}">
@@ -242,7 +324,15 @@ const ReferenceModule = {
         return String(key || '').trim();
     },
 
-    derivePos(category) {
+    derivePos(word, category) {
+        const w = String(word || '').trim().toLowerCase();
+        // Use safe POS from data when available
+        // (rank lists generated from CSV may include item.info.pos)
+        if (w) {
+            const safe = (this._posSafeMap && this._posSafeMap[w]) ? this._posSafeMap[w] : null;
+            if (safe) return safe;
+        }
+
         const c = String(category || '');
         if (c.includes('動詞')) return '動詞';
         if (c.includes('名詞')) return '名詞';
@@ -251,31 +341,44 @@ const ReferenceModule = {
         if (c.includes('前置詞')) return '前置詞';
         if (c.includes('代名詞')) return '代名詞';
         if (c.includes('接続詞')) return '接続詞';
-        return '（カテゴリから推定）';
+        return '不明';
     },
 
     // Provide light-weight supplemental info for the back side of word cards
     getWordSupplement(item) {
         const word = String(item.word || '').trim();
-        const pos = this.derivePos(item.category);
+        const posFromData = item?.info?.pos ? String(item.info.pos).trim() : '';
+        // Minimal safe POS: if item.info.pos exists, trust it; otherwise derive from category (for non-rank lists)
+        const pos = posFromData || this.derivePos(word, item.category);
 
         const rows = [];
-        rows.push({ label: '品詞', value: pos });
-        if (item.category) rows.push({ label: 'カテゴリ', value: String(item.category) });
-        if (item.meaning) rows.push({ label: '意味', value: String(item.meaning) });
-
-        // Simple conjugation hints for verbs
-        if (pos === '動詞' && word) {
-            const forms = this.deriveVerbForms(word);
-            rows.push({ label: '三単現', value: forms.third });
-            rows.push({ label: '進行形', value: forms.ing });
-            rows.push({ label: '過去形', value: forms.past });
-            rows.push({ label: '過去分詞', value: forms.pp });
-            rows.push({ label: 'メモ', value: '不規則動詞は例外が多いので、必要なら例文と音声で確認しよう' });
-        } else {
-            rows.push({ label: '読み/発音', value: '🔊ボタンで確認できます' });
+        // Rank info (if present)
+        if (item?.info?.rank) {
+            rows.push({ label: 'ランク', value: `Rank ${String(item.info.rank)}` });
         }
 
+        // 表記情報（確実に正しい）
+        if (word) {
+            rows.push({ label: '文字数', value: `${word.length}` });
+            const lower = word.toLowerCase();
+            const upper = word.toUpperCase();
+            if (word !== lower) rows.push({ label: '小文字', value: lower });
+            if (word !== upper) rows.push({ label: '大文字', value: upper });
+        }
+
+        // Meaning/category
+        if (pos && pos !== '不明') rows.push({ label: '品詞（確実）', value: pos });
+        if (item.category) rows.push({ label: '区分', value: String(item.category) });
+        if (item.meaning) rows.push({ label: '意味', value: String(item.meaning) });
+
+        // Show only what we can keep accurate.
+        // Conjugation hints: show 3rd person singular only, and only when the category clearly indicates a verb.
+        if (pos === '動詞' && word && /^[A-Za-z]+$/.test(word)) {
+            rows.push({ label: '三単現（現在）', value: this.toThirdPerson(word.toLowerCase()) });
+            rows.push({ label: '注意', value: '三単現は「主語が he / she / it / 単数名詞」のときに使います。' });
+        }
+
+        rows.push({ label: '発音', value: '🔊ボタン（例文）で確認できます' });
         return rows;
     },
 
@@ -345,13 +448,39 @@ const ReferenceModule = {
     },
 
     toThirdPerson(w) {
-        if (w.endsWith('s') || w.endsWith('x') || w.endsWith('z') || w.endsWith('ch') || w.endsWith('sh')) {
-            return `${w}es`;
+        const base = String(w || '').toLowerCase();
+
+        // Common irregular present forms
+        const irregular = {
+            be: 'is',
+            have: 'has',
+            do: 'does',
+            go: 'goes'
+        };
+        if (irregular[base]) return irregular[base];
+
+        // -s, -x, -ch, -sh -> -es
+        if (base.endsWith('s') || base.endsWith('x') || base.endsWith('ch') || base.endsWith('sh')) {
+            return `${base}es`;
         }
-        if (w.endsWith('y') && !'aeiou'.includes(w[w.length - 2] || '')) {
-            return `${w.slice(0, -1)}ies`;
+
+        // -z: quiz -> quizzes, buzz -> buzzes
+        if (base.endsWith('z')) {
+            if (base.endsWith('zz')) return `${base}es`;
+            return `${base}zes`;
         }
-        return `${w}s`;
+
+        // consonant + y -> ies
+        if (base.endsWith('y') && base.length >= 2 && !'aeiou'.includes(base[base.length - 2])) {
+            return `${base.slice(0, -1)}ies`;
+        }
+
+        // verbs ending with -o typically take -es (go -> goes, do handled above)
+        if (base.endsWith('o')) {
+            return `${base}es`;
+        }
+
+        return `${base}s`;
     },
 
     toIng(w) {

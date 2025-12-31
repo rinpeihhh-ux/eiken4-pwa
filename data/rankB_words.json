@@ -1,0 +1,3000 @@
+{
+  "items": [
+    {
+      "_no": 1,
+      "word": "visit",
+      "meaning": "訪れる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"visit\".",
+        "ja": "「visit」は「訪れる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 2,
+      "word": "stay",
+      "meaning": "滞在する",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"stay\".",
+        "ja": "「stay」は「滞在する」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 3,
+      "word": "enjoy",
+      "meaning": "楽しむ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"enjoy\".",
+        "ja": "「enjoy」は「楽しむ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 4,
+      "word": "learn",
+      "meaning": "学ぶ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"learn\".",
+        "ja": "「learn」は「学ぶ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 5,
+      "word": "teach",
+      "meaning": "教える",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"teach\".",
+        "ja": "「teach」は「教える」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 6,
+      "word": "remember",
+      "meaning": "覚えている",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"remember\".",
+        "ja": "「remember」は「覚えている」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 7,
+      "word": "forget",
+      "meaning": "忘れる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"forget\".",
+        "ja": "「forget」は「忘れる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 8,
+      "word": "believe",
+      "meaning": "信じる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"believe\".",
+        "ja": "「believe」は「信じる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 9,
+      "word": "hope",
+      "meaning": "望む",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"hope\".",
+        "ja": "「hope」は「望む」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 10,
+      "word": "wish",
+      "meaning": "願う",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"wish\".",
+        "ja": "「wish」は「願う」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 11,
+      "word": "try",
+      "meaning": "試す・努力する",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"try\".",
+        "ja": "「try」は「試す・努力する」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 12,
+      "word": "bring",
+      "meaning": "持ってくる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"bring\".",
+        "ja": "「bring」は「持ってくる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 13,
+      "word": "carry",
+      "meaning": "運ぶ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"carry\".",
+        "ja": "「carry」は「運ぶ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 14,
+      "word": "keep",
+      "meaning": "保つ・飼う",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"keep\".",
+        "ja": "「keep」は「保つ・飼う」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 15,
+      "word": "leave",
+      "meaning": "去る・出発する・残す",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"leave\".",
+        "ja": "「leave」は「去る・出発する・残す」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 16,
+      "word": "become",
+      "meaning": "～になる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"become\".",
+        "ja": "「become」は「～になる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 17,
+      "word": "happen",
+      "meaning": "起こる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"happen\".",
+        "ja": "「happen」は「起こる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 18,
+      "word": "feel",
+      "meaning": "感じる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"feel\".",
+        "ja": "「feel」は「感じる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 19,
+      "word": "decide",
+      "meaning": "決める",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"decide\".",
+        "ja": "「decide」は「決める」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 20,
+      "word": "worry",
+      "meaning": "心配する",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"worry\".",
+        "ja": "「worry」は「心配する」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 21,
+      "word": "invite",
+      "meaning": "招待する",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"invite\".",
+        "ja": "「invite」は「招待する」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 22,
+      "word": "answer",
+      "meaning": "答える",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"answer\".",
+        "ja": "「answer」は「答える」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 23,
+      "word": "borrow",
+      "meaning": "借りる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"borrow\".",
+        "ja": "「borrow」は「借りる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 24,
+      "word": "lend",
+      "meaning": "貸す",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"lend\".",
+        "ja": "「lend」は「貸す」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 25,
+      "word": "mean",
+      "meaning": "意味する",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"mean\".",
+        "ja": "「mean」は「意味する」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 26,
+      "word": "understand",
+      "meaning": "理解する",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"understand\".",
+        "ja": "「understand」は「理解する」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 27,
+      "word": "laugh",
+      "meaning": "笑う",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"laugh\".",
+        "ja": "「laugh」は「笑う」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 28,
+      "word": "smile",
+      "meaning": "微笑む",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"smile\".",
+        "ja": "「smile」は「微笑む」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 29,
+      "word": "cry",
+      "meaning": "泣く",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"cry\".",
+        "ja": "「cry」は「泣く」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 30,
+      "word": "swim",
+      "meaning": "泳ぐ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"swim\".",
+        "ja": "「swim」は「泳ぐ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 31,
+      "word": "climb",
+      "meaning": "登る",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"climb\".",
+        "ja": "「climb」は「登る」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 32,
+      "word": "sing",
+      "meaning": "歌う",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"sing\".",
+        "ja": "「sing」は「歌う」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 33,
+      "word": "dance",
+      "meaning": "踊る",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"dance\".",
+        "ja": "「dance」は「踊る」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 34,
+      "word": "cook",
+      "meaning": "料理する",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"cook\".",
+        "ja": "「cook」は「料理する」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 35,
+      "word": "clean",
+      "meaning": "掃除する",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"clean\".",
+        "ja": "「clean」は「掃除する」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 36,
+      "word": "wash",
+      "meaning": "洗う",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"wash\".",
+        "ja": "「wash」は「洗う」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 37,
+      "word": "paint",
+      "meaning": "塗る・描く",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"paint\".",
+        "ja": "「paint」は「塗る・描く」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 38,
+      "word": "draw",
+      "meaning": "描く",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"draw\".",
+        "ja": "「draw」は「描く」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 39,
+      "word": "build",
+      "meaning": "建てる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"build\".",
+        "ja": "「build」は「建てる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 40,
+      "word": "sell",
+      "meaning": "売る",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"sell\".",
+        "ja": "「sell」は「売る」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 41,
+      "word": "send",
+      "meaning": "送る",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"send\".",
+        "ja": "「send」は「送る」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 42,
+      "word": "show",
+      "meaning": "見せる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"show\".",
+        "ja": "「show」は「見せる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 43,
+      "word": "catch",
+      "meaning": "捕まえる",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"catch\".",
+        "ja": "「catch」は「捕まえる」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 44,
+      "word": "hold",
+      "meaning": "持つ・開催する",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"hold\".",
+        "ja": "「hold」は「持つ・開催する」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 45,
+      "word": "library",
+      "meaning": "図書館",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"library\".",
+        "ja": "「library」は「図書館」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 46,
+      "word": "park",
+      "meaning": "公園",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"park\".",
+        "ja": "「park」は「公園」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 47,
+      "word": "hospital",
+      "meaning": "病院",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"hospital\".",
+        "ja": "「hospital」は「病院」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 48,
+      "word": "station",
+      "meaning": "駅",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"station\".",
+        "ja": "「station」は「駅」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 49,
+      "word": "airport",
+      "meaning": "空港",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"airport\".",
+        "ja": "「airport」は「空港」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 50,
+      "word": "store",
+      "meaning": "店",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"store\".",
+        "ja": "「store」は「店」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 51,
+      "word": "shop",
+      "meaning": "店・買い物をする",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"shop\".",
+        "ja": "「shop」は「店・買い物をする」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 52,
+      "word": "restaurant",
+      "meaning": "レストラン",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"restaurant\".",
+        "ja": "「restaurant」は「レストラン」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 53,
+      "word": "museum",
+      "meaning": "博物館・美術館",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"museum\".",
+        "ja": "「museum」は「博物館・美術館」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 54,
+      "word": "zoo",
+      "meaning": "動物園",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"zoo\".",
+        "ja": "「zoo」は「動物園」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 55,
+      "word": "bank",
+      "meaning": "銀行",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"bank\".",
+        "ja": "「bank」は「銀行」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 56,
+      "word": "post office",
+      "meaning": "郵便局",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"post office\".",
+        "ja": "「post office」は「郵便局」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 57,
+      "word": "city",
+      "meaning": "都市",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"city\".",
+        "ja": "「city」は「都市」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 58,
+      "word": "town",
+      "meaning": "町",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"town\".",
+        "ja": "「town」は「町」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 59,
+      "word": "village",
+      "meaning": "村",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"village\".",
+        "ja": "「village」は「村」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 60,
+      "word": "country",
+      "meaning": "国・田舎",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"country\".",
+        "ja": "「country」は「国・田舎」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 61,
+      "word": "world",
+      "meaning": "世界",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"world\".",
+        "ja": "「world」は「世界」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 62,
+      "word": "island",
+      "meaning": "島",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"island\".",
+        "ja": "「island」は「島」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 63,
+      "word": "mountain",
+      "meaning": "山",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"mountain\".",
+        "ja": "「mountain」は「山」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 64,
+      "word": "river",
+      "meaning": "川",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"river\".",
+        "ja": "「river」は「川」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 65,
+      "word": "lake",
+      "meaning": "湖",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"lake\".",
+        "ja": "「lake」は「湖」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 66,
+      "word": "sea",
+      "meaning": "海",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"sea\".",
+        "ja": "「sea」は「海」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 67,
+      "word": "beach",
+      "meaning": "浜辺",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"beach\".",
+        "ja": "「beach」は「浜辺」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 68,
+      "word": "nature",
+      "meaning": "自然",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"nature\".",
+        "ja": "「nature」は「自然」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 69,
+      "word": "earth",
+      "meaning": "地球",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"earth\".",
+        "ja": "「earth」は「地球」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 70,
+      "word": "sky",
+      "meaning": "空",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"sky\".",
+        "ja": "「sky」は「空」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 71,
+      "word": "sun",
+      "meaning": "太陽",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"sun\".",
+        "ja": "「sun」は「太陽」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 72,
+      "word": "moon",
+      "meaning": "月",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"moon\".",
+        "ja": "「moon」は「月」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 73,
+      "word": "star",
+      "meaning": "星",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"star\".",
+        "ja": "「star」は「星」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 74,
+      "word": "weather",
+      "meaning": "天気",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"weather\".",
+        "ja": "「weather」は「天気」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 75,
+      "word": "rain",
+      "meaning": "雨",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"rain\".",
+        "ja": "「rain」は「雨」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 76,
+      "word": "snow",
+      "meaning": "雪",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"snow\".",
+        "ja": "「snow」は「雪」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 77,
+      "word": "wind",
+      "meaning": "風",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"wind\".",
+        "ja": "「wind」は「風」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 78,
+      "word": "cloud",
+      "meaning": "雲",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"cloud\".",
+        "ja": "「cloud」は「雲」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 79,
+      "word": "sunny",
+      "meaning": "晴れた",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"sunny\".",
+        "ja": "「sunny」は「晴れた」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 80,
+      "word": "rainy",
+      "meaning": "雨の",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"rainy\".",
+        "ja": "「rainy」は「雨の」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 81,
+      "word": "cloudy",
+      "meaning": "曇った",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"cloudy\".",
+        "ja": "「cloudy」は「曇った」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 82,
+      "word": "snowy",
+      "meaning": "雪の",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"snowy\".",
+        "ja": "「snowy」は「雪の」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 83,
+      "word": "food",
+      "meaning": "食べ物",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"food\".",
+        "ja": "「food」は「食べ物」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 84,
+      "word": "breakfast",
+      "meaning": "朝食",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"breakfast\".",
+        "ja": "「breakfast」は「朝食」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 85,
+      "word": "lunch",
+      "meaning": "昼食",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"lunch\".",
+        "ja": "「lunch」は「昼食」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 86,
+      "word": "dinner",
+      "meaning": "夕食",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"dinner\".",
+        "ja": "「dinner」は「夕食」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 87,
+      "word": "vegetable",
+      "meaning": "野菜",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"vegetable\".",
+        "ja": "「vegetable」は「野菜」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 88,
+      "word": "fruit",
+      "meaning": "果物",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"fruit\".",
+        "ja": "「fruit」は「果物」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 89,
+      "word": "rice",
+      "meaning": "米・ごはん",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"rice\".",
+        "ja": "「rice」は「米・ごはん」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 90,
+      "word": "bread",
+      "meaning": "パン",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"bread\".",
+        "ja": "「bread」は「パン」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 91,
+      "word": "milk",
+      "meaning": "牛乳",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"milk\".",
+        "ja": "「milk」は「牛乳」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 92,
+      "word": "water",
+      "meaning": "水",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"water\".",
+        "ja": "「water」は「水」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 93,
+      "word": "tea",
+      "meaning": "茶",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"tea\".",
+        "ja": "「tea」は「茶」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 94,
+      "word": "coffee",
+      "meaning": "コーヒー",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"coffee\".",
+        "ja": "「coffee」は「コーヒー」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 95,
+      "word": "cake",
+      "meaning": "ケーキ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"cake\".",
+        "ja": "「cake」は「ケーキ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 96,
+      "word": "egg",
+      "meaning": "卵",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"egg\".",
+        "ja": "「egg」は「卵」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 97,
+      "word": "meat",
+      "meaning": "肉",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"meat\".",
+        "ja": "「meat」は「肉」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 98,
+      "word": "fish",
+      "meaning": "魚",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"fish\".",
+        "ja": "「fish」は「魚」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 99,
+      "word": "apple",
+      "meaning": "リンゴ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"apple\".",
+        "ja": "「apple」は「リンゴ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 100,
+      "word": "orange",
+      "meaning": "オレンジ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"orange\".",
+        "ja": "「orange」は「オレンジ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 101,
+      "word": "hobby",
+      "meaning": "趣味",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"hobby\".",
+        "ja": "「hobby」は「趣味」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 102,
+      "word": "music",
+      "meaning": "音楽",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"music\".",
+        "ja": "「music」は「音楽」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 103,
+      "word": "song",
+      "meaning": "歌",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"song\".",
+        "ja": "「song」は「歌」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 104,
+      "word": "sport",
+      "meaning": "スポーツ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"sport\".",
+        "ja": "「sport」は「スポーツ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 105,
+      "word": "game",
+      "meaning": "試合・ゲーム",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"game\".",
+        "ja": "「game」は「試合・ゲーム」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 106,
+      "word": "soccer",
+      "meaning": "サッカー",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"soccer\".",
+        "ja": "「soccer」は「サッカー」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 107,
+      "word": "baseball",
+      "meaning": "野球",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"baseball\".",
+        "ja": "「baseball」は「野球」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 108,
+      "word": "tennis",
+      "meaning": "テニス",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"tennis\".",
+        "ja": "「tennis」は「テニス」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 109,
+      "word": "basketball",
+      "meaning": "バスケットボール",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"basketball\".",
+        "ja": "「basketball」は「バスケットボール」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 110,
+      "word": "piano",
+      "meaning": "ピアノ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"piano\".",
+        "ja": "「piano」は「ピアノ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 111,
+      "word": "guitar",
+      "meaning": "ギター",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"guitar\".",
+        "ja": "「guitar」は「ギター」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 112,
+      "word": "violin",
+      "meaning": "バイオリン",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"violin\".",
+        "ja": "「violin」は「バイオリン」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 113,
+      "word": "animal",
+      "meaning": "動物",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"animal\".",
+        "ja": "「animal」は「動物」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 114,
+      "word": "dog",
+      "meaning": "犬",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"dog\".",
+        "ja": "「dog」は「犬」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 115,
+      "word": "cat",
+      "meaning": "猫",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"cat\".",
+        "ja": "「cat」は「猫」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 116,
+      "word": "bird",
+      "meaning": "鳥",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"bird\".",
+        "ja": "「bird」は「鳥」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 117,
+      "word": "rabbit",
+      "meaning": "ウサギ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"rabbit\".",
+        "ja": "「rabbit」は「ウサギ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 118,
+      "word": "horse",
+      "meaning": "馬",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"horse\".",
+        "ja": "「horse」は「馬」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 119,
+      "word": "bear",
+      "meaning": "クマ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"bear\".",
+        "ja": "「bear」は「クマ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 120,
+      "word": "lion",
+      "meaning": "ライオン",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"lion\".",
+        "ja": "「lion」は「ライオン」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 121,
+      "word": "elephant",
+      "meaning": "ゾウ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"elephant\".",
+        "ja": "「elephant」は「ゾウ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 122,
+      "word": "monkey",
+      "meaning": "サル",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"monkey\".",
+        "ja": "「monkey」は「サル」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 123,
+      "word": "body",
+      "meaning": "体",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"body\".",
+        "ja": "「body」は「体」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 124,
+      "word": "head",
+      "meaning": "頭",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"head\".",
+        "ja": "「head」は「頭」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 125,
+      "word": "face",
+      "meaning": "顔",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"face\".",
+        "ja": "「face」は「顔」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 126,
+      "word": "eye",
+      "meaning": "目",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"eye\".",
+        "ja": "「eye」は「目」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 127,
+      "word": "ear",
+      "meaning": "耳",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"ear\".",
+        "ja": "「ear」は「耳」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 128,
+      "word": "nose",
+      "meaning": "鼻",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"nose\".",
+        "ja": "「nose」は「鼻」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 129,
+      "word": "mouth",
+      "meaning": "口",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"mouth\".",
+        "ja": "「mouth」は「口」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 130,
+      "word": "hand",
+      "meaning": "手",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"hand\".",
+        "ja": "「hand」は「手」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 131,
+      "word": "arm",
+      "meaning": "腕",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"arm\".",
+        "ja": "「arm」は「腕」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 132,
+      "word": "leg",
+      "meaning": "脚",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"leg\".",
+        "ja": "「leg」は「脚」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 133,
+      "word": "foot",
+      "meaning": "足",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"foot\".",
+        "ja": "「foot」は「足」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 134,
+      "word": "hair",
+      "meaning": "髪",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"hair\".",
+        "ja": "「hair」は「髪」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 135,
+      "word": "finger",
+      "meaning": "指",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"finger\".",
+        "ja": "「finger」は「指」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 136,
+      "word": "heart",
+      "meaning": "心・心臓",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"heart\".",
+        "ja": "「heart」は「心・心臓」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 137,
+      "word": "clothes",
+      "meaning": "服",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"clothes\".",
+        "ja": "「clothes」は「服」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 138,
+      "word": "shirt",
+      "meaning": "シャツ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"shirt\".",
+        "ja": "「shirt」は「シャツ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 139,
+      "word": "pants",
+      "meaning": "ズボン",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"pants\".",
+        "ja": "「pants」は「ズボン」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 140,
+      "word": "dress",
+      "meaning": "ドレス",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"dress\".",
+        "ja": "「dress」は「ドレス」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 141,
+      "word": "coat",
+      "meaning": "コート",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"coat\".",
+        "ja": "「coat」は「コート」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 142,
+      "word": "hat",
+      "meaning": "帽子",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"hat\".",
+        "ja": "「hat」は「帽子」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 143,
+      "word": "shoe",
+      "meaning": "靴",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"shoe\".",
+        "ja": "「shoe」は「靴」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 144,
+      "word": "bag",
+      "meaning": "かばん",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"bag\".",
+        "ja": "「bag」は「かばん」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 145,
+      "word": "watch",
+      "meaning": "時計・見る",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"watch\".",
+        "ja": "「watch」は「時計・見る」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 146,
+      "word": "glasses",
+      "meaning": "眼鏡",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"glasses\".",
+        "ja": "「glasses」は「眼鏡」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 147,
+      "word": "car",
+      "meaning": "車",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"car\".",
+        "ja": "「car」は「車」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 148,
+      "word": "bus",
+      "meaning": "バス",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"bus\".",
+        "ja": "「bus」は「バス」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 149,
+      "word": "train",
+      "meaning": "列車",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"train\".",
+        "ja": "「train」は「列車」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 150,
+      "word": "bike",
+      "meaning": "自転車",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"bike\".",
+        "ja": "「bike」は「自転車」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 151,
+      "word": "plane",
+      "meaning": "飛行機",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"plane\".",
+        "ja": "「plane」は「飛行機」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 152,
+      "word": "boat",
+      "meaning": "ボート",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"boat\".",
+        "ja": "「boat」は「ボート」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 153,
+      "word": "ship",
+      "meaning": "船",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"ship\".",
+        "ja": "「ship」は「船」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 154,
+      "word": "taxi",
+      "meaning": "タクシー",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"taxi\".",
+        "ja": "「taxi」は「タクシー」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 155,
+      "word": "computer",
+      "meaning": "コンピューター",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"computer\".",
+        "ja": "「computer」は「コンピューター」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 156,
+      "word": "phone",
+      "meaning": "電話",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"phone\".",
+        "ja": "「phone」は「電話」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 157,
+      "word": "camera",
+      "meaning": "カメラ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"camera\".",
+        "ja": "「camera」は「カメラ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 158,
+      "word": "radio",
+      "meaning": "ラジオ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"radio\".",
+        "ja": "「radio」は「ラジオ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 159,
+      "word": "television",
+      "meaning": "テレビ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"television\".",
+        "ja": "「television」は「テレビ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 160,
+      "word": "beautiful",
+      "meaning": "美しい",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"beautiful\".",
+        "ja": "「beautiful」は「美しい」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 161,
+      "word": "famous",
+      "meaning": "有名な",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"famous\".",
+        "ja": "「famous」は「有名な」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 162,
+      "word": "popular",
+      "meaning": "人気のある",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"popular\".",
+        "ja": "「popular」は「人気のある」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 163,
+      "word": "favorite",
+      "meaning": "お気に入りの",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"favorite\".",
+        "ja": "「favorite」は「お気に入りの」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 164,
+      "word": "easy",
+      "meaning": "簡単な",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"easy\".",
+        "ja": "「easy」は「簡単な」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 165,
+      "word": "difficult",
+      "meaning": "難しい",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"difficult\".",
+        "ja": "「difficult」は「難しい」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 166,
+      "word": "kind",
+      "meaning": "親切な・種類",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"kind\".",
+        "ja": "「kind」は「親切な・種類」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 167,
+      "word": "strong",
+      "meaning": "強い",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"strong\".",
+        "ja": "「strong」は「強い」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 168,
+      "word": "weak",
+      "meaning": "弱い",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"weak\".",
+        "ja": "「weak」は「弱い」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 169,
+      "word": "fast",
+      "meaning": "速い",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"fast\".",
+        "ja": "「fast」は「速い」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 170,
+      "word": "slow",
+      "meaning": "遅い",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"slow\".",
+        "ja": "「slow」は「遅い」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 171,
+      "word": "loud",
+      "meaning": "うるさい",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"loud\".",
+        "ja": "「loud」は「うるさい」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 172,
+      "word": "quiet",
+      "meaning": "静かな",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"quiet\".",
+        "ja": "「quiet」は「静かな」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 173,
+      "word": "rich",
+      "meaning": "豊かな・金持ちの",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"rich\".",
+        "ja": "「rich」は「豊かな・金持ちの」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 174,
+      "word": "poor",
+      "meaning": "貧しい・下手な",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"poor\".",
+        "ja": "「poor」は「貧しい・下手な」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 175,
+      "word": "healthy",
+      "meaning": "健康な",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"healthy\".",
+        "ja": "「healthy」は「健康な」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 176,
+      "word": "sick",
+      "meaning": "病気の",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"sick\".",
+        "ja": "「sick」は「病気の」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 177,
+      "word": "hungry",
+      "meaning": "空腹の",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"hungry\".",
+        "ja": "「hungry」は「空腹の」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 178,
+      "word": "thirsty",
+      "meaning": "のどが渇いた",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"thirsty\".",
+        "ja": "「thirsty」は「のどが渇いた」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 179,
+      "word": "heavy",
+      "meaning": "重い",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"heavy\".",
+        "ja": "「heavy」は「重い」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 180,
+      "word": "light",
+      "meaning": "軽い・光",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"light\".",
+        "ja": "「light」は「軽い・光」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 181,
+      "word": "full",
+      "meaning": "いっぱいの",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"full\".",
+        "ja": "「full」は「いっぱいの」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 182,
+      "word": "empty",
+      "meaning": "空の",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"empty\".",
+        "ja": "「empty」は「空の」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 183,
+      "word": "clean",
+      "meaning": "きれいな",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"clean\".",
+        "ja": "「clean」は「きれいな」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 184,
+      "word": "dirty",
+      "meaning": "汚い",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"dirty\".",
+        "ja": "「dirty」は「汚い」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 185,
+      "word": "safe",
+      "meaning": "安全な",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"safe\".",
+        "ja": "「safe」は「安全な」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 186,
+      "word": "dangerous",
+      "meaning": "危険な",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"dangerous\".",
+        "ja": "「dangerous」は「危険な」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 187,
+      "word": "important",
+      "meaning": "大切な",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"important\".",
+        "ja": "「important」は「大切な」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 188,
+      "word": "useful",
+      "meaning": "役に立つ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"useful\".",
+        "ja": "「useful」は「役に立つ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 189,
+      "word": "special",
+      "meaning": "特別な",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"special\".",
+        "ja": "「special」は「特別な」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 190,
+      "word": "natural",
+      "meaning": "自然の",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"natural\".",
+        "ja": "「natural」は「自然の」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 191,
+      "word": "real",
+      "meaning": "本当の",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"real\".",
+        "ja": "「real」は「本当の」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 192,
+      "word": "true",
+      "meaning": "真実の",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"true\".",
+        "ja": "「true」は「真実の」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 193,
+      "word": "false",
+      "meaning": "誤った",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"false\".",
+        "ja": "「false」は「誤った」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 194,
+      "word": "interesting",
+      "meaning": "興味深い",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"interesting\".",
+        "ja": "「interesting」は「興味深い」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 195,
+      "word": "excited",
+      "meaning": "興奮した",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"excited\".",
+        "ja": "「excited」は「興奮した」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 196,
+      "word": "surprised",
+      "meaning": "驚いた",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"surprised\".",
+        "ja": "「surprised」は「驚いた」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 197,
+      "word": "already",
+      "meaning": "すでに",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"already\".",
+        "ja": "「already」は「すでに」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 198,
+      "word": "still",
+      "meaning": "まだ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"still\".",
+        "ja": "「still」は「まだ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 199,
+      "word": "yet",
+      "meaning": "（疑問で）もう・（否定で）まだ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"yet\".",
+        "ja": "「yet」は「（疑問で）もう・（否定で）まだ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 200,
+      "word": "only",
+      "meaning": "～だけ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"only\".",
+        "ja": "「only」は「～だけ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 201,
+      "word": "just",
+      "meaning": "ちょうど",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"just\".",
+        "ja": "「just」は「ちょうど」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 202,
+      "word": "even",
+      "meaning": "～でさえ",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"even\".",
+        "ja": "「even」は「～でさえ」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 203,
+      "word": "away",
+      "meaning": "離れて",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"away\".",
+        "ja": "「away」は「離れて」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 204,
+      "word": "back",
+      "meaning": "後ろへ・背中",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"back\".",
+        "ja": "「back」は「後ろへ・背中」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 205,
+      "word": "maybe",
+      "meaning": "たぶん",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"maybe\".",
+        "ja": "「maybe」は「たぶん」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 206,
+      "word": "perhaps",
+      "meaning": "ひょっとすると",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"perhaps\".",
+        "ja": "「perhaps」は「ひょっとすると」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 207,
+      "word": "if",
+      "meaning": "もし～なら",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"if\".",
+        "ja": "「if」は「もし～なら」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 208,
+      "word": "while",
+      "meaning": "～する間に",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"while\".",
+        "ja": "「while」は「～する間に」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 209,
+      "word": "than",
+      "meaning": "～よりも",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"than\".",
+        "ja": "「than」は「～よりも」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 210,
+      "word": "since",
+      "meaning": "～以来",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"since\".",
+        "ja": "「since」は「～以来」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 211,
+      "word": "until",
+      "meaning": "～までずっと",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"until\".",
+        "ja": "「until」は「～までずっと」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 212,
+      "word": "without",
+      "meaning": "～なしで",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"without\".",
+        "ja": "「without」は「～なしで」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 213,
+      "word": "during",
+      "meaning": "～の間中",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"during\".",
+        "ja": "「during」は「～の間中」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    },
+    {
+      "_no": 214,
+      "word": "through",
+      "meaning": "～を通して",
+      "category": "頻出",
+      "example": {
+        "en": "The word \"through\".",
+        "ja": "「through」は「～を通して」という意味です。"
+      },
+      "info": {
+        "rank": "B",
+        "pos": ""
+      }
+    }
+  ]
+}

@@ -44,6 +44,7 @@
                 <p id="progress-text">0% 完了</p>
             </div>
 
+            
             <div class="quick-actions">
                 <button id="review-mode-btn" class="action-btn action-btn-review">
                     <span class="action-icon">📝</span>
@@ -59,7 +60,8 @@
                         <span class="action-subtitle">見る</span>
                     </div>
                 </button>
-            
+            </div>
+
             <div class="prep-section">
                 <h2>事前学習・参照</h2>
                 <div class="prep-actions">
@@ -70,13 +72,31 @@
                             <span class="action-subtitle" id="prestudy-subtitle">Day1を始める前に</span>
                         </div>
                     </button>
-                    <button id="freq-words-btn" class="action-btn action-btn-prep">
+
+                    <button id="rankA-words-btn" class="action-btn action-btn-prep">
+                        <span class="action-icon">⭐</span>
+                        <div class="action-info">
+                            <span class="action-title">最頻出単語</span>
+                            <span class="action-subtitle">参照用</span>
+                        </div>
+                    </button>
+
+                    <button id="rankB-words-btn" class="action-btn action-btn-prep">
                         <span class="action-icon">📚</span>
                         <div class="action-info">
                             <span class="action-title">頻出単語</span>
                             <span class="action-subtitle">参照用</span>
                         </div>
                     </button>
+
+                    <button id="rankC-words-btn" class="action-btn action-btn-prep">
+                        <span class="action-icon">🧩</span>
+                        <div class="action-info">
+                            <span class="action-title">よく出る単語</span>
+                            <span class="action-subtitle">参照用</span>
+                        </div>
+                    </button>
+
                     <button id="freq-phrases-btn" class="action-btn action-btn-prep">
                         <span class="action-icon">💬</span>
                         <div class="action-info">
@@ -87,8 +107,6 @@
                 </div>
                 <p class="prep-status" id="prestudy-status"></p>
             </div>
-
-</div>
 
             <div class="day-grid" id="day-grid">
                 <!-- Day cards will be generated here -->
@@ -268,7 +286,7 @@
         <div id="freq-words-screen" class="screen">
             <header class="screen-header">
                 <button class="back-btn" id="freq-words-back-btn">← 戻る</button>
-                <h2>頻出単語（参照用）</h2>
+                <h2 id="freq-words-title">単語（参照用）</h2>
             </header>
 
             <div class="reference-toolbar">
@@ -279,6 +297,7 @@
                     </label>
                     <div class="mem-count" id="freq-words-mem-count">記憶済み 0/0</div>
                 </div>
+                <div class="validate-banner" id="freq-words-validate" aria-live="polite"></div>
                 <input type="text" id="freq-words-search" class="search-input" placeholder="検索（例：go / 行く）">
                 <select id="freq-words-category" class="select-input">
                     <option value="all">すべて</option>
@@ -305,6 +324,7 @@
                     </label>
                     <div class="mem-count" id="freq-phrases-mem-count">記憶済み 0/0</div>
                 </div>
+                <div class="validate-banner" id="freq-phrases-validate" aria-live="polite"></div>
                 <input type="text" id="freq-phrases-search" class="search-input" placeholder="検索（例：look for / 探す）">
                 <select id="freq-phrases-category" class="select-input">
                     <option value="all">すべて</option>
@@ -319,6 +339,7 @@
     <!-- Scripts -->
     <script src="utils/storage.js"></script>
     <script src="utils/audio.js"></script>
+    <script src="utils/validate.js"></script>
     <script src="modules/vocabulary.js"></script>
     <script src="modules/grammar.js"></script>
     <script src="modules/listening.js"></script>

@@ -1,0 +1,40 @@
+{
+  "source": "/mnt/data/eiken4_ranked/polar-chromosphere/word.csv",
+  "files": {
+    "rankA_words.json": {
+      "counts": {
+        "total": 217,
+        "issues": 0
+      },
+      "issues": []
+    },
+    "rankB_words.json": {
+      "counts": {
+        "total": 214,
+        "issues": 0
+      },
+      "issues": []
+    },
+    "rankC_words.json": {
+      "counts": {
+        "total": 299,
+        "issues": 0
+      },
+      "issues": []
+    }
+  },
+  "summary": {
+    "rankA_words.json": {
+      "total": 217,
+      "issues": 0
+    },
+    "rankB_words.json": {
+      "total": 214,
+      "issues": 0
+    },
+    "rankC_words.json": {
+      "total": 299,
+      "issues": 0
+    }
+  }
+}
