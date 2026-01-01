@@ -136,12 +136,18 @@ const app = {
             ReferenceModule.init('rankC');
         });
 
-        document.getElementById('freq-phrases-btn').addEventListener('click', () => {
-            this.showScreen('freq-phrases-screen');
+        const phrasesBtn = document.getElementById('freq-phrases-btn');
+        if (phrasesBtn) phrasesBtn.addEventListener('click', () => {
+            // Fallback: if phrases screen is missing (stale cached HTML), use the words reference screen.
+            const phrasesScreen = document.getElementById('freq-phrases-screen');
+            if (phrasesScreen) {
+                this.showScreen('freq-phrases-screen');
+            } else {
+                this.showScreen('freq-words-screen');
+            }
             ReferenceModule.init('phrases');
         });
-
-        document.getElementById('prestudy-back-btn').addEventListener('click', () => {
+document.getElementById('prestudy-back-btn').addEventListener('click', () => {
             this.showScreen('home-screen');
             this.renderHome();
         });

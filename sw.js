@@ -1,4 +1,4 @@
-const CACHE_NAME = 'eiken4-v5';
+const CACHE_NAME = 'eiken4-v6';
 const urlsToCache = [
     '/',
     '/index.html',

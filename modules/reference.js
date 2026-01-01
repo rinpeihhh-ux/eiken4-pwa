@@ -36,6 +36,17 @@ const ReferenceModule = {
             this.hideMemEl = document.getElementById('freq-phrases-hide-memorized');
             this.memCountEl = document.getElementById('freq-phrases-mem-count');
             this.validateEl = document.getElementById('freq-phrases-validate');
+
+        // Fallback: if phrases screen elements are not present (stale cached HTML), reuse the words reference screen.
+        if (type === 'phrases' && (!this.contentEl || !this.searchEl || !this.categoryEl)) {
+            this.searchEl = document.getElementById('freq-words-search');
+            this.categoryEl = document.getElementById('freq-words-category');
+            this.contentEl = document.getElementById('freq-words-content');
+            this.hideMemEl = document.getElementById('freq-words-hide-memorized');
+            this.memCountEl = document.getElementById('freq-words-mem-count');
+            this.validateEl = document.getElementById('freq-words-validate');
+        }
+
         }
 
         // Update title & UI for word reference screen
@@ -49,6 +60,9 @@ const ReferenceModule = {
                     rankC: 'よく出る単語（参照用）'
                 };
                 titleEl.textContent = titleMap[type] || '単語（参照用）';
+                // If we are rendering phrases on the shared reference screen (fallback), update the title.
+                if (type === 'phrases') titleEl.textContent = '頻出熟語（参照用）';
+
             }
 
             // For rank lists, hide category dropdown (CSV-based words have no reliable POS categories)
